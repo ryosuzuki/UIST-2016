@@ -3,7 +3,7 @@
     /* Our routes go here. You can use the primary REST verbs (GET, POST, PUSH, DELETE)
        "category" is the menu anchor that should be underlined. Make sure it matches */
     $app->get('/', function () use ($app) {
-        $app->redirect('./about');
+        $app->render('Layouts/main.php', array("app" => $app, "view" => "home.php", "category" => "index"));
     });
 
     $app->get('/about', function () use ($app) {
@@ -74,5 +74,5 @@
         $app->render('Layouts/main.php', array("app" => $app, "view" => "sponsors.php",  "category" => "sponsors"));
     });
    $app->get('/archive', function() use ($app) {
-        $app->render('Layouts/main.php', array("app" => $app, "view" => "archive.php", "category" => "archive")); 
+        $app->render('Layouts/main.php', array("app" => $app, "view" => "archive.php", "category" => "archive"));
    });
