@@ -7,25 +7,26 @@
     <link rel="icon" type="image/png" href='<?php echo BASE_PATH; ?>/lib/img/icon-acm.gif'>
     <link rel='stylesheet' type='text/css' href='<?php echo BASE_PATH; ?>/bower_components/semantic-ui/dist/semantic.css' />
     <link rel='stylesheet' type='text/css' href='<?php echo BASE_PATH; ?>/bower_components/fontawesome/css/font-awesome.css' />
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700">
     <link rel='stylesheet' type='text/css' href='<?php echo BASE_PATH; ?>/lib/css/style.css' />
+    <script type='text/javascript' src="<?php echo BASE_PATH; ?>/bower_components/jquery/dist/jquery.js"></script>
     <script type='text/javascript' src="<?php echo BASE_PATH; ?>/bower_components/semantic-ui/dist/semantic.js"></script>
     <script type='text/javascript' src="<?php echo BASE_PATH; ?>/lib/js/site.js"></script>
   </head>
   <body data-category=<?php echo $category?>>
     <?php
       /* Render our header */
-      $app->render('Partials/header.php');
+      // $app->render('Partials/header.php');
+      /* Render the banner */
+      $app->render("Partials/banner.php");
     ?>
     <div class='container'>
       <?php
-        /* Render the banner */
-        $app->render("Partials/banner.php");
-
         /* Render our passed in view name */
         $app->render($view);
 
         /* Render the sponsors */
-        $app->render('Partials/sponsors.php');
+        // $app->render('Partials/sponsors.php');
       ?>
     </div>
     <?php
