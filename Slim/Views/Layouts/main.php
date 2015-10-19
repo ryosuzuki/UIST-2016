@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" name="viewport" content="width=device-width, user-scalable=no" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <title>UIST 2016: 29th ACM UIST Symposium</title>
     <link rel="icon" type="image/png" href='<?php echo BASE_PATH; ?>/lib/img/icon-acm.gif'>
     <link rel='stylesheet' type='text/css' href='<?php echo BASE_PATH; ?>/bower_components/semantic-ui/dist/semantic.css' />
@@ -19,7 +20,6 @@
       <?php $app->render("Partials/menu.php"); ?>
     </div>
     <div class="pusher">
-      <?php $app->render("Partials/banner.php"); ?>
       <div class='container'>
         <?php $app->render($view); ?>
       </div>
