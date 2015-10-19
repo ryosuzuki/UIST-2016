@@ -14,24 +14,16 @@
     <script type='text/javascript' src="<?php echo BASE_PATH; ?>/lib/js/site.js"></script>
   </head>
   <body data-category=<?php echo $category?>>
-    <?php
-      /* Render our header */
-      // $app->render('Partials/header.php');
-      /* Render the banner */
-      $app->render("Partials/banner.php");
-    ?>
-    <div class='container'>
-      <?php
-        /* Render our passed in view name */
-        $app->render($view);
 
-        /* Render the sponsors */
-        // $app->render('Partials/sponsors.php');
-      ?>
+    <div class="ui sidebar vertical inverted menu">
+      <?php $app->render("Partials/menu.php"); ?>
     </div>
-    <?php
-      /* Render the footer */
-      $app->render('Partials/footer.php');
-    ?>
+    <div class="pusher">
+      <?php $app->render("Partials/banner.php"); ?>
+      <div class='container'>
+        <?php $app->render($view); ?>
+      </div>
+      <?php $app->render('Partials/footer.php'); ?>
+    </div>
   </body>
 </html>
