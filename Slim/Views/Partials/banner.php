@@ -1,5 +1,5 @@
 <div class='banner'>
-  <section class="cover" sytle="background:url('/lib/img/background.jpg') center center no-repeat">
+  <section class="cover" sytle="background:url('<?php echo BASE_PATH; ?>/lib/img/background.jpg') center center no-repeat">
     <div class="ui two column centered grid">
       <div class="column centered row">
         <div class="ui secondary pointing fluid seven item inverted menu">

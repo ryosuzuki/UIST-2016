@@ -76,7 +76,7 @@
         <h3 class="text text-spaced text-center">
         <span>General Chair</span>
         </h3>
-        <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+        <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
         <h3 class="text-center">TBA</h3>
       </div>
       <div class="five wide column centered">
@@ -84,11 +84,11 @@
         <span>Program Chairs</span>
         </h3>
         <div style="width:50%;float:left;">
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
         <div style="width:50%;float:left;">
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
       </div>
@@ -96,7 +96,7 @@
         <h3 class="text text-spaced text-center">
         <span>Sponsorship Chair</span>
         </h3>
-        <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+        <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
         <h3 class="text-center">TBA</h3>
       </div>
 
@@ -105,11 +105,11 @@
         <span>Poster Chairs</span>
         </h3>
         <div style="width:50%;float:left;">
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
         <div style="width:50%;float:left;">
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
       </div>
@@ -118,11 +118,11 @@
         <span>Demo Chairs</span>
         </h3>
         <div style="width:50%;float:left;">
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
         <div style="width:50%;float:left;">
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
       </div>
@@ -131,11 +131,11 @@
         <span>Treasurer</span>
         </h3>
         <div style="width:50%;float:left;">
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
         <div style="width:50%;float:left;">
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
       </div>
@@ -145,7 +145,7 @@
         <span>Doctoral Symposium Chair</span>
         </h3>
         <div>
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
       </div>
@@ -154,15 +154,15 @@
         <span>Doctoral Symposium Panelists</span>
         </h3>
         <div style="width:33%;float:left;">
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
         <div style="width:33%;float:left;">
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
         <div style="width:33%;float:left;">
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
       </div>
@@ -173,11 +173,11 @@
         <span>Student Innovation Contest Chairs</span>
         </h3>
         <div style="width:50%;float:left;">
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
         <div style="width:50%;float:left;">
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
       </div>
@@ -186,11 +186,11 @@
         <span>Video Preview Chairs</span>
         </h3>
         <div style="width:50%;float:left;">
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
         <div style="width:50%;float:left;">
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
       </div>
@@ -199,11 +199,11 @@
         <span>Registration Chair</span>
         </h3>
         <div style="width:50%;float:left;">
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
         <div style="width:50%;float:left;">
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
       </div>
@@ -214,7 +214,7 @@
         <span>Keynote Chairs</span>
         </h3>
         <div>
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
       </div>
@@ -223,7 +223,7 @@
         <span>Publicity Chairs</span>
         </h3>
         <div>
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
       </div>
@@ -232,7 +232,7 @@
         <span>Listing Impact Award Chair</span>
         </h3>
         <div>
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
       </div>
@@ -241,7 +241,7 @@
         <span>Web and Social Media Chair</span>
         </h3>
         <div>
-          <img class="ui centered tiny circular image" src="/lib/img/default-user.png">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/default-user.png">
           <h3 class="text-center">TBA</h3>
         </div>
       </div>
