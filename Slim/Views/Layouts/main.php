@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" name="viewport" content="width=device-width, user-scalable=no" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>UIST 2016: 28th ACM UIST Symposium</title>
+    <title>UIST 2016: 29th ACM UIST Symposium</title>
     <link rel="icon" type="image/png" href='<?php echo BASE_PATH; ?>/lib/img/icon-acm.gif'>
     <link rel='stylesheet' type='text/css' href='<?php echo BASE_PATH; ?>/bower_components/semantic-ui/dist/semantic.css' />
     <link rel='stylesheet' type='text/css' href='<?php echo BASE_PATH; ?>/bower_components/fontawesome/css/font-awesome.css' />
