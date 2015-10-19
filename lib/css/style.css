@@ -8,6 +8,7 @@ i {
 }
 
 html {
+  width: 100%;
   position: relative;
   min-height: 100%;
   font-size: 15px;
@@ -15,9 +16,11 @@ html {
 }
 
 body {
+  width: 100%;
   background: #fff;
   margin-bottom: 0;
   padding-bottom: 0;
+  overflow-x: hidden;
   -webkit-text-size-adjust: 100%;
 }
 
@@ -100,8 +103,8 @@ body {
   #menu-button {
     display: block;
     position: absolute;
-    left: 40px;
-    top: 40px;
+    left: 25px;
+    top: 25px;
   }
 }
 
@@ -128,9 +131,6 @@ body {
   margin: 0 25%;
 }
 
-#cover {
-  min-height: 480px;
-}
 
 #cover .stackable.row{
   margin-bottom: 60px;
@@ -153,12 +153,13 @@ p.sub-logo {
 }
 
 #cover {
+  margin-top: 10px;
+  min-height: 480px;
   position: relative;
   overflow: hidden;
   padding-top: 10px;
   padding-bottom: 30px;
   height: 100%;
-  top: 0;
   width: 100%;
   text-align: center;
   color: #fff;
