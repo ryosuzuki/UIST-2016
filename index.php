@@ -34,8 +34,8 @@ $path = explode($delimiter, dirname(__FILE__));
 // $path = "http://".$_SERVER['SERVER_NAME'].":".$_SERVER['SERVER_PORT']."/".array_pop($path);
 $path = "http://".$_SERVER['SERVER_NAME'].":".$_SERVER['SERVER_PORT']."/";
 
-define("BASE_PATH", $path);
-// define("BASE_PATH", "http://uist.hosting.acm.org/uist2016");
+// define("BASE_PATH", $path);
+define("BASE_PATH", "http://uist.hosting.acm.org/uist2016");
 $app = new \Slim\Slim(array(
     'mode' => 'development',
     'debug' => true,
