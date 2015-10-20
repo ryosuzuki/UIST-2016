@@ -22,7 +22,7 @@
         </div>
         <div class="column center aligned">
           <h3 class="text text-spaced"><i class="fa fa-calendar-o"></i> Date</h3>
-          <p class="text text-medium text-bold">November, 2016</p>
+          <p class="text text-medium text-bold">October 16-19, 2016</p>
         </div>
       </div>
     </div>
@@ -282,9 +282,9 @@
   <section id="sponsors" class="twelve wide column centered">
     <h2 class="ui horizontal divider header">Sponsors</h2>
     <div class="ui stackable grid detail">
-      <a class="five wide column centered" href="http://sigchi.org" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sigchi.gif')"></a>
-      <a class="five wide column centered" href="http://sigchi.org" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/acm.gif')"></a>
-      <a class="five wide column centered" href="http://sigchi.org" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/siggraph.gif.jpg')"></a>
+      <a class="five wide column centered" href="http://sigchi.org" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sigchi.png');background-size:220px;"></a>
+      <a class="five wide column centered" href="http://www.acm.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/acm.png');background-size:240px;"></a>
+      <a class="five wide column centered" href="http://www.siggraph.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/siggraph.png');background-size:150px;"></a>
     </div>
   </section>
 
