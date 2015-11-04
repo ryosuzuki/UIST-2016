@@ -104,7 +104,6 @@
     <h2 class="ui horizontal divider header">People</h2>
     <div class="ui stackable grid detail">
       <div class="seven wide column centered">
-
         <h3 class="text text-spaced text-center">
         <span>General Chair</span>
         </h3>
@@ -140,7 +139,7 @@
         </a>
       </div>
 
-      <div class="five wide column centered">
+      <div class="four wide column centered">
         <h3 class="text text-spaced text-center">
         <span>Posters Chair</span>
         </h3>
@@ -153,7 +152,7 @@
       </a>
 
 
-      <div class="five wide column centered">
+      <div class="six wide column centered">
         <h3 class="text text-spaced text-center">
         <span>Demos Co-Chair</span>
         </h3>
@@ -171,7 +170,7 @@
         </a>
       </div>
 
-      <div class="five wide column centered">
+      <div class="four wide column centered">
         <h3 class="text text-spaced text-center">
         <span>Sponsorship Chair</span>
         </h3>
@@ -254,6 +253,25 @@
           </div>
         </a>
       </div>
+
+      <div class="seven wide column centered">
+        <h3 class="text text-spaced text-center">
+        <span>Local Arrangements Chair</span>
+        </h3>
+        <a href="http://masaogata.com/" target="_blank">
+          <div style="width:50%;float:left;">
+            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/masa-ogata.jpg">
+            <h3 class="text-center">Masa Ogata</h3>
+          </div>
+        </a>
+        <a href="http://daisukesakamoto.jp/en/" target="_blank">
+          <div style="width:50%;float:left;">
+            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/daisuke-sakamoto.jpg">
+            <h3 class="text-center">Daisuke Sakamoto</h3>
+          </div>
+        </a>
+      </div>
+
 
       <!--
       <div class="four wide column centered">
