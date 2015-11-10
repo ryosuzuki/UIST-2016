@@ -171,7 +171,7 @@
 
       <div class="four wide column centered">
         <h3 class="text text-spaced text-center">
-        <span>Poster Committe Chair</span>
+        <span>Poster Committee Chair</span>
         </h3>
         <a href="http://juhokim.com/" target="_blank">
           <div>
