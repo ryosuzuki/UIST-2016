@@ -41,6 +41,12 @@ $app = new \Slim\Slim(array(
     'templates.path' => __DIR__.'/Slim/Views'
 ));
 
+$app->add(new \Slim\Middleware\HttpBasicAuthentication([
+    "users" => [
+        "admin" => "uist2016"
+    ]
+]));
+
 $app->hook('slim.before', function () use ($app) {
     $app->view()->appendData(array('baseUrl' => 'http://uist.hosting.acm.org/uist2016'));
 });
