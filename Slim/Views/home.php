@@ -1,6 +1,6 @@
 <div class="ui grid">
 
-  <section id="cover">
+  <section id="cover" style="background: url('<?php echo BASE_PATH; ?>/lib/img/background.jpg') center center no-repeat !important">
     <div class="ui two column centered grid">
       <div class="column centered row">
         <!--
