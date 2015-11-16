@@ -8,7 +8,8 @@
  * If you are using Composer, you can skip this step.
  */
 
-require 'Slim/Slim.php';
+require "vendor/autoload.php";
+// require 'Slim/Slim.php';
 
 \Slim\Slim::registerAutoloader();
 
@@ -41,11 +42,14 @@ $app = new \Slim\Slim(array(
     'templates.path' => __DIR__.'/Slim/Views'
 ));
 
-$app->add(new \Slim\Middleware\HttpBasicAuthentication([
-    "users" => [
-        "admin" => "uist2016"
-    ]
-]));
+if ($_SERVER['SERVER_NAME'] == 'uist-2016.herokuapp.com') {
+    $app->add(new \Slim\Middleware\HttpBasicAuthentication([
+        "relaxed" => ["localhost", "uist.acm.org"],
+        "users" => [
+            "admin" => "uist2016"
+        ]
+    ]));
+}
 
 $app->hook('slim.before', function () use ($app) {
     $app->view()->appendData(array('baseUrl' => 'http://uist.hosting.acm.org/uist2016'));
