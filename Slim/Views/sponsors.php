@@ -1,6 +1,6 @@
 <div class="ui grid">
   <section class="twelve wide column centered">
-    <h2 class="ui horizontal divider header">Corporate Sponsors</h2>
+    <h2 class="ui horizontal divider header">Sponsors</h2>
     <div class="ui grid detail">
       <div class="fourteen wide column centered">
         <p class="text">
@@ -27,18 +27,26 @@
           -->
       </div>
     </div>
+
+    <div class="ui stackable grid detail sponsors">
+      <a class="five wide column centered" href="http://sigchi.org" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sigchi.png');background-size:220px;"></a>
+      <a class="five wide column centered" href="http://www.acm.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/acm.png');background-size:240px;"></a>
+      <a class="five wide column centered" href="http://www.siggraph.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/siggraph.png');background-size:150px;"></a>
+    </div>
+
   </section>
 </div>
 
 <div class="ui grid">
   <section class="twelve wide column centered">
-    <div class="ui horizontal divider header" style="color:#88847b">
-      <h2 style="margin-bottom:5px;">All Corporate Sponsorships Include</h2>
-      <span class="text text-small">In addition to each level's individual benefits, all levels will receive the following</span>
+    <div class="ui horizontal divider header">
+      <h2 style="margin-bottom:5px;">Corporate Sponsorships</h2>
     </div>
     <div class="ui grid detail">
       <div class="fourteen wide column centered">
         <p class="text">
+          In addition to each level's individual benefits, all levels will receive the following
+          <span class="ui horizontal divider"></span>
           Company logo and URL will be listed in all conference announcements, on the advance program, and on the conference web pages, maintained at www.acm.org/uist
           Acknowledgement of your company's contribution during the opening and closing sessions of the conference by the conference chairs. These are typically the best attended sessions of the conference.
           Opportunity to include material and giveaways with the conference material for each attendee
@@ -66,6 +74,13 @@
         </p>
       </div>
     </div>
+
+    <div class="ui stackable grid detail sponsors platinum">
+      <a class="five wide column centered" href="http://sigchi.org" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sigchi.png');background-size:220px;"></a>
+      <a class="five wide column centered" href="http://www.acm.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/acm.png');background-size:240px;"></a>
+      <a class="five wide column centered" href="http://www.siggraph.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/siggraph.png');background-size:150px;"></a>
+    </div>
+
   </section>
 </div>
 
@@ -85,6 +100,13 @@
 
       </div>
     </div>
+
+    <div class="ui stackable grid detail sponsors gold">
+      <a class="five wide column centered" href="http://sigchi.org" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sigchi.png');background-size:220px;"></a>
+      <a class="five wide column centered" href="http://www.acm.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/acm.png');background-size:240px;"></a>
+      <a class="five wide column centered" href="http://www.siggraph.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/siggraph.png');background-size:150px;"></a>
+    </div>
+
   </section>
 </div>
 
@@ -103,6 +125,13 @@
         </p>
       </div>
     </div>
+
+    <div class="ui stackable grid detail sponsors silver">
+      <a class="five wide column centered" href="http://sigchi.org" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sigchi.png');background-size:220px;"></a>
+      <a class="five wide column centered" href="http://www.acm.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/acm.png');background-size:240px;"></a>
+      <a class="five wide column centered" href="http://www.siggraph.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/siggraph.png');background-size:150px;"></a>
+    </div>
+
   </section>
 </div>
 
@@ -119,6 +148,13 @@
         </p>
       </div>
     </div>
+
+    <div class="ui stackable grid detail sponsors bronze">
+      <a class="five wide column centered" href="http://sigchi.org" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sigchi.png');background-size:220px;"></a>
+      <a class="five wide column centered" href="http://www.acm.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/acm.png');background-size:240px;"></a>
+      <a class="five wide column centered" href="http://www.siggraph.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/siggraph.png');background-size:150px;"></a>
+    </div>
+
   </section>
 </div>
 
@@ -142,5 +178,12 @@
 
       </div>
     </div>
+
+    <div class="ui stackable grid detail sponsors friends">
+      <a class="five wide column centered" href="http://sigchi.org" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sigchi.png');background-size:220px;"></a>
+      <a class="five wide column centered" href="http://www.acm.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/acm.png');background-size:240px;"></a>
+      <a class="five wide column centered" href="http://www.siggraph.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/siggraph.png');background-size:150px;"></a>
+    </div>
+
   </section>
 </div>

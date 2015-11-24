@@ -219,7 +219,7 @@ section.column .detail {
   padding-bottom: 80px !important;
 }
 
-#sponsors a {
+.sponsors a {
   vertical-align: middle;
   background: center center no-repeat #f4f4f4;
   height: 150px;
@@ -230,8 +230,27 @@ section.column .detail {
   overflow: hidden;
 }
 
+.sponsors.platinum a {
+  border: solid 3px #88847b;
+}
 
-#sponsors img {
+.sponsors.gold a {
+  border: solid 3px #D4AF37;
+}
+
+.sponsors.silver a {
+  border: solid 3px #a9a59f;
+}
+
+.sponsors.bronze a {
+  border: solid 3px #d7995b;
+}
+
+.sponsors.friends a {
+  border: solid 3px #77dd77;
+}
+
+.sponsors img {
   height: 140px;
   vertical-align: middle;
 }
