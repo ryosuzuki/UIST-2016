@@ -7,7 +7,7 @@
     });
 
     $app->get('/submission', function () use ($app) {
-        $app->render('Layouts/main.php', array("app" => $app, "view" => "/submission.php", "category" => "submission"));
+        $app->render('Layouts/main.php', array("app" => $app, "view" => "submission.php", "category" => "submission"));
     });
 
     $app->get('/attending', function () use ($app) {
