@@ -42,7 +42,7 @@
 <div class="ui grid">
   <section id="sponsors" class="twelve wide column centered">
     <h2 class="ui horizontal divider header">Sponsors</h2>
-    <div class="ui stackable grid detail">
+    <div class="ui stackable grid detail sponsors">
       <a class="five wide column centered" href="http://sigchi.org" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sigchi.png');background-size:220px;"></a>
       <a class="five wide column centered" href="http://www.acm.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/acm.png');background-size:240px;"></a>
       <a class="five wide column centered" href="http://www.siggraph.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/siggraph.png');background-size:150px;"></a>
