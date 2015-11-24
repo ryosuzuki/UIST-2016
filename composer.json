@@ -2,5 +2,10 @@
     "require": {
         "slim/slim": "~2.6",
         "tuupola/slim-basic-auth": "~1.0"
+    },
+    "extra": {
+        "heroku": {
+        "document-root": "v1",
+        "index-document": "index.php"
     }
 }
