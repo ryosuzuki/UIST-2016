@@ -56,8 +56,9 @@ they might be full before the deadline. Registration does not include hotels. Yo
         Demo, Poster, Student innovation contest, and Reception: <a href="http://www.kaikan.co.jp/josui/">Josui-kaikan Hall</a>
 
         <p class="text text-middle">
+        <i class="fa fa-map-marker fa-fw"></i>
         <span>2-1-2 Hitotsubashi, Chiyoda, Tokyo 101-0003, Japan</span>
-        : <a href="https://www.google.com/maps?ll=35.692434,139.758192&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=6466607924994961678" target="_blank"><i class="fa fa-map-maker"></i><b>View at Google Maps</b></a>
+        : <a href="https://www.google.com/maps?ll=35.692434,139.758192&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=6466607924994961678" target="_blank"><b><i class="fa fa-map-o fa-fw"></i>&nbsp;Google Maps</b></a>
         </p>
         </h1>
         <img class="ui fluid image" src="<?php echo BASE_PATH; ?>/lib/img/venue/001.jpg">
