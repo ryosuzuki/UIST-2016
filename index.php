@@ -42,6 +42,7 @@ $app = new \Slim\Slim(array(
     'templates.path' => __DIR__.'/Slim/Views'
 ));
 
+
 if ($_SERVER['SERVER_NAME'] == 'uist-2016.herokuapp.com') {
     $app->add(new \Slim\Middleware\HttpBasicAuthentication([
         "secure" => false,
