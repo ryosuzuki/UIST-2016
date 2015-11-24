@@ -6,16 +6,16 @@
         $app->render('Layouts/main.php', array("app" => $app, "view" => "home.php", "category" => "index"));
     });
 
-    $app->get('/about', function () use ($app) {
-        $app->render('Layouts/main.php', array("app" => $app, "view" => "home.php", "category" => "about"));
+    $app->get('/submission', function () use ($app) {
+        $app->render('Layouts/main.php', array("app" => $app, "view" => "sumission.php", "category" => "submission"));
     });
 
     $app->get('/updates', function () use ($app) {
         $app->render('Layouts/main.php', array("app" => $app, "view" => "updates.php", "category" => "updates"));
     });
 
-    $app->get('/people', function () use ($app) {
-        $app->render('Layouts/main.php', array("app" => $app, "view" => "people.php", "category" => "people"));
+    $app->get('/organizers', function () use ($app) {
+        $app->render('Layouts/main.php', array("app" => $app, "view" => "organizers.php", "category" => "organizers"));
     });
 
     $app->get('/call', function () use ($app) {

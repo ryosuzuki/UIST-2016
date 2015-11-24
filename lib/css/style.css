@@ -136,11 +136,6 @@ body {
   margin-bottom: 60px;
 }
 
-#main-banner{
-  margin-top: 50px;
-  margin-bottom: 40px;
-}
-
 h1.logo {
   letter-spacing: .05em;
   font-size: 57px;
@@ -152,12 +147,10 @@ p.sub-logo {
  font-size: 23px;
 }
 
-#cover {
-  margin-top: 10px;
-  min-height: 480px;
+.cover {
   position: relative;
   overflow: hidden;
-  padding-top: 10px;
+  padding-top: 15px;
   padding-bottom: 30px;
   height: 100%;
   width: 100%;
@@ -168,7 +161,7 @@ p.sub-logo {
   background-size: cover;
 }
 
-#cover:before {
+.cover:before {
   content: '';
   position: absolute;
   top: 0;
@@ -182,6 +175,22 @@ p.sub-logo {
   background: radial-gradient(circle farthest-corner at right bottom, #ffd08a 0%, #ffa376 28%, #d26578 52%, #682a84 79%, #241668 100%);
   opacity: 0.8;
 }
+
+#header #main-banner{
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+#top-cover {
+  min-height: 480px;
+}
+
+#top-cover #main-banner{
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+
 
 section.column {
   margin-top: 50px;
@@ -227,7 +236,7 @@ section.column .detail {
   vertical-align: middle;
 }
 
-footer .cover {
+#footer-cover {
   margin-top: 70px;
   padding-top: 50px;
   padding-bottom: 30px;

@@ -1,1 +1,31 @@
-<div class="section about"><div> <div style="float:left;" class="blk-2"><h2 style="margin-top:25px;">General Deadlines</h2><a><h3 style="margin-top:15px;">Papers</h3></a><div style="margin-left:20px;"><strong style="color:gray;">March 1 </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">Submission site opens </p></strong></div><div style="margin-left:20px;"><strong style="color:gray;">April 14 </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">Submission deadline </p></strong></div><div style="margin-left:20px;"><strong style="color:gray;">June 3-10 </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">Author rebuttal period </p></strong></div><div style="margin-left:20px;"><strong style="color:gray;">June 27 </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">Authors notified </p></strong></div><div style="margin-left:20px;"><strong style="color:gray;">July 24 </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">Camera-ready revised versions for review </p></strong></div><div style="margin-left:20px;"><strong style="color:gray;">August 7 </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">Final camera-ready papers due </p></strong></div><div style="margin-left:20px;"><strong style="color:gray;"> </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">30-second video preview due (mandatory!) </p></strong></div><a><h3 style="margin-top:15px;">Posters and Demos</h3></a><div style="margin-left:20px;"><strong style="color:gray;">July 9 </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">Submission deadline </p></strong></div><div style="margin-left:20px;"><strong style="color:gray;">August 6 </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">Authors notified </p></strong></div><div style="margin-left:20px;"><strong style="color:gray;">August 23 </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">Camera-ready deadline </p></strong></div></div><div class="blk-2"><h2 style="margin-top:25px;">Student Deadlines</h2><a> <h3 style="margin-top:15px;">Doctoral Symposium</h3></a><div style="margin-left:20px;"><strong style="color:gray;">July 9 </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">Submission deadline </p></strong></div><div style="margin-left:20px;"><strong style="color:gray;">August 6 </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">Authors notified </p></strong></div><div style="margin-left:20px;"><strong style="color:gray;">August 23 </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">Camera-ready deadline </p></strong></div><a><h3 style="margin-top:15px;">Student Volunteers</h3></a><div style="margin-left:20px;"><strong style="color:gray;">August 10 </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">Application deadline </p></strong></div><div style="margin-left:20px;"><strong style="color:gray;">August 15 </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">Application notified </p></strong></div><a><h3 style="margin-top:15px;">Student Innovation Contest</h3></a><div style="margin-left:20px;"><strong style="color:gray;">July 1 </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">Hardware and contest announced </p></strong></div><div style="margin-left:20px;"><strong style="color:gray;">July 21 </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">Student contest proposal submission deadline for all teams </p></strong></div><div style="margin-left:20px;"><strong style="color:gray;">July 24 </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">Organizers notify teams on acceptance decision </p></strong></div><div style="margin-left:20px;"><strong style="color:gray;">July 31 </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">Conference registration deadline for accepted teams AND travel grant video proposals due </p></strong></div><div style="margin-left:20px;"><strong style="color:gray;">August 20 </strong><strong><p style="margin:5px 0px 10px 20px; width:70%;">Hardware kits shipped to accepted teams </p></strong></div></div></div></div>
+<div class="ui grid">
+
+  <section id="cover" style="background: url('<?php echo BASE_PATH; ?>/lib/img/background.jpg') center center no-repeat !important">
+    <div class="ui two column centered grid">
+      <div class="column centered row">
+        <div class="ui secondary pointing fluid seven item inverted menu">
+          <?php $app->render("Partials/menu.php"); ?>
+        </div>
+        <button id="menu-button" class="ui basic inverted button">
+          <i class="fa fa-bars"></i>
+          Menu
+        </button>
+      </div>
+      <div id="main-banner" class="column centered row" >
+        <h1 class="logo">UIST 2016</h1>
+        <p class="sub-logo text text-medium">29th ACM User Interface Software and Technology Symposium</p>
+      </div>
+      <div class="four column centered stackable row">
+        <div class="column center aligned">
+          <h3 class="text text-spaced"><i class="fa fa-map-marker"></i> Location</h3>
+          <p class="text text-medium text-bold">Tokyo, Japan</p>
+        </div>
+        <div class="column center aligned">
+          <h3 class="text text-spaced"><i class="fa fa-calendar-o"></i> Date</h3>
+          <p class="text text-medium text-bold">October 16-19, 2016</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</div>

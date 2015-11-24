@@ -20,6 +20,7 @@
       <?php $app->render("Partials/menu.php"); ?>
     </div>
     <div class="pusher">
+      <?php if ($category == "index") { $app->render('Partials/cover.php'); } else { $app->render('Partials/header.php'); } ?>
       <div class='container'>
         <?php $app->render($view); ?>
       </div>

@@ -1,21 +1,20 @@
-<a class="item">
+<a href="/" class="item">
   Home
 </a>
-<a class="item">
-  Attending
+<a href="/submission" class="item">
+  Submission
 </a>
-<a class="item">
-  Authors
+<a href="/attend" class="item">
+  Attend
 </a>
-<a class="item">
-  Schedule
+<a href="/organizers" class="item">
+  Organizers
 </a>
-<a class="item">
-  People
-</a>
-<a class="collapsible item">
-  Venues
-</a>
-<a class="collapsible item">
+<a href="/dates" class="item">
+  Dates
+<a href="/sponsors" class="item">
   Sponsors
+</a>
+<a href="/archive" class="item">
+  Archive
 </a>
