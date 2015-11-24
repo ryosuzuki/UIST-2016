@@ -57,11 +57,6 @@ $app->hook('slim.before', function () use ($app) {
     $app->view()->appendData(array('baseUrl' => 'http://uist-2016.herokuapp.com'));
 });
 
-    $app->get('/submission', function () use ($app) {
-        $app->render('Layouts/main.php', array("app" => $app, "view" => "submission.php", "category" => "submission"));
-    });
-
-
 require './Slim/Config/routes.php';
 
 /**

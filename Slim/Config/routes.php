@@ -2,9 +2,6 @@
 
     /* Our routes go here. You can use the primary REST verbs (GET, POST, PUSH, DELETE)
        "category" is the menu anchor that should be underlined. Make sure it matches */
-    $app->get('/', function () use ($app) {
-        $app->render('Layouts/main.php', array("app" => $app, "view" => "home.php", "category" => "index"));
-    });
 
     $app->get('/submission', function () use ($app) {
         $app->render('Layouts/main.php', array("app" => $app, "view" => "submission.php", "category" => "submission"));
