@@ -7,7 +7,19 @@
     });
 
     $app->get('/submission', function () use ($app) {
-        $app->render('Layouts/main.php', array("app" => $app, "view" => "sumission.php", "category" => "submission"));
+        $app->render('Layouts/main.php', array("app" => $app, "view" => "submission.php", "category" => "submission"));
+    });
+
+    $app->get('/attending', function () use ($app) {
+        $app->render('Layouts/main.php', array("app" => $app, "view" => "attending.php", "category" => "attending"));
+    });
+
+    $app->get('/registration', function () use ($app) {
+        $app->render('Layouts/main.php', array("app" => $app, "view" => "registration.php", "category" => "registration"));
+    });
+
+    $app->get('/sponsors', function () use ($app) {
+        $app->render('Layouts/main.php', array("app" => $app, "view" => "sponsors.php", "category" => "sponsors"));
     });
 
     $app->get('/updates', function () use ($app) {

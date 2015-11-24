@@ -4,8 +4,8 @@
 <a href="/submission" class="item">
   Submission
 </a>
-<a href="/attend" class="item">
-  Attend
+<a href="/registration" class="item">
+  Attending
 </a>
 <a href="/organizers" class="item">
   Organizers

@@ -1,7 +1,7 @@
 <?php $app->render('Partials/organizers.php'); ?>
 
 <div class="ui grid">
-  <section id="deadline" class="twelve wide column centered">
+  <section class="twelve wide column centered">
     <h2 class="ui horizontal divider header">Program Committee</h2>
     <div class="ui grid detail">
       <div class="twelve wide column centered">

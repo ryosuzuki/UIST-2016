@@ -39,17 +39,23 @@
         </a>
       </div>
 
-      <div class="four wide column centered">
+      <div class="five wide column centered">
         <h3 class="text text-spaced text-center">
         <span>Sponsorship Chair</span>
         </h3>
+        <a href="http://www.dgp.toronto.edu/~dwigdor/" target="_blank">
+          <div style="width:50%;float:left;">
+            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/daniel-wigdor.jpg">
+            <h3 class="text-center">Daniel Wigdor</h3>
+          </div>
+        </a>
         <a href="http://yatani.jp/" target="_blank">
-          <div>
+          <div style="width:50%;float:left;">
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/koji-yatani.jpg">
             <h3 class="text-center">Koji Yatani</h3>
           </div>
-        </div>
-      </a>
+        </a>
+      </div>
 
       <div class="five wide column centered">
         <h3 class="text text-spaced text-center">
@@ -107,6 +113,19 @@
 
       <div class="five wide column centered">
         <h3 class="text text-spaced text-center">
+        <span>Publicity Chair</span>
+        </h3>
+        <a href="https://fukuchi.org/" target="_blank">
+          <div>
+            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/kentaro-fukuchi.jpg">
+            <h3 class="text-center">Kentaro Fukuchi</h3>
+          </div>
+        </a>
+      </div>
+
+
+      <div class="five wide column centered">
+        <h3 class="text text-spaced text-center">
         <span>Doctoral Symposium Chair</span>
         </h3>
         <a href="http://www.patrickbaudisch.com/" target="_blank">
@@ -121,16 +140,16 @@
         <h3 class="text text-spaced text-center">
         <span>Student Innovation Contest Co-Chairs</span>
         </h3>
-        <a href="http://web.media.mit.edu/~liningy/" target="_blank">
-          <div style="width:50%;float:left;">
-            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/lining-yao.jpg">
-            <h3 class="text-center">Lining Yao</h3>
-          </div>
-        </a>
         <a href="http://plopes.org/" target="_blank">
           <div style="width:50%;float:left;">
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/pedro-lopes.jpg">
             <h3 class="text-center">Pedro Lopes</h3>
+          </div>
+        </a>
+        <a href="http://web.media.mit.edu/~liningy/" target="_blank">
+          <div style="width:50%;float:left;">
+            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/lining-yao.jpg">
+            <h3 class="text-center">Lining Yao</h3>
           </div>
         </a>
       </div>
@@ -151,15 +170,21 @@
         <h3 class="text text-spaced text-center">
         <span>Registration Chair</span>
         </h3>
-        <a href="http://www.patrickbaudisch.com/" target="_blank">
-          <div>
+        <a href="http://www.jessicacauchard.com/" target="_blank">
+          <div style="width:50%;float:left;">
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/jessica-cauchard.jpg">
             <h3 class="text-center">Jessica Cauchard</h3>
           </div>
         </a>
+        <a href="http://research.microsoft.com/en-us/people/nchen/" target="_blank">
+          <div style="width:50%;float:left;">
+            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/nicholas-chen.jpg">
+            <h3 class="text-center">Nicholas Chen</h3>
+          </div>
+        </a>
       </div>
 
-      <div class="five wide column centered">
+      <div class="four wide column centered">
         <h3 class="text text-spaced text-center">
         <span>Keynote Chair</span>
         </h3>
@@ -188,6 +213,32 @@
           </div>
         </a>
       </div>
+
+      <div class="six wide column centered">
+        <h3 class="text text-spaced text-center">
+        <span>Interactive Program Guide Chair</span>
+        </h3>
+        <a href="http://from.so/" target="_blank">
+          <div style="width:33%;float:left;">
+            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/stephen-oney.jpg">
+            <h3 class="text-center">Stephen Oney</h3>
+          </div>
+        </a>
+        <a href="http://www.cs.cmu.edu/~jwwiese/" target="_blank">
+          <div style="width:33%;float:left;">
+            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/jason-wiese.jpg">
+            <h3 class="text-center">Jason Wiese</h3>
+          </div>
+        </a>
+        <a href="http://www.cs.cmu.edu/~ehayashi/" target="_blank">
+          <div style="width:33%;float:left;">
+            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/eiji-hayashi.jpg">
+            <h3 class="text-center">Eiji Hayashi</h3>
+          </div>
+        </a>
+      </div>
+
+
 
       <div class="five wide column centered">
         <h3 class="text text-spaced text-center">

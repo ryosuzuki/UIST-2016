@@ -12,7 +12,9 @@
     </div>
     <div id="main-banner" class="column centered row" >
       <h1 class="logo">UIST 2016</h1>
-      <p class="sub-logo text text-medium">29th ACM User Interface Software and Technology Symposium</p>
+      <p class="text text-small">29th ACM User Interface Software and Technology Symposium</p>
+      <p class="text text-small text-bold" style="margin-top:35px">Tokyo, Japan - October 16-19, 2016</p>
     </div>
+
   </div>
 </section>
