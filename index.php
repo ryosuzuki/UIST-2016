@@ -40,9 +40,19 @@ if ($_SERVER['SERVER_NAME'] == 'uist.acm.org') {
     define("BASE_PATH", "http://".$_SERVER['SERVER_NAME'].":".$_SERVER['SERVER_PORT']);
 }
 
+$app = new \Slim\Slim();
+$app->get('/', function () {
+    echo 'Hello World';
+});
+$app->get('/hoge', function () {
+    echo 'Hoge';
+});
+
+/*
 $app = new \Slim\Slim(array(
     'mode' => 'development',
     'debug' => true,
+    // 'templates.path' => __DIR__.'/Slim/Views'
     'templates.path' => '/app/Slim/Views'
 ));
 
@@ -54,6 +64,7 @@ if ($_SERVER['SERVER_NAME'] == 'uist-2016.herokuapp.com') {
         ]
     ]));
 }
+*/
 
 /*
 $app->hook('slim.before', function () use ($app) {
