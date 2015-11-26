@@ -26,7 +26,9 @@ if ($_SERVER['SERVER_NAME'] == "uist.acm.org") {
   $app->hook('slim.before', function () use ($app) {
     $app->view()->appendData(array('baseUrl' => 'http://uist.hosting.acm.org/uist2016'));
   });
-} elseif ($_SERVER['SERVER_NAME'] == "uist-2016.herokuapp.com") {
+}
+
+if ($_SERVER['SERVER_NAME'] == "uist-2016.herokuapp.com") {
   define("BASE_PATH", "http://uist-2016.herokuapp.com");
   $app->add(new \Slim\Middleware\HttpBasicAuthentication([
     "secure" => false,
@@ -34,9 +36,13 @@ if ($_SERVER['SERVER_NAME'] == "uist.acm.org") {
       "admin" => "uist2016"
     ]
   ]));
-} else {
-  define("BASE_PATH", "http://".$_SERVER['SERVER_NAME'].":".$_SERVER['SERVER_PORT']);
 }
+
+if ($_SERVER['SERVER_NAME'] == "localhost") {
+  define("BASE_PATH", "http://".$_SERVER['SERVER_NAME'].":".$_SERVER['SERVER_PORT']);
+  // define("BASE_PATH", "http://uist-2016.herokuapp.com");
+}
+
 
 
 require './Slim/Config/routes.php';
