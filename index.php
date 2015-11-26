@@ -38,11 +38,10 @@ if ($_SERVER['SERVER_NAME'] == 'uist-2016.herokuapp.com') {
   $app->add(new \Slim\Middleware\HttpBasicAuthentication([
     "secure" => false,
     "users" => [
-    "admin" => "uist2016"
+      "admin" => "uist2016"
     ]
-    ]));
+  ]));
 }
-*/
 
 $app->hook('slim.before', function () use ($app) {
   $app->view()->appendData(array('baseUrl' => 'http://uist.hosting.acm.org/uist2016'));
