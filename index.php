@@ -20,14 +20,13 @@ $app = new \Slim\Slim(array(
   'templates.path' => __DIR__.'/Slim/Views'
 ));
 
-
 if ($_SERVER["SERVER_NAME"] == "uist.acm.org") {
   define("BASE_PATH", "http://uist.acm.org/uist2016");
   $app->hook('slim.before', function () use ($app) {
     $app->view()->appendData(array('baseUrl' => 'http://uist.hosting.acm.org/uist2016'));
   });
-} else if ($_SERVER["SERVER_NAME"] == "uist-2016.herokuapp.com") {
-  define("BASE_PATH", "http://uist-2016.herokkuapp.com");
+} elseif ($_SERVER["SERVER_NAME"] == "uist-2016.herokuapp.com") {
+  define("BASE_PATH", "http://uist-2016.herokuapp.com");
   $app->add(new \Slim\Middleware\HttpBasicAuthentication([
     "secure" => false,
     "users" => [
