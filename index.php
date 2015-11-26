@@ -25,7 +25,7 @@ $app->get('/', function () {
   echo 'Hello World';
 });
 $app->get('/hoge', function () {
-  echo 'Hoge';
+  echo 'Hogee';
 });
 
 /*
