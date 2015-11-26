@@ -12,7 +12,9 @@ if (strncasecmp(PHP_OS, 'WIN', 3) == 0) {
 }
 
 $path = explode($delimiter, dirname(__FILE__));
-$path = "http://".$_SERVER['SERVER_NAME'].":".$_SERVER['SERVER_PORT']."/".array_pop($path);
+$path = "http://".$_SERVER['SERVER_NAME'].":"
+
+.$_SERVER['SERVER_PORT']."/".array_pop($path);
 
 
 $app = new \Slim\Slim(array(
@@ -26,7 +28,9 @@ if ($_SERVER['SERVER_NAME'] == "uist.acm.org") {
   $app->hook('slim.before', function () use ($app) {
     $app->view()->appendData(array('baseUrl' => 'http://uist.hosting.acm.org/uist2016'));
   });
-} elseif ($_SERVER['SERVER_NAME'] == "uist-2016.herokuapp.com") {
+} elseif ($_SERVER['SERVER_NAME'].":".$_SERVER['SERVER_PORT'] == "localhost:3000") {
+  define("BASE_PATH", "http://".$_SERVER['SERVER_NAME'].":".$_SERVER['SERVER_PORT']);
+} else {
   define("BASE_PATH", "http://uist-2016.herokuapp.com");
   $app->add(new \Slim\Middleware\HttpBasicAuthentication([
     "secure" => false,
@@ -35,9 +39,7 @@ if ($_SERVER['SERVER_NAME'] == "uist.acm.org") {
     ]
   ]));
 }
-// } else {
-//   define("BASE_PATH", "http://".$_SERVER['SERVER_NAME'].":".$_SERVER['SERVER_PORT']);
-// }
+
 
 require './Slim/Config/routes.php';
 
