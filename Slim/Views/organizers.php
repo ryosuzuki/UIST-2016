@@ -1,9 +1,9 @@
 <?php $app->render('Partials/organizers.php'); ?>
 
-<div class="ui grid">
+<div class="ui stackable grid">
   <section class="twelve wide column centered">
     <h2 class="ui horizontal divider header">Program Committee</h2>
-    <div class="ui grid detail">
+    <div class="ui stackable grid detail">
       <div class="twelve wide column centered">
         <table class="ui fixed single line table">
           <thead class="text">

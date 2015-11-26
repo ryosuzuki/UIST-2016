@@ -1,7 +1,7 @@
-<div class="ui grid">
+<div class="ui stackable grid">
   <section class="twelve wide column centered">
     <h2 class="ui horizontal divider header">Sponsors</h2>
-    <div class="ui grid detail">
+    <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
         <p class="text">
           You are invited to support the UIST 2016 conference. This is an ideal way to demonstrate your organization's interest in and commitment to the field of user interface software and technology, and to publicize this support to many leaders and students in the field.
@@ -37,12 +37,12 @@
   </section>
 </div>
 
-<div class="ui grid">
+<div class="ui stackable grid">
   <section class="twelve wide column centered">
     <div class="ui horizontal divider header">
       <h2 style="margin-bottom:5px;">Corporate Sponsorships</h2>
     </div>
-    <div class="ui grid detail">
+    <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
         <p class="text">
           In addition to each level's individual benefits, all levels will receive the following
@@ -59,13 +59,13 @@
 </div>
 
 
-<div class="ui grid">
+<div class="ui stackable grid">
   <section class="twelve wide column centered">
     <div class="ui horizontal divider header" style="color:#88847b">
       <h2 style="margin-bottom:5px;">Platinum Sponsors</h2>
       <span class="text text-small">US$15,000 or greater contribution</span>
     </div>
-    <div class="ui grid detail">
+    <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
         <p class="text">
           8 free registrations for people from your company to attend the conference
@@ -84,13 +84,13 @@
   </section>
 </div>
 
-<div class="ui grid">
+<div class="ui stackable grid">
   <section class="twelve wide column centered">
     <div class="ui horizontal divider header" style="color:#D4AF37;">
       <h2 style="margin-bottom:5px;">Gold Sponsors</h2>
       <span class="text text-small">US$10,000 or greater contribution</span>
     </div>
-    <div class="ui grid detail">
+    <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
         <p class="text">
           5 free registrations for people from your company to attend the conference.
@@ -110,13 +110,13 @@
   </section>
 </div>
 
-<div class="ui grid">
+<div class="ui stackable grid">
   <section class="twelve wide column centered">
     <div class="ui horizontal divider header" style="color:#a9a59f;">
       <h2 style="margin-bottom:5px;">Silver Sponsors</h2>
       <span class="text text-small">US$5,000 or greater contribution</span>
     </div>
-    <div class="ui grid detail">
+    <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
         <p class="text">
           2 free registrations for people from your company to attend the conference.
@@ -135,13 +135,13 @@
   </section>
 </div>
 
-<div class="ui grid">
+<div class="ui stackable grid">
   <section class="twelve wide column centered">
     <div class="ui horizontal divider header" style="color:#d7995b;">
       <h2 style="margin-bottom:5px;">Bronze Sponsors</h2>
       <span class="text text-small">US$2,500 or greater contribution</span>
     </div>
-    <div class="ui grid detail">
+    <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
         <p class="text">
           1 free registration for someone from your company to attend the conference
@@ -158,13 +158,13 @@
   </section>
 </div>
 
-<div class="ui grid">
+<div class="ui stackable grid">
   <section class="twelve wide column centered">
     <div class="ui horizontal divider header" style="color:#77dd77;">
       <h2 style="margin-bottom:5px;">Friends of UIST</h2>
       <span class="text text-small">US$1,000 or greater contribution</span>
     </div>
-    <div class="ui grid detail">
+    <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
         <p class="text">
           A Friend of UIST is an individual member of the community who has chosen to help contribute financially to the conference. Although only individuals may be listed as a "Friend of UIST," organizations may choose to provide this funding level for their employees. An individual may also choose to "top up" to the Friend of UIST level during the normal conference registration process by contributing the difference between their registration fee and the Friend of UIST contribution level. For example, if your registration cost is $800 then only a $200 donation would be required to obtain Friend of UIST recognition.

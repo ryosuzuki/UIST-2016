@@ -1,7 +1,7 @@
-<div class="ui grid">
+<div class="ui stackable grid">
   <section class="twelve wide column centered">
     <h2 class="ui horizontal divider header">UIST History</h2>
-    <div class="ui grid detail">
+    <div class="ui stackable grid detail">
       <div class="sixteen wide column centered">
         <table class="ui fixed single line table">
           <thead class="text">
@@ -289,10 +289,10 @@ they might be full before the deadline. Registration does not include hotels. Yo
 </div>
 
 
-<div class="ui grid">
+<div class="ui stackable grid">
   <section class="twelve wide column centered">
     <h2 class="ui horizontal divider header">Awards</h2>
-    <div class="ui grid detail">
+    <div class="ui stackable grid detail">
       <div class="sixteen wide column centered">
 
 <table cellpadding="0" cellspacing="0">

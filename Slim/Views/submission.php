@@ -13,7 +13,7 @@
 </div>
 
 
-<div class="ui grid">
+<div class="ui stackable grid">
   <section id="deadline" class="twelve wide column centered">
     <h2 class="ui horizontal divider header">Deadlines</h2>
     <?php $app->render('Partials/deadline.php'); ?>

@@ -1,7 +1,6 @@
 
 <section id="top-cover" class="cover" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/background-5.jpg') !important">
   <div class="ui two column centered grid">
-    <!--
     <div class="column centered row">
       <div class="ui secondary pointing fluid seven item inverted menu">
         <?php $app->render("Partials/menu.php"); ?>
@@ -11,7 +10,6 @@
         Menu
       </button>
     </div>
-    -->
     <div id="main-banner" class="column centered row" >
       <h1 class="logo">UIST 2016</h1>
       <p class="sub-logo text text-medium">29th ACM User Interface Software and Technology Symposium</p>

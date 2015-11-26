@@ -91,9 +91,6 @@ body {
 }
 
 @media screen and (max-width: 700px) {
-  #cover .stackable.row{
-    margin-bottom: 30px !important;
-  }
   .ui.pointing.menu {
     display: none;
   }
@@ -105,9 +102,14 @@ body {
     position: absolute;
     left: 25px;
     top: 25px;
+    z-index: 10000;
   }
   .cover {
     margin-bottom: 20px;
+    min-height: 300px;
+  }
+  .cover #main-banner{
+    margin-top: 30px !important;
   }
   .ui.stackable.grid {
     padding-top: 10px;
@@ -236,6 +238,7 @@ section.column .detail {
   overflow: hidden;
 }
 
+/*
 .sponsors.platinum a {
   border: solid 3px #88847b;
 }
@@ -255,6 +258,7 @@ section.column .detail {
 .sponsors.friends a {
   border: solid 3px #77dd77;
 }
+*/
 
 .sponsors img {
   height: 140px;
