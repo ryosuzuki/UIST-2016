@@ -1,5 +1,5 @@
 
-<section id="top-cover" class="cover" style="background: url('<?php echo BASE_PATH; ?>/lib/img/background.jpg') center center no-repeat !important">
+<section id="top-cover" class="cover" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/background-5.jpg') !important">
   <div class="ui two column centered grid">
     <div class="column centered row">
       <div class="ui secondary pointing fluid seven item inverted menu">

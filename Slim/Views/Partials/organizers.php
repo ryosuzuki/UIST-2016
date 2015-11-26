@@ -272,6 +272,18 @@
 
       <div class="five wide column centered">
         <h3 class="text text-spaced text-center">
+        <span>Proceedings Chair</span>
+        </h3>
+        <a href="http://xingdongyang.net/" target="_blank">
+          <div>
+            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/xing-dong-yang.jpg">
+            <h3 class="text-center">Xing-dong Yang</h3>
+          </div>
+        </a>
+      </div>
+
+      <div class="five wide column centered">
+        <h3 class="text text-spaced text-center">
         <span>Design and Signage Chair</span>
         </h3>
         <a href="http://www.xlab.sfc.keio.ac.jp/~kakehi/" target="_blank">

@@ -158,6 +158,7 @@ p.sub-logo {
   color: #fff;
   background: #5f357d;
   background-size: cover;
+  background-position: center;
 }
 
 .cover:before {
