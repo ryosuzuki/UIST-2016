@@ -1,20 +1,21 @@
-<a href="/" class="item">
+<a href="<?php echo BASE_PATH; ?>/" class="item">
   Home
 </a>
-<a href="/submission" class="item">
+<a href="<?php echo BASE_PATH; ?>/submission" class="item">
   Submission
 </a>
-<a href="/registration" class="item">
+<a href="<?php echo BASE_PATH; ?>/attending" class="item">
   Attending
 </a>
-<a href="/organizers" class="item">
+<a href="<?php echo BASE_PATH; ?>/organizers" class="item">
   Organizers
 </a>
-<a href="/dates" class="item">
+<a href="<?php echo BASE_PATH; ?>/dates" class="item">
   Dates
-<a href="/sponsors" class="item">
+</a>
+<a href="<?php echo BASE_PATH; ?>/sponsors" class="item">
   Sponsors
 </a>
-<a href="/archive" class="item">
+<a href="<?php echo BASE_PATH; ?>/archive" class="item">
   Archive
 </a>

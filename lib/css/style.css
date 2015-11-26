@@ -106,6 +106,12 @@ body {
     left: 25px;
     top: 25px;
   }
+  .cover {
+    margin-bottom: 20px;
+  }
+  .ui.stackable.grid {
+    padding-top: 10px;
+  }
 }
 
 .gray .column{

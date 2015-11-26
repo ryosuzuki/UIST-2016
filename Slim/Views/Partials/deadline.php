@@ -1,4 +1,4 @@
-<div class="ui grid detail">
+<div class="ui stackable grid detail">
   <div class="fourteen wide column centered">
     <table class="ui fixed single line table">
       <thead class="text">

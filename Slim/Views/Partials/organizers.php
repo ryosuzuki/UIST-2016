@@ -1,5 +1,5 @@
 
-<div class="ui grid">
+<div class="ui stackable grid">
   <section id="people" class="twelve wide column centered">
     <h2 class="ui horizontal divider header">Organizers</h2>
     <div class="ui stackable grid detail">
