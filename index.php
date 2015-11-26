@@ -43,7 +43,7 @@ if ($_SERVER['SERVER_NAME'] == 'uist.acm.org') {
 $app = new \Slim\Slim(array(
     'mode' => 'development',
     'debug' => true,
-    'templates.path' => __DIR__.'/Slim/Views'
+    'templates.path' => '/app/Slim/Views'
 ));
 
 if ($_SERVER['SERVER_NAME'] == 'uist-2016.herokuapp.com') {
