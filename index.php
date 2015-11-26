@@ -20,6 +20,9 @@ $app = new \Slim\Slim(array(
   'templates.path' => __DIR__.'/Slim/Views'
 ));
 
+
+define("BASE_PATH", "http://uist-2016.herokuapp.com");
+/*
 if ($_SERVER["SERVER_NAME"] == "uist.acm.org") {
   define("BASE_PATH", "http://uist.acm.org/uist2016");
   $app->hook('slim.before', function () use ($app) {
@@ -36,7 +39,7 @@ if ($_SERVER["SERVER_NAME"] == "uist.acm.org") {
 } else {
   define("BASE_PATH", "http://".$_SERVER['SERVER_NAME'].":".$_SERVER['SERVER_PORT']);
 }
-
+*/
 
 require './Slim/Config/routes.php';
 
