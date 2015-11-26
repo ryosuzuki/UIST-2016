@@ -55,9 +55,11 @@ if ($_SERVER['SERVER_NAME'] == 'uist-2016.herokuapp.com') {
     ]));
 }
 
+/*
 $app->hook('slim.before', function () use ($app) {
     $app->view()->appendData(array('baseUrl' => 'http://uist.hosting.acm.org/uist2016'));
 });
+*/
 
 require './Slim/Config/routes.php';
 
