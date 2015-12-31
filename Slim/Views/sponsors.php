@@ -10,7 +10,7 @@
           The UIST 2016 conference has four corporate support levels:
           <a href="#platinum">Platinum</a>, <a href="#gold">Gold</a>, <a href="#silver">Silver</a>, and <a href="#bronze">Bronze</a>. We are also pleased to introduce this year the <a href="#friend">Friends of UIST</a> sponsorship level for individuals who wish to contribute to the conference.
           Your support is very important to the conference, and the conference committee ensures that these contributions are well recognized. We list the benefits and costs below. (If you can think of another benefit that would make this more attractive to your company, do let us know!)
-          <b>If you are interested in supporting UIST 2015, please contact our sponsorship chair:</b>
+          <b>If you are interested in supporting UIST 2016, please contact our sponsorship chair:</b>
         </p>
         <!--
             <div style="text-align:center; margin-top:20px;" class="blk-1">
@@ -27,7 +27,7 @@
           -->
       </div>
     </div>
-
+    <br>
     <div class="ui stackable grid detail sponsors">
       <a class="five wide column centered" href="http://sigchi.org" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sigchi.png');background-size:220px;"></a>
       <a class="five wide column centered" href="http://www.acm.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/acm.png');background-size:240px;"></a>
@@ -50,7 +50,7 @@
           Company logo and URL will be listed in all conference announcements, on the advance program, and on the conference web pages, maintained at www.acm.org/uist
           Acknowledgement of your company's contribution during the opening and closing sessions of the conference by the conference chairs. These are typically the best attended sessions of the conference.
           Opportunity to include material and giveaways with the conference material for each attendee
-          A special invitation for a member of your team to give a demonstration of your choice as part of the UIST 2015 demo night
+          A special invitation for a member of your team to give a demonstration of your choice as part of the UIST 2016 demo night
           Direct notification from the Sponsorship Chair about conference news
         </p>
       </div>
@@ -74,13 +74,13 @@
         </p>
       </div>
     </div>
-
+    <!--
     <div class="ui stackable grid detail sponsors platinum">
       <a class="five wide column centered" href="http://sigchi.org" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sigchi.png');background-size:220px;"></a>
       <a class="five wide column centered" href="http://www.acm.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/acm.png');background-size:240px;"></a>
       <a class="five wide column centered" href="http://www.siggraph.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/siggraph.png');background-size:150px;"></a>
     </div>
-
+    -->
   </section>
 </div>
 
@@ -100,13 +100,13 @@
 
       </div>
     </div>
-
+<!--
     <div class="ui stackable grid detail sponsors gold">
       <a class="five wide column centered" href="http://sigchi.org" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sigchi.png');background-size:220px;"></a>
       <a class="five wide column centered" href="http://www.acm.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/acm.png');background-size:240px;"></a>
       <a class="five wide column centered" href="http://www.siggraph.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/siggraph.png');background-size:150px;"></a>
     </div>
-
+ -->
   </section>
 </div>
 
@@ -125,13 +125,13 @@
         </p>
       </div>
     </div>
-
+<!--
     <div class="ui stackable grid detail sponsors silver">
       <a class="five wide column centered" href="http://sigchi.org" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sigchi.png');background-size:220px;"></a>
       <a class="five wide column centered" href="http://www.acm.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/acm.png');background-size:240px;"></a>
       <a class="five wide column centered" href="http://www.siggraph.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/siggraph.png');background-size:150px;"></a>
     </div>
-
+ -->
   </section>
 </div>
 
@@ -148,13 +148,13 @@
         </p>
       </div>
     </div>
-
+<!--
     <div class="ui stackable grid detail sponsors bronze">
       <a class="five wide column centered" href="http://sigchi.org" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sigchi.png');background-size:220px;"></a>
       <a class="five wide column centered" href="http://www.acm.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/acm.png');background-size:240px;"></a>
       <a class="five wide column centered" href="http://www.siggraph.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/siggraph.png');background-size:150px;"></a>
     </div>
-
+ -->
   </section>
 </div>
 
@@ -178,12 +178,12 @@
 
       </div>
     </div>
-
+<!--
     <div class="ui stackable grid detail sponsors friends">
       <a class="five wide column centered" href="http://sigchi.org" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sigchi.png');background-size:220px;"></a>
       <a class="five wide column centered" href="http://www.acm.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/acm.png');background-size:240px;"></a>
       <a class="five wide column centered" href="http://www.siggraph.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/siggraph.png');background-size:150px;"></a>
     </div>
-
+ -->
   </section>
 </div>

@@ -8,7 +8,9 @@
           Updates
         </div>
         <ul class="list text">
-          <li>UIST 2016 website is now available.</li>
+          <li><a href="http://uist.acm.org/uist2016/call">Call for Participation</a> is now available.</a></li>
+          <li><a href="http://uist.acm.org/uist2016/submission">Deadlines</a> have been decided. (Paper & Notes: <b>April 13, 2016</b>)
+          </li>
         </ul>
       </div>
     </div>
@@ -31,7 +33,11 @@
 <div class="ui stackable grid background-grid">
   <section id="deadline" class="twelve wide column centered">
     <h2 class="ui horizontal inverted divider header">Deadlines</h2>
-    <?php $app->render('Partials/deadline.php'); ?>
+    <div class="ui stackable grid detail">
+      <div class="fourteen wide column centered">
+        <?php $app->render('Partials/deadline.php'); ?>
+      </div>
+    </div>
   </section>
 </div>
 
