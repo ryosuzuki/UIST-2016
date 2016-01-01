@@ -1,6 +1,6 @@
 <div class="ui stackable grid">
   <section id="call" class="twelve wide column centered">
-  <h2 class="ui horizontal divider header">Advice</h2>
+  <h2 class="ui horizontal divider header">Advice for Submission</h2>
   <div class="ui stackable grid detail">
   <div class="fourteen wide column centered">
 
