@@ -28,7 +28,7 @@ $app->get('/organizers', function () use ($app) {
 });
 
 $app->get('/call', function () use ($app) {
-  $app->render('Layouts/main.php', array("app" => $app, "view" => "call/call.php", "category" => "call"));
+  $app->render('Layouts/main.php', array("app" => $app, "view" => "call/call-papers.php", "category" => "call"));
 });
 $app->get('/papers', function () use ($app) {
   $app->render('Layouts/main.php', array("app" => $app, "view" => "call/call-papers.php", "category" => "call"));

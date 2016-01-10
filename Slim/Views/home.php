@@ -8,7 +8,7 @@
           Updates
         </div>
         <ul class="list text">
-          <li><a href="http://uist.acm.org/uist2016/call">Call for Participation</a> is now available.</a></li>
+          <li><a href="http://uist.acm.org/uist2016/papers">Call for Participation</a> is now available.</a></li>
           <li><a href="http://uist.acm.org/uist2016/submission">Deadlines</a> have been decided. (Paper & Notes: <b>April 13, 2016</b>)
           </li>
         </ul>
