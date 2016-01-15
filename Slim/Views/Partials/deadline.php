@@ -8,7 +8,7 @@
   <tbody class="text">
     <tr>
       <td><a href="http://uist.acm.org/uist2016/papers">Papers & Notes</a></td>
-      <td><b>April 13 (Tue), 2016</b></td>
+      <td><b>April 13 (Wed), 2016</b></td>
     </tr>
     <tr>
       <td>Posters & Demos</td>
