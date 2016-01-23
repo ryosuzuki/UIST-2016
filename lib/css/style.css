@@ -235,6 +235,26 @@ section.column .detail {
   padding-bottom: 80px !important;
 }
 
+.background-grid-gray {
+  background: #ccc;
+  background: -webkit-radial-gradient(circle farthest-corner at left top, #eee 0%, #999 100%);
+  background: -moz-radial-gradient(circle farthest-corner at left top, #eee 0%, #999 100%);
+  background: -o-radial-gradient(circle farthest-corner at left top, #eee 0%, #999 100%);
+  background: -ms-radial-gradient(circle farthest-corner at left top, #eee 0%, #999 100%);
+  background: radial-gradient(circle farthest-corner at left top, #eee 0%, #999 100%);
+  color: #000;
+  padding-bottom: 50px !important;
+}
+
+a.sui {
+  color: #000;
+}
+
+a.sui:hover {
+  color: #777;
+  opacity: 0.7;
+}
+
 .sponsors a {
   vertical-align: middle;
   background: center center no-repeat #f4f4f4;

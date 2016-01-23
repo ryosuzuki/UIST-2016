@@ -43,6 +43,22 @@
 
 <?php $app->render('Partials/organizers.php'); ?>
 
+<div class="ui stackable grid background-grid-gray">
+  <section id="deadline" class="twelve wide column centered">
+    <h2 class="ui horizontal inverted divider header" style="color:black">Co-located Events</h2>
+    <div class="ui stackable grid detail">
+      <div class="fourteen wide column centered" style="text-align:center">
+      <a class="sui" href="http://sui-symposium.org/" target="_blank">
+        <img src="/lib/img/sui.svg" alt="" width="180px">
+        <h1>SUI: Spatial User Interaction 2016</h1>
+        <p class="text"><i class="fa fa-fw fa-link"></i>http://sui-symposium.org/</p>
+      </a>
+      </div>
+    </div>
+  </section>
+</div>
+
+
 <div class="ui stackable grid">
   <section id="sponsors" class="twelve wide column centered">
     <h2 class="ui horizontal divider header">Sponsors</h2>

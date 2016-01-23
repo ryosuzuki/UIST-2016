@@ -3,7 +3,7 @@
     <h2 class="ui horizontal divider header">UIST History</h2>
     <div class="ui stackable grid detail">
       <div class="sixteen wide column centered">
-        <table class="ui fixed single line table">
+        <table class="ui fixed table">
           <thead class="text">
             <tr>
               <th>Year</th>
@@ -14,6 +14,14 @@
             </tr>
           </thead>
           <tbody class="text">
+            <tr>
+              <td> <a href="http://www.acm.org/uist/uist2015/">2015</a>
+              </td>
+              <td> Charlotte, NC, USA  </td>
+              <td> Bjoern Hartmann / Tovi Grossman </td>
+              <td> Celine Latulipe</td>
+              <td> </td>
+            </tr>
             <tr>
               <td> <a href="http://www.acm.org/uist/uist2014/">2014</a>
               </td>
@@ -294,9 +302,14 @@ they might be full before the deadline. Registration does not include hotels. Yo
     <h2 class="ui horizontal divider header">Awards</h2>
     <div class="ui stackable grid detail">
       <div class="sixteen wide column centered">
+  <section class="twelve wide column centered">
+    <h2 class="ui horizontal divider header">UIST History</h2>
+    <div class="ui stackable grid detail">
+      <div class="sixteen wide column centered">
+        <table class="ui fixed table">
 
 <table cellpadding="0" cellspacing="0">
-  <tbody>
+  <tbody class="text">
     <tr>
       <td>
       <p> &nbsp; </p>
@@ -307,6 +320,10 @@ they might be full before the deadline. Registration does not include hotels. Yo
       <h2> <a name="awards" id="awards">UIST Lasting Impact Awards</a>
       </h2>
       <blockquote>
+      <p> <strong>UIST 2015 Lasting Impact Award</strong><br>
+    Saul Greenberg and Chester Fitchett for
+    <a href="http://dx.doi.org/10.1145/502348.502388">Phidgets: Easy Development of Physical Interfaces through Physical Widgets</a>,
+    published in UIST 2001. </p>
       <p> <strong>UIST 2014 Lasting Impact Award</strong><br>
     Per-Ola Kristensson and Shumin Zhai for
     <a href="http://dx.doi.org/10.1145/1029632.1029640">SHARK<sup>2</sup>: a large vocabulary shorthand writing system for pen-based computers</a>,
@@ -359,6 +376,35 @@ they might be full before the deadline. Registration does not include hotels. Yo
       <h2> <a name="past-best-paper-awards" id="past-best-paper-awards">Past
 best paper awards</a> </h2>
       <blockquote>
+      <p> <strong>UIST'15 best paper award</strong><br>
+      <font>
+      Simon Olberding <em>(Max Planck Institute for Informatics)</em>,
+      Sergio Soto Ortega <em>(Max Planck Institute for Informatics)</em>,
+      Klaus Hildebrandt <em>(Max Planck Institute for Informatics)</em>,
+      Jurgen Steimle <em>(Max Planck Institute for Informatics)</em>:
+      "Foldio: Digital Fabrication of Interactive and Shape-Changing Objects With Foldable Printed Electronics"
+      </font>
+      </p>
+      <p> <strong>UIST'15 best paper award</strong><br>
+      <font>
+      Augusto Esteves <em>(Lancaster University)</em>,
+      Eduardo Velloso <em>(Lancaster University)</em>,
+      Andreas Bulling <em>(Max Planck Institute for Informatics)</em>,
+      Hans Gellersen <em>(Lancaster University)</em>:
+      "Orbits: Gaze Interaction for Smart Watches using Smooth Pursuit Eye Movements"
+      </font>
+      </p>
+      <p> <strong>UIST'15 best paper award</strong><br>
+      <font>
+      Clemens Klokmose <em>(Aarhus University)</em>,
+      James Eagan <em>(Télécom ParisTech, CNRS)</em>,
+      Siemen Baader <em>(Aarhus University)</em>,
+      Wendy Mackay <em>(INRIA, Université Paris-Sud)</em>,
+      Michel Beaudouin-Lafon <em>(Université Paris-Sud, CNRS)</em>:
+      "Webstrates: Shareable Dynamic Media"
+      </font>
+      </p>
+
       <p> <strong>UIST'14 best paper award</strong><br>
       <font>       Ken Hinckley <em>(Microsoft Research)</em>,
         Michel Pahud <em>(Microsoft Research)</em>,
@@ -607,6 +653,13 @@ Richard Anderson, and Bjorn Freeman-Benson (University of Washington):
 <h2> <a name="past-best-talk-winnners" id="past-best-talk-winnners">People’s Choice Best Talk winners</a> </h2>
       <blockquote>
       <!-- People’s Choice Best Talk winners. They were: -->
+
+<p> <strong>UIST'15 People’s Choice Best Talk winner</strong><br>
+      <font>
+Gierad Laput <em>(Carnegie Mellon University)</em> for "EM-Sense: Touch Recognition of Uninstrumented, Electrical and Electromechanical Objects
+"
+</p>
+
 <p> <strong>UIST'14 People’s Choice Best Talk winner</strong><br>
       <font>
 Yuta Sugiura <em>(Keio University)</em> for "Graffiti fur: turning your carpet into a computer display",
@@ -627,8 +680,10 @@ Rubaiat Habib Kazi <em>(Autodesk Research)</em> for "Kitty: sketching dynamic an
       <h2 style="margin-top:20px;"> <a name="past-keynote-speakers" id="past-keynote-speakers">Past
 keynote speakers</a> </h2>
       <blockquote>
+    <p> <strong>UIST '15</strong><br>Ramesh Raskar (MIT)<br>Blaise Aguera y Arcas(Google)</p>
+
     <p> <strong>UIST
-'14</strong><br>Prof. Mark Bolas (USC)<br>Bret Victor (worrydream.com)</p>
+'14</strong><br>Mark Bolas (USC)<br>Bret Victor (worrydream.com)</p>
 
         <p> <strong>UIST '13<br></strong>Raffaello D'Andrea (ETH Zurich)</p>
 		  <p> <strong>UIST '12</strong><br>
