@@ -43,7 +43,7 @@
 
 <?php $app->render('Partials/organizers.php'); ?>
 
-<div class="ui stackable grid background-grid-gray">
+<div class="ui stackable grid">
   <section id="deadline" class="twelve wide column centered">
     <h2 class="ui horizontal inverted divider header" style="color:black">Co-located Events</h2>
     <div class="ui stackable grid detail">

@@ -247,12 +247,13 @@ section.column .detail {
 }
 
 a.sui {
-  color: #000;
+  // color: #000;
 }
 
 a.sui:hover {
-  color: #777;
-  opacity: 0.7;
+  text-decoration: underline;
+  // color: #777;
+  // opacity: 0.7;
 }
 
 .sponsors a {
