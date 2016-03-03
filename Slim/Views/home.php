@@ -8,7 +8,11 @@
           Updates
         </div>
         <ul class="list text">
-          <li><a href="http://uist.acm.org/uist2016/papers">Call for Participation</a> is now available.</a></li>
+          <li><b>The UIST submissions</b> are now open:<br>
+          <a href="http://precisionconference.com/~sigchi" target="_balnk">http://precisionconference.com/~sigchi</a>
+          </li>
+          <br>
+          <li><a href="http://uist.acm.org/uist2016/papers">Call for Papers</a> is now available.</a></li>
           <li><a href="http://uist.acm.org/uist2016/submission">Deadlines</a> have been decided. (Paper & Notes: <b>April 13, 2016</b>)
           </li>
         </ul>
@@ -49,7 +53,7 @@
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered" style="text-align:center">
       <a class="sui" href="http://sui-symposium.org/" target="_blank">
-        <img src="/lib/img/sui.svg" alt="" width="180px">
+        <img src="<?php echo BASE_PATH; ?>/lib/img/sui.svg" alt="" width="180px">
         <h1>SUI: Spatial User Interaction 2016</h1>
         <p class="text"><i class="fa fa-fw fa-link"></i>http://sui-symposium.org/</p>
       </a>
