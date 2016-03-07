@@ -8,7 +8,7 @@
           Updates
         </div>
         <ul class="list text">
-          <li><b>The UIST submissions</b> are now open:<br>
+          <li><b>The UIST submission website</b> is now open:<br>
           <a href="http://precisionconference.com/~sigchi" target="_balnk">http://precisionconference.com/~sigchi</a>
           </li>
           <br>
