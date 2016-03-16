@@ -83,6 +83,12 @@ body {
   display: none;
 }
 
+@media screen and (max-width: 1500px) {
+  .ui.pointing.menu {
+    width: 70% !important;
+  }
+}
+
 @media screen and (max-width: 1200px) {
   .ui.pointing.menu {
     width: 80% !important;
