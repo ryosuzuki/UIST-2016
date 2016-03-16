@@ -221,7 +221,7 @@
             </tr>
             <tr>
               <td class="name">
-                <a href="" target="_blank">
+                <a href="http://rubaiathabib.me/" target="_blank">
                 Rubaiat Habib Kazi
                 </a>
               </td>
@@ -229,7 +229,7 @@
             </tr>
             <tr>
               <td class="name">
-                <a href="http://rubaiathabib.me/" target="_blank">
+                <a href="http://fannychevalier.net/" target="_blank">
                 Fanny Chevalier
                 </a>
               </td>
