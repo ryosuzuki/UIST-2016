@@ -14,7 +14,7 @@
             <tr>
               <td class="name">
                 <a href="https://aquigley.host.cs.st-andrews.ac.uk/" target="_blank">
-                Arron Quigley
+                Aaron Quigley
                 </a>
               </td>
               <td class="affiliation">University of St. Andrews</td>
