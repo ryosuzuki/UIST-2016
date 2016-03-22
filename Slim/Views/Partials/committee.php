@@ -158,7 +158,7 @@
             <tr>
               <td class="name">
                 <a href="http://stefaniemueller.org/" target="_blank">
-                Stefanie Muller
+                Stefanie Mueller
                 </a>
               </td>
               <td class="affiliation">Hasso Plattner Institute</td>
