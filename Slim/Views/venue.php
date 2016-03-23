@@ -1,6 +1,6 @@
 
 <center style="padding:5%;">
-    <h2>Welcome to Charlotte, North Carolina!</h2>
+    <h2>Welcome to Tokyo, Japan!</h2>
 </center>
 
 <div class="section" style="padding:5%;padding-top:0;">

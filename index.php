@@ -24,7 +24,7 @@ $app = new \Slim\Slim(array(
 ));
 
 if ($_SERVER['SERVER_NAME'] == "uist.acm.org") {
-  define("BASE_PATH", "http://uist.acm.org/uist2016");
+  define("BASE_PATH", "https://uist.acm.org/uist2016");
   $app->hook('slim.before', function () use ($app) {
     $app->view()->appendData(array('baseUrl' => 'http://uist.hosting.acm.org/uist2016'));
   });
