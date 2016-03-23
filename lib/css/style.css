@@ -47,6 +47,10 @@ body {
   line-height: 36px;
 }
 
+.text-middle {
+  line-height: 150%;
+}
+
 .ui.header, .text-spaced {
   letter-spacing: .1em;
   font-size: 16px;
@@ -62,6 +66,10 @@ body {
 
 .text-bold {
   font-weight: bold;
+}
+
+.maps iframe{
+  pointer-events: none;
 }
 
 .ui.pointing.menu {

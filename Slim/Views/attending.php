@@ -1,3 +1,5 @@
+
+<!--
 <div class="ui stackable grid">
   <section class="twelve wide column centered">
     <h2 class="ui horizontal divider header">Registration</h2>
@@ -42,28 +44,54 @@ they might be full before the deadline. Registration does not include hotels. Yo
     </div>
   </section>
 </div>
+-->
+
+
+<div class="ui stackable grid">
+  <section id="notice" class="ten wide column centered">
+    <div class="ui icon message">
+      <i class="fa fa-bell-o icon"></i>
+      <div class="content">
+        <div class="text text-bold">
+          IMPORTANT NOTICE: Book your hotel early !
+        </div>
+        <br>
+        <div class="text">
+          If you plan to attend (or consider attending) the UIST2016 conference in Tokyo, please book your hotel early, ideally NOW. Because of extreme shortage of hotel rooms in Tokyo, it can be difficult to find reasonable hotels near the conference venue later. You can cancel the hotel room afterwards, so we recommend you to book your hotel room first.
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
 
 <div class="ui stackable grid">
   <section class="twelve wide column centered">
     <h2 class="ui horizontal divider header">Venue</h2>
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
-
+        <div class="text">
+          ACM UIST 2016 will be held in central Tokyo, Japan from October 16th to October 19th, 2016. The conference venue (Hitotsubashi Hall, National Center of Sciences Building) is right at the center of Tokyo, near the imperial palace and Tokyo Station. The main technical program starts on Monday, October 17th. Doctoral Symposium will be held on October 16th at the University of Tokyo.
+        </div>
         <h1>
-        Main Conference Hall: <a href="http://www.hit-u.ac.jp/hall/" target="_blank">National Institute of Informatics</a>
-        </br>
-        Demo, Poster, Student innovation contest, and Reception: <a href="http://www.kaikan.co.jp/josui/">Josui-kaikan Hall</a>
-
-        <p class="text text-middle">
-        <i class="fa fa-map-marker fa-fw"></i>
-        <span>2-1-2 Hitotsubashi, Chiyoda, Tokyo 101-0003, Japan</span>
-        : <a href="https://www.google.com/maps?ll=35.692434,139.758192&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=6466607924994961678" target="_blank"><b><i class="fa fa-map-o fa-fw"></i>&nbsp;Google Maps</b></a>
-        </p>
+          <a href="http://www.hit-u.ac.jp/hall/" target="_blank">Hitotsubashi Hall, National Center of Sciences Building</a>
         </h1>
+        <div class="venue-info">
+          <p class="text text-middle">
+            <i class="fa fa-map-marker fa-fw"></i>
+            <span>2-1-2 Hitotsubashi, Chiyoda, Tokyo 101-0003, Japan</span>
+            : <a href="https://www.google.com/maps?ll=35.692434,139.758192&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=6466607924994961678" target="_blank"><b><i class="fa fa-map-o fa-fw"></i>&nbsp;Google Maps</b></a>
+          </p>
+          <p class="text text-middle">
+            <i class="fa fa-phone fa-fw"></i>
+            <span>Tel: +81-3-4212-2000 (Exchange)</span>
+          </p>
+          <p class="text text-middle">
+            <i class="fa fa-link fa-fw"></i>
+            <span><a href="https://www.nii.ac.jp/en/about/access/" target="_blank">https://www.nii.ac.jp/en/about/access/</a></span>
+          </p>
+        </div>
+        <br>
         <img class="ui fluid image" src="<?php echo BASE_PATH; ?>/lib/img/venue/001.jpg">
-        </br>
-        <p class="about text ">
-        </p>
       </div>
     </div>
   </section>
@@ -71,9 +99,46 @@ they might be full before the deadline. Registration does not include hotels. Yo
 
 
 <div class="ui stackable grid">
-  <div class="twelve wide column centered">
-    <h2 class="ui horizontal divider header">Access</h2>
-  </div>
+  <section class="twelve wide column centered">
+    <h2 class="ui horizontal divider header">Accommodation</h2>
+    <div class="ui stackable grid detail">
+      <div class="fourteen wide column centered">
+        <div class="text">
+          The conference venue is a university facility and we do not have any designated conference hotels. Please book a nearby hotel room by yourself. Early booking is strongly recommendaed becuase of constant shortage of hotel rooms in Tokyo. There are several hotels around the conference venue within walking distance. <a href="https://www.google.com/maps/d/edit?mid=zEQrhkQOwr5o.ks2qkUiXn81c&usp=sharing" target="_blank"><b><i class="fa fa-map-o fa-fw"></i>&nbsp;Open Google Maps</b></a>
+        </div>
+        <br>
+        <div class="text">
+          As an option, you can book a hotel through a web site bellow. The travel agency (JTB) secured a block of hotel rooms for us. However, the number of rooms are limited and we expect that this will be full soon. Afterwards, book a hotel using any other service by youself.
+          <ul>
+            <li><a href="https://mice3.jtbgmt.com/uist2016/" target="_blank">https://mice3.jtbgmt.com/uist2016/</a></li>
+            <li><b>ID:</b> password</li>
+            <li><b>PW:</b> gmt</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+
+<img class="centered image" style="width:100%;margin-top:60px;margin-bottom:30px" src="<?php echo BASE_PATH; ?>/lib/img/venue/003.jpg">
+
+
+<div class="ui stackable grid">
+  <section class="twelve wide column centered">
+    <h2 class="ui horizontal divider header">Transportation</h2>
+    <div class="ui stackable grid detail">
+      <div class="fourteen wide column centered">
+        <div class="text">
+          You can use either Narita International Airport or Haneda International Airport. It roughly takes 70 minutes from Narita and 50 minutes from Haneda by using public transportation.
+          You can walk from Jimbocho Station or Takebashi Station to the venue. You can find several choices of transportation from both two airports.
+          <br>
+          <br>
+          Route map to NII: <a href="https://www.nii.ac.jp/en/about/access/" target="_blank">https://www.nii.ac.jp/en/about/access/</a>
+        </div>
+      </div>
+    </div>
+  </section>
   <div class="eight wide column centered" style="margin-right:0">
     <h1><i class="fa fa-plane fa-fw"></i>From Haneda Airport</h1>
     <table class="ui single line table">
@@ -87,22 +152,22 @@ they might be full before the deadline. Registration does not include hotels. Yo
       </thead>
       <tbody class="text">
         <tr>
-          <td><b><i class="fa fa-bus fa-fw"></i>Bus</b></td>
-          <td>-</td>
-          <td>-</td>
-          <td>PDF</td>
+          <td><b><i class="fa fa-subway fa-fw"></i>Train</b></td>
+          <td>40-50 min</td>
+          <td>570 JPY</td>
+          <td><a href="<?php echo BASE_PATH; ?>/lib/img/venue/train-haneda.pdf" target="_blank">PDF</a></td>
         </tr>
         <tr>
-          <td><b><i class="fa fa-subway fa-fw"></i>Train</b></td>
-          <td>-</td>
-          <td>-</td>
-          <td>PDF</td>
+          <td><b><i class="fa fa-bus fa-fw"></i>Bus</b></td>
+          <td>50-60 min</td>
+          <td>1,100 JPY</td>
+          <td><a href="<?php echo BASE_PATH; ?>/lib/img/venue/bus-haneda.pdf" target="_blank">PDF</a></td>
         </tr>
         <tr>
           <td><b><i class="fa fa-taxi fa-fw"></i>Taxi</b></td>
-          <td>-</td>
-          <td>-</td>
-          <td>PDF</td>
+          <td>20-35 min</td>
+          <td>7,000 JPY</td>
+          <td>TBA</td>
         </tr>
       </tbody>
     </table>
@@ -119,58 +184,44 @@ they might be full before the deadline. Registration does not include hotels. Yo
       </thead>
       <tbody class="text">
         <tr>
-          <td><b><i class="fa fa-bus fa-fw"></i>Bus</b></td>
-          <td>-</td>
-          <td>-</td>
-          <td>PDF</td>
+          <td><b><i class="fa fa-subway fa-fw"></i>Train</b></td>
+          <td>75-90min</td>
+          <td>1,480 JPY</td>
+          <td><a href="<?php echo BASE_PATH; ?>/lib/img/venue/train-narita.pdf" target="_blank">PDF</a></td>
         </tr>
         <tr>
-          <td><b><i class="fa fa-subway fa-fw"></i>Train</b></td>
-          <td>-</td>
-          <td>-</td>
-          <td>PDF</td>
+          <td><b><i class="fa fa-bus fa-fw"></i>Bus</b></td>
+          <td>80-120min</td>
+          <td>3,100 JPY</td>
+          <td>TBA</td>
         </tr>
         <tr>
           <td><b><i class="fa fa-taxi fa-fw"></i>Taxi</b></td>
-          <td>-</td>
-          <td>-</td>
-          <td>PDF</td>
+          <td>130-140min</td>
+          <td>22,000 JPY</td>
+          <td>TBA</td>
         </tr>
       </tbody>
     </table>
   </div>
-  <div class="six wide column centered" style="margin-left:0">
+  <div class="six wide column centered maps" style="margin-left:0">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.407886964379!2d139.7589374!3d35.691579!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x59be01a56f0cf10e!2sNational+Institute+of+Informatics!5e0!3m2!1sen!2sus!4v1448346801912" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
   </div>
 </div>
 
 
-<img class="centered image" style="width:100%;margin-top:60px;margin-bottom:30px" src="<?php echo BASE_PATH; ?>/lib/img/venue/003.jpg">
-
-
-
-
 <div class="ui stackable grid">
   <section class="twelve wide column centered">
-    <h2 class="ui horizontal divider header">Accommodation</h2>
+    <h2 class="ui horizontal divider header">WiFi Access</h2>
     <div class="ui stackable grid detail">
-      <div class="twelve wide column centered">
-        <div class="ui icon warning message">
-          <i class="fa fa-bell-o icon"></i>
-          <div class="content">
-            <p class="text">
-              <b>Note: </b>
-              Registration does not include hotels. You should reserve hotels on your own. Early reservation is encouraged.
-            </p>
-          </div>
+      <div class="fourteen wide column centered">
+        <div class="text">
+          We plan to provide following WiFi access service to conference attendees.
+          It will allow you to use 200,000 public WiFi spots accross Japan during your stay, in addition to the WiFi spot at the confernece venue.
+          <br>
+          wi2 300 http://wi2.co.jp/en/300/
         </div>
       </div>
-      <div class="fourteen wide column centered">
-        <h1>Nearby Hotels</h1>
-        <p class="text">ホテル地図。概要。JTB のページへのリンク。加えて、ユースホステル
-情報など。craig list. AirBnB. booking. tripadvisor.KKR.グランドパレス。パレスホテル。ドームホテル。 Hotels in other areas.路線図。主要駅へのアクセス。新宿。渋谷。東京。銀座。六本木。通勤
-ラッシュに注意！</p>
-      </div>
     </div>
   </section>
 </div>
@@ -178,63 +229,122 @@ they might be full before the deadline. Registration does not include hotels. Yo
 
 <div class="ui stackable grid">
   <section class="twelve wide column centered">
-    <h2 class="ui horizontal divider header">Banquet</h2>
+    <h2 class="ui horizontal divider header">Food at the Conference</h2>
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
-        <p class="about text">
-          Banquet will be split into two venues. You will indicate your preference upon registration, and we assign you to one of them according to first-come-first-served basis.
-          <span class="ui horizontal divider"></span>
-          <b>1. Miyako</b>: 20 min walk from the venue (Marunouchi area). 2&3F of a building. Traditional Japanese full course (Kaiseki). Seated.
-          </br>
-          <b>2. Shunjyu</b>: 20 min bus from the venue (Akasaka area). 18F of a bulding. Nice view. Modern Japanese-style buffet. Not seated.
-        </p>
+        <h2>Welcome Reception (Oct 16 (sun) 6-8pm)</h2>
+        <div class="about text">
+          Welcome Reception takes place on Sunday October 16th evening from 6-8pm. The reception will take place at the Josui Kaikan next to the main conference building (National Center of Sciences Building). Finger foods, soft and alcoholic drinks will be served during the reception.
+        </div>
+        <h2>Demo Reception (Oct 17 (mon) 6-8pm)</h2>
+        <div class="text">
+          Demo Reception takes place on Monday October 17th evening. The reception will take place at the Josui Kaikan (next to the conference venue). Our program will include excting demos selected in a competitive process as well as several of our sponsor demos. Finger foods, soft and alcoholic drinks will be served during the reception.
+        </div>
+        <h2>Conference "SUMO" Banquet (Oct 18 (tue) 7-10pm)</h2>
+        <div class="stackable ui grid container">
+          <div class="nine wide column" style="padding-left:0">
+            <div class="text">
+              Conference banquet will be held at a Izakaya pub in Ryogoku, a well known town for Japanese national sports, SUMO. The pub is furnished in traditonal Japanese style and has a real sumo ring inside. The event will be held on Tuesday October 18, from 7-10pm. The pub is about 15 min bus ride from the main conference venue, and bus transportation to/from the event is included. Busses will be leaving directly from the conference hall building (more information will be posted closer to the event). You can also get there by train and walk. It will take 25 min. Food will be traditional Japanese with soft and alcoholic drinks. Attendees will enjoy a fun and entertaining evening program including a SUMO demonstration.
+            </div>
+          </div>
+          <div class="seven wide column" style="padding-right:0">
+            <img class="ui fluid image" src="http://www.chimney.co.jp/event/inbound/jnto/img/1505_chimney_10.jpg">
+          </div>
+        </div>
+        <br>
+        <h3>Ryogoku Happyakuyacho Hananomai, Edo-Toyko-Hakubutsukan mae ten</h3>
+        <div class="text text-middle">
+          <i class="fa fa-map-marker fa-fw"></i>
+          <span>1-1-15 Kamezawa, Sumida-ku, Tokyo</span>
+          <br>
+          <i class="fa fa-phone fa-fw"></i>
+          <span>Tel: 03-5619-4488</span>
+          <br>
+          <i class="fa fa-link fa-fw"></i>
+          <span><a href="http://www.chimney.co.jp/event/inbound/jnto/en/special_chimney.html" target="_blank">http://www.chimney.co.jp/event/inbound/jnto/en/special_chimney.html</a></span>
+          <br>
+          <i class="fa fa-link fa-fw"></i>
+          <span><a href="http://www.chimney.co.jp/event/ooedo808/ec/index.html" target="_blank">http://www.chimney.co.jp/event/ooedo808/ec/index.html</a></span>
+        </div>
+        <br>
+        <h2>Lunch Box</h2>
+        <div class="stackable ui grid container">
+          <div class="five wide column" style="padding-left:0">
+            <img class="ui fluid image" src="https://gochikuru.s3.amazonaws.com/images/s-bimiraisan.com/w640h427/CI12.jpg" alt="">
+          </div>
+          <div class="eleven wide column" style="padding-right:0">
+            <div class="about text">
+              We plan to provide lunch box to all attendees during the conference (Monday-Wednesday). More information will be posted closer to the event.
+            </div>
+          </div>
+        </div>
+        <h2>Breakfast & Coffee Breaks</h2>
+        <div class="text">
+          We plan to provide light breakfast each morning before the first session (Monday-Wednesday 8:45am-9:30am). Each day, there will also be a morning and an afternoon coffee break where coffee, tea and light refreshments will be served.
+        </div>
       </div>
     </div>
   </section>
 </div>
 
+<img class="centered image" style="width:100%;margin-top:60px;margin-bottom:30px" src="<?php echo BASE_PATH; ?>/lib/img/venue/sumo.jpg">
+
 
 <div class="ui stackable grid">
   <section class="twelve wide column centered">
-    <h2 class="ui horizontal divider header">Lunch</h2>
+    <h2 class="ui horizontal divider header">Local Activities and Sightseeing</h2>
     <div class="ui stackable grid detail">
-      <div class="six wide column centered" style="margin-right:0;">
-        <img class="ui fluid image" src="https://gochikuru.s3.amazonaws.com/images/s-bimiraisan.com/w640h427/CI12.jpg" alt="">
-      </div>
-      <div class="eight wide column centered" style="margin-left:0;">
-        <h1>Bento-box lunch</h1>
-        <p class="about text">
-          We plan to provide lunch boxes during the conference (disclaimer. We　might not be able to provide lunch if budget is tight). You will indicate preference upon registration. We have multiple small meeting rooms, and you can use them to organize informal meetings (first-come-first-served). Here is the current lunch meeting plans. If you want to organize one, send email to the chairs.
-        </p>
+      <div class="fourteen wide column centered">
+        <h2>Nearby popular areas</h2>
+        <div class="text">
+          <ul>
+            <li>
+              <a href="http://www.japan-guide.com/e/e3003.html" target="_blank">Akihabara
+              </a>
+            </li>
+            <li>
+              Imperial Palace
+            </li>
+            <li>
+              Marunouchi and Tokyo station
+            </li>
+            <li>
+              Ginza
+            </li>
+            <li>
+              Tsukiji Fish Market
+            </li>
+            <li>
+              Yasukuni Shrine
+            </li>
+          </ul>
+        </div>
+        <h2>Tours provided by travel agencies</h2>
+        <div class="text">
+          <ul>
+            <li>
+              <a href="http://www.japanican.com/en/tour/list/?GN_tours&ty=tyotours00" target="_blank">
+              Japanican
+              </a>
+            </li>
+            <li>
+              <a href="https://www.hatobus.com/int/en/" target="_blank">
+              Hato Bus
+              </a>
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
   </section>
 </div>
 
-
 <div class="ui stackable grid">
   <section class="twelve wide column centered">
-    <h2 class="ui horizontal divider header">Excursion</h2>
-    <div class="ui stackable grid detail">
-      <div class="fourteen wide column centered">
-        <p class="about text">
-          Here is suggestions for excursion before or after the conference. within tokyo 皇居。秋葉原。丸の内。東京駅。明治神宮。浅草。 outside of tokyo 鎌倉。箱根。富士。日光。横浜。 JST (tour company) provide tours for UIST attendees. see here for details. We also plan to have a lab tour to The university of Tokyo on Thursday.
-        </p>
-      </div>
-    </div>
+    <h2 class="ui horizontal divider header">Area Maps</h2>
   </section>
 </div>
 
-
-<div class="ui stackable grid">
-  <section class="twelve wide column centered">
-    <h2 class="ui horizontal divider header">Travel Tips</h2>
-    <div class="ui stackable grid detail">
-      <div class="fourteen wide column centered">
-        <p class="about text">
-          WiFi. Tips. Electricity. Water. Weather.
-        </p>
-      </div>
-    </div>
-  </section>
+<div class="centered maps" style="width:100%;margin-top:60px;margin-bottom:30px">
+  <iframe src="https://www.google.com/maps/d/embed?mid=zEQrhkQOwr5o.ks2qkUiXn81c" width="100%" height="580"  frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
