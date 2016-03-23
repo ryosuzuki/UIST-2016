@@ -31,7 +31,7 @@
     <link rel="icon" type="image/png" href='<?php echo BASE_PATH; ?>/lib/img/icon-acm.gif'>
     <link rel='stylesheet' type='text/css' href='<?php echo BASE_PATH; ?>/bower_components/semantic-ui/dist/semantic.css' />
     <link rel='stylesheet' type='text/css' href='<?php echo BASE_PATH; ?>/bower_components/fontawesome/css/font-awesome.css' />
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700">
     <link rel='stylesheet' type='text/css' href='<?php echo BASE_PATH; ?>/lib/css/style.css' />
     <script type='text/javascript' src="<?php echo BASE_PATH; ?>/bower_components/jquery/dist/jquery.js"></script>
     <script type='text/javascript' src="<?php echo BASE_PATH; ?>/bower_components/semantic-ui/dist/semantic.js"></script>
