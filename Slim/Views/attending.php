@@ -348,3 +348,14 @@ they might be full before the deadline. Registration does not include hotels. Yo
 <div class="centered maps" style="width:100%;margin-top:60px;margin-bottom:30px">
   <iframe src="https://www.google.com/maps/d/embed?mid=zEQrhkQOwr5o.ks2qkUiXn81c" width="100%" height="580"  frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
+
+<script>
+  $('.maps').on('click', function (e) {
+    $('.maps iframe').css("pointer-events", "auto");
+  });
+
+  $('.maps').on('mouseleave', function() {
+    $('.maps iframe').css("pointer-events", "none");
+  });
+</script>
+

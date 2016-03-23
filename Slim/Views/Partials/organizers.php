@@ -115,10 +115,10 @@
         <h3 class="text text-spaced text-center">
         <span>Publicity Chair</span>
         </h3>
-        <a href="https://fukuchi.org/" target="_blank">
+        <a href="http://www.cmlab.csie.ntu.edu.tw/~howieliang/" target="_blank">
           <div>
-            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/kentaro-fukuchi.jpg">
-            <h3 class="text-center">Kentaro Fukuchi</h3>
+            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/rong-hao-liang.jpg">
+            <h3 class="text-center">Rong-Hao Liang</h3>
           </div>
         </a>
       </div>
@@ -129,9 +129,15 @@
         <span>Doctoral Symposium Chair</span>
         </h3>
         <a href="http://www.patrickbaudisch.com/" target="_blank">
-          <div>
+          <div style="width:50%;float:left;">
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/patrick-baudisch.jpg">
             <h3 class="text-center">Patrick Baudisch</h3>
+          </div>
+        </a>
+        <a href="http://apapababy.com/" target="_blank">
+          <div style="width:50%;float:left;">
+            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/hiromi-nakamura.jpg">
+            <h3 class="text-center">Hiromi Nakamura</h3>
           </div>
         </a>
       </div>
