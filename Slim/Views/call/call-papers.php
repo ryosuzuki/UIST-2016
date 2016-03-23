@@ -7,7 +7,7 @@
 
   <h1>UIST 2016 Call for Participation</h1>
   <h2>
-    PAPERS (Deadline: Wednesday April 13, 2016 12:00 PST)
+    PAPERS (Deadline: Wednesday April 13, 2016 12:00 PDT)
   </h2>
   <div class="text">
     Papers are the main medium for conveying new research results at UIST. Submissions are sought that describe original, unpublished work on user interface interaction techniques, systems, tools, services, devices, applications, or metaphors. Please consult the <a href="http://uist.acm.org/uist2016/author-guide" target="_blank">UIST 2016 Author's Guide</a> for information on submission format and policies for previous and simultaneous publications. Note that paper submissions must be anonymous! <b>Authors must remove their names and affiliations from the masthead and <u>refer to their own previous work in third person</u> when possible.</b> See the anonymization policy in the Author’s Guide for more information.
@@ -106,19 +106,19 @@
   <div class="text">
     <ul>
       <li>
-        April 13, 2016: Papers due by <b style="color:#ca0002">12:00 PST</b>.
+        April 13, 2016: Papers due by <b style="color:#ca0002">12:00 PDT</b>.
       </li>
       <li>
         June 9, 2016: Papers below the rebuttal threshold will be rejected and authors of those papers will be notified.
       </li>
       <li>
-        June 9-16, 2016: Authors of above-threshold papers will have the opportunity to provide a rebuttal (by June 16 @ <b style="color:#ca0002">17:00 PST</b>).
+        June 9-16, 2016: Authors of above-threshold papers will have the opportunity to provide a rebuttal (by June 16 @ <b style="color:#ca0002">17:00 PDT</b>).
       </li>
       <li>
         June 26, 2016: Authors will be notified if papers are conditionally accepted or rejected.
       </li>
       <li>
-        July 26, 2016 <b style="color:#ca0002">17:00 PST</b>: Authors submit revised conditionally accepted papers to committee for final review.
+        July 26, 2016 <b style="color:#ca0002">17:00 PDT</b>: Authors submit revised conditionally accepted papers to committee for final review.
       </li>
       <li>
         Aug. 2, 2016: Authors will be notified of the final decision.
@@ -127,7 +127,7 @@
         Aug. 10, 2016: Final camera-ready papers due.
       </li>
       <li>
-        Aug. 10, 2016 <b style="color:#ca0002">17:00 PST</b>: 30-second video previews due (mandatory).
+        Aug. 10, 2016 <b style="color:#ca0002">17:00 PDT</b>: 30-second video previews due (mandatory).
       </li>
     </ul>
   </div>

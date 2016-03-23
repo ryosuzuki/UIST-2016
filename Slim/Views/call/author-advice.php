@@ -74,7 +74,7 @@
     Don’t Wait until the Last Minute
   </h2>
   <div class="text">
-    The submission site will open March 1, 2016 and close on April 13, 2016 at Noon PST. This gives you six *weeks* to submit your paper. Rushing to submit on the day of submission deadline is unlikely to have good results. Beyond simple stress, a rushed submission is likely to have errors and production problems. In some cases, technical issues with the submission site may cause you to miss the deadline. With a 6-week submission window, consider submitting your work as late as 24 hours before the deadline (i.e., submit on April 12, 2016), and spend the remaining time correcting any typos or grammatical errors.
+    The submission site will open March 1, 2016 and close on April 13, 2016 at Noon PDT. This gives you six *weeks* to submit your paper. Rushing to submit on the day of submission deadline is unlikely to have good results. Beyond simple stress, a rushed submission is likely to have errors and production problems. In some cases, technical issues with the submission site may cause you to miss the deadline. With a 6-week submission window, consider submitting your work as late as 24 hours before the deadline (i.e., submit on April 12, 2016), and spend the remaining time correcting any typos or grammatical errors.
   </div>
 
   <h2>
