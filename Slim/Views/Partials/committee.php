@@ -233,7 +233,7 @@
                 Fanny Chevalier
                 </a>
               </td>
-              <td class="affiliation">University of Toronto</td>
+              <td class="affiliation">Inria</td>
             </tr>
             <tr>
               <td class="name">
