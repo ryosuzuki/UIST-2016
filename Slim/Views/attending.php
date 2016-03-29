@@ -91,7 +91,10 @@ they might be full before the deadline. Registration does not include hotels. Yo
           </p>
         </div>
         <br>
-        <img class="ui fluid image" src="<?php echo BASE_PATH; ?>/lib/img/venue/001.jpg">
+        <img class="ui fluid image" src="<?php echo BASE_PATH; ?>/lib/img/venue/room-01.jpg">
+        <br>
+        <br>
+        <img class="ui fluid image" src="<?php echo BASE_PATH; ?>/lib/img/venue/room-02.jpg">
       </div>
     </div>
   </section>
@@ -107,6 +110,7 @@ they might be full before the deadline. Registration does not include hotels. Yo
           The conference venue is a university facility and we do not have any designated conference hotels. Please book a nearby hotel room by yourself. Early booking is strongly recommendaed becuase of constant shortage of hotel rooms in Tokyo. There are several hotels around the conference venue within walking distance. <a href="https://www.google.com/maps/d/edit?mid=zEQrhkQOwr5o.ks2qkUiXn81c&usp=sharing" target="_blank"><b><i class="fa fa-map-o fa-fw"></i>&nbsp;Open Google Maps</b></a>
         </div>
         <br>
+        <!--
         <div class="text">
           As an option, you can book a hotel through a web site bellow. The travel agency (JTB) secured a block of hotel rooms for us. However, the number of rooms are limited and we expect that this will be full soon. Afterwards, book a hotel using any other service by youself.
           <ul>
@@ -115,13 +119,14 @@ they might be full before the deadline. Registration does not include hotels. Yo
             <li><b>PW:</b> gmt</li>
           </ul>
         </div>
+        -->
       </div>
     </div>
   </section>
 </div>
 
 
-<img class="centered image" style="width:100%;margin-top:60px;margin-bottom:30px" src="<?php echo BASE_PATH; ?>/lib/img/venue/003.jpg">
+<img class="centered image" style="width:100%;margin-top:60px;margin-bottom:30px" src="<?php echo BASE_PATH; ?>/lib/img/venue/building.jpg">
 
 
 <div class="ui stackable grid">
@@ -248,7 +253,7 @@ they might be full before the deadline. Registration does not include hotels. Yo
             </div>
           </div>
           <div class="seven wide column" style="padding-right:0">
-            <img class="ui fluid image" src="http://www.chimney.co.jp/event/inbound/jnto/img/1505_chimney_10.jpg">
+            <img class="ui fluid image" src="<?php echo BASE_PATH; ?>/lib/img/venue/dinner.jpg">
           </div>
         </div>
         <br>
@@ -270,7 +275,7 @@ they might be full before the deadline. Registration does not include hotels. Yo
         <h2>Lunch Box</h2>
         <div class="stackable ui grid container">
           <div class="five wide column" style="padding-left:0">
-            <img class="ui fluid image" src="https://gochikuru.s3.amazonaws.com/images/s-bimiraisan.com/w640h427/CI12.jpg" alt="">
+            <img class="ui fluid image" src="<?php echo BASE_PATH; ?>/lib/img/venue/lunch-box.jpg" alt="">
           </div>
           <div class="eleven wide column" style="padding-right:0">
             <div class="about text">
@@ -299,23 +304,34 @@ they might be full before the deadline. Registration does not include hotels. Yo
         <div class="text">
           <ul>
             <li>
-              <a href="http://www.japan-guide.com/e/e3003.html" target="_blank">Akihabara
+              <a href="http://www.japan-guide.com/e/e3003.html" target="_blank">
+              Akihabara
               </a>
             </li>
             <li>
+              <a href="http://www.japan-guide.com/e/e3017.html" target="_blank">
               Imperial Palace
+              </a>
             </li>
             <li>
+              <a href="http://www.japan-guide.com/e/e3037.html" target="_blank">
               Marunouchi and Tokyo station
+              </a>
             </li>
             <li>
+              <a href="http://www.japan-guide.com/e/e3005.html" target="_blank">
               Ginza
+              </a>
             </li>
             <li>
+              <a href="http://www.japan-guide.com/e/e3021.html" target="_blank">
               Tsukiji Fish Market
+              </a>
             </li>
             <li>
+              <a href="http://www.japan-guide.com/e/e2321.html" target="_blank">
               Yasukuni Shrine
+              </a>
             </li>
           </ul>
         </div>
