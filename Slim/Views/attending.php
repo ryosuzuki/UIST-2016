@@ -110,16 +110,11 @@ they might be full before the deadline. Registration does not include hotels. Yo
           The conference venue is a university facility and we do not have any designated conference hotels. Please book a nearby hotel room by yourself. Early booking is strongly recommendaed becuase of constant shortage of hotel rooms in Tokyo. There are several hotels around the conference venue within walking distance. <a href="https://www.google.com/maps/d/edit?mid=zEQrhkQOwr5o.ks2qkUiXn81c&usp=sharing" target="_blank"><b><i class="fa fa-map-o fa-fw"></i>&nbsp;Open Google Maps</b></a>
         </div>
         <br>
-        <!--
         <div class="text">
-          As an option, you can book a hotel through a web site bellow. The travel agency (JTB) secured a block of hotel rooms for us. However, the number of rooms are limited and we expect that this will be full soon. Afterwards, book a hotel using any other service by youself.
-          <ul>
-            <li><a href="https://mice3.jtbgmt.com/uist2016/" target="_blank">https://mice3.jtbgmt.com/uist2016/</a></li>
-            <li><b>ID:</b> password</li>
-            <li><b>PW:</b> gmt</li>
-          </ul>
+          As an option, you can book a hotel through this web site (<a href="https://mice3.jtbgmt.com/uist2016/">https://mice3.jtbgmt.com/uist2016/</a>). The travel agency (JTB) secured a block of hotel rooms for us. However, the number of rooms are limited and we expect that this will be full soon. Afterwards, please book a hotel using any other service by yourself.
+          <br>
+          If you have any question about booking through the above web site, please directly contact JTB (<a href="mailto:uist2016@gmt.jtb.jp">uist2016@gmt.jtb.jp</a>)
         </div>
-        -->
       </div>
     </div>
   </section>
