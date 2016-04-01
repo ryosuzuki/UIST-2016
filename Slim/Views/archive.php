@@ -2,7 +2,7 @@
   <section class="twelve wide column centered">
     <h2 class="ui horizontal divider header">UIST History</h2>
     <div class="ui stackable grid detail">
-      <div class="sixteen wide column centered">
+      <div class="fourteen wide column centered">
         <table class="ui fixed table">
           <thead class="text">
             <tr>
@@ -301,13 +301,13 @@ they might be full before the deadline. Registration does not include hotels. Yo
   <section class="twelve wide column centered">
     <h2 class="ui horizontal divider header">Awards</h2>
     <div class="ui stackable grid detail">
-      <div class="sixteen wide column centered">
-  <section class="twelve wide column centered">
+      <div class="fourteen wide column centered">
+<!--   <section class="twelve wide column centered">
     <h2 class="ui horizontal divider header">UIST History</h2>
     <div class="ui stackable grid detail">
       <div class="sixteen wide column centered">
         <table class="ui fixed table">
-
+ -->
 <table cellpadding="0" cellspacing="0">
   <tbody class="text">
     <tr>
@@ -317,9 +317,8 @@ they might be full before the deadline. Registration does not include hotels. Yo
     </tr>
     <tr>
       <td>
-      <h2> <a name="awards" id="awards">UIST Lasting Impact Awards</a>
-      </h2>
-      <blockquote>
+      <h1> <a name="awards" id="awards">UIST Lasting Impact Awards</a>
+      </h1>
       <p> <strong>UIST 2015 Lasting Impact Award</strong><br>
     Saul Greenberg and Chester Fitchett for
     <a href="http://dx.doi.org/10.1145/502348.502388">Phidgets: Easy Development of Physical Interfaces through Physical Widgets</a>,
@@ -371,11 +370,9 @@ they might be full before the deadline. Registration does not include hotels. Yo
      <a href="http://dx.doi.org/10.1145/120782.120785">The DigitalDesk calculator: tangible manipulation on a desk top display</a>,
      published in UIST 1991.<br>
       &nbsp; </p>
-      </blockquote>
 
-      <h2> <a name="past-best-paper-awards" id="past-best-paper-awards">Past
-best paper awards</a> </h2>
-      <blockquote>
+      <h1> <a name="past-best-paper-awards" id="past-best-paper-awards">Past
+best paper awards</a> </h1>
       <p> <strong>UIST'15 best paper award</strong><br>
       <font>
       Simon Olberding <em>(Max Planck Institute for Informatics)</em>,
@@ -647,11 +644,9 @@ paper award<br>
 Richard Anderson, and Bjorn Freeman-Benson (University of Washington):
 "Indigo: A Local Propagation Algorithm for Inequality Constraints"<br>
 &nbsp; </p>
-      </blockquote>
 
 
-<h2> <a name="past-best-talk-winnners" id="past-best-talk-winnners">People’s Choice Best Talk winners</a> </h2>
-      <blockquote>
+<h1> <a name="past-best-talk-winnners" id="past-best-talk-winnners">People’s Choice Best Talk winners</a> </h1>
       <!-- People’s Choice Best Talk winners. They were: -->
 
 <p> <strong>UIST'15 People’s Choice Best Talk winner</strong><br>
@@ -674,12 +669,10 @@ James McCrae <em>(University of Toronto)</em> for "FlatFitFab: Interactive Model
       <font>
 Rubaiat Habib Kazi <em>(Autodesk Research)</em> for "Kitty: sketching dynamic and interactive illustrations".</p>
 <!-- These winners should have the name of the paper, and the presenting author (rather than the full list of authors) -->
-     </blockquote>
 
-
-      <h2 style="margin-top:20px;"> <a name="past-keynote-speakers" id="past-keynote-speakers">Past
-keynote speakers</a> </h2>
-      <blockquote>
+      <br>
+      <h1 style="margin-top:20px;"> <a name="past-keynote-speakers" id="past-keynote-speakers">Past
+keynote speakers</a> </h1>
     <p> <strong>UIST '15</strong><br>Ramesh Raskar (MIT)<br>Blaise Aguera y Arcas(Google)</p>
 
     <p> <strong>UIST
@@ -824,7 +817,6 @@ UIST Father of UIST Award</strong> </h2>
         <p> 2007
 Presented to Dan R. Olsen Jr.
         </p>
-      </blockquote>
       </td>
     </tr>
     <tr>
