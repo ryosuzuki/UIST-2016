@@ -6,10 +6,7 @@
   <div class="fourteen wide column centered">
 
   <h1>Call for Posters</h1>
-  <h2>
-    PAPERS (Deadline: Wednesday April 13, 2016 12:00 PDT)
-  </h2>
-
+  <h2>POSTERS (Deadline: Thursday July 7, 2016 12:00 PDT)</h2>
   <div class="text">
     Posters provide an interactive forum in which authors can present their work to conference attendees during special poster sessions. Posters are an opportunity to describe new work or work that is still in progress, and will be more lightly reviewed than papers. The posters track welcomes innovative research, as well as innovative ways of doing research.
     <br>
@@ -31,13 +28,13 @@
   <div class="text">
     <ul>
       <li>
-        July 7, 2016: Submissions due by 12:00 PDT.
+        <b>July 7, 2016:</b> Submissions due by 12:00 PDT.
       </li>
       <li>
-        August 12, 2016: Notification of acceptance decisions.
+        <b>August 12, 2016:</b> Notification of acceptance decisions.
       </li>
       <li>
-        August 10, 2016: Camera ready versions due.
+        <b>August 10, 2016:</b> Camera ready versions due.
       </li>
     </ul>
   </div>

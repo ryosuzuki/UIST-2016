@@ -106,28 +106,28 @@
   <div class="text">
     <ul>
       <li>
-        April 13, 2016: Papers due by <b style="color:#ca0002">12:00 PDT</b>.
+        <b>April 13, 2016:</b> Papers due by <b style="color:#ca0002">12:00 PDT</b>.
       </li>
       <li>
-        June 9, 2016: Papers below the rebuttal threshold will be rejected and authors of those papers will be notified.
+        <b>June 9, 2016:</b> Papers below the rebuttal threshold will be rejected and authors of those papers will be notified.
       </li>
       <li>
-        June 9-16, 2016: Authors of above-threshold papers will have the opportunity to provide a rebuttal (by June 16 @ <b style="color:#ca0002">17:00 PDT</b>).
+        <b>June 9-16, 2016:</b> Authors of above-threshold papers will have the opportunity to provide a rebuttal (by June 16 @ <b style="color:#ca0002">17:00 PDT</b>).
       </li>
       <li>
-        June 26, 2016: Authors will be notified if papers are conditionally accepted or rejected.
+        <b>June 26, 2016:</b> Authors will be notified if papers are conditionally accepted or rejected.
       </li>
       <li>
-        July 26, 2016 <b style="color:#ca0002">17:00 PDT</b>: Authors submit revised conditionally accepted papers to committee for final review.
+        <b>July 26, 2016 <span style="color:#ca0002">17:00 PDT</span>:</b> Authors submit revised conditionally accepted papers to committee for final review.
       </li>
       <li>
-        Aug. 2, 2016: Authors will be notified of the final decision.
+        <b>Aug. 2, 2016:</b> Authors will be notified of the final decision.
       </li>
       <li>
-        Aug. 10, 2016: Final camera-ready papers due.
+        <b>Aug. 10, 2016:</b> Final camera-ready papers due.
       </li>
       <li>
-        Aug. 10, 2016 <b style="color:#ca0002">17:00 PDT</b>: 30-second video previews due (mandatory).
+        <b>Aug. 10, 2016 <span style="color:#ca0002">17:00 PDT</span>:</b> 30-second video previews due (mandatory).
       </li>
     </ul>
   </div>
