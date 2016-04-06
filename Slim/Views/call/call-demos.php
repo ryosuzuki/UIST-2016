@@ -14,7 +14,10 @@
     <br><br>
     Accepted demonstration abstracts will be published together with posters and doctoral symposium abstracts and made available digitally to conference attendees. UIST will showcase accepted demos at an evening reception. We will also invite authors of accepted papers to present their work at the demo reception.
     <br><br>
-    A demo submission should follow the official SIGCHI conference publication paper format (use the <a href="http://www.sigchi.org/publications/chipubform/sigchi-papers-word-template/view" target="_blank">Word Template</a> or <a href="http://www.sigchi.org/publications/chipubform/sigchi-papers-latex-template/view" target="_blank">Latex Template</a>), and should be no more than two pages in length, not including references. Note that demo submissions, unlike paper submissions, are not anonymous.
+    A demo submission should follow the official SIGCHI conference publication paper format (<a href="http://www.sigchi.org/publications/chipubform/sigchi-papers-word-template/view" target="_blank">Word Template</a> or <a href="http://www.sigchi.org/publications/chipubform/sigchi-papers-latex-template/view" target="_blank">Latex Template</a>), and should be no more than two pages in length, not including references. Note that demo submissions, unlike paper submissions, are not anonymous.
+    <br>
+    <br>
+    All papers should be submitted electronically to: <a href="http://www.precisionconference.com/~sigchi" target="_blank">http://www.precisionconference.com/~sigchi</a>.
   </div>
   <h2>Selection process</h2>
   <div class="text">
