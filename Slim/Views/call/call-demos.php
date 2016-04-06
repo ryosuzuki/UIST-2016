@@ -7,7 +7,7 @@
 
   <h1>Call for Demos</h1>
   <h2>
-    DEMONSTRATIONS (Deadline: July 7, 2016)
+    DEMONSTRATIONS (Deadline: Thursday July 7, 2016 12:00 PDT)
   </h2>
   <div class="text">
     Demonstrations show early implementations of novel and compelling interaction concepts, techniques, devices and systems. They can also serve to showcase commercial products not previously described in the research literature. Demonstrations should be brief, so that they can be shown repeatedly. We particularly encourage demos with which attendees can interact.
@@ -35,9 +35,9 @@
   <h2>Relevant dates:</h2>
   <div class="text">
     <ul>
-      <li><b>July 5:</b> Submissions due by 17:00 PDT.</li>
-      <li><b>July 30:</b> Notification of acceptance decisions.</li>
-      <li><b>August 10:</b> Camera ready versions due.</li>
+      <li><b>July 7, 2016:</b> Submissions due by 12:00 PDT.</li>
+      <li><b>July 30, 2016:</b> Notification of acceptance decisions.</li>
+      <li><b>August 7, 2016:</b> Camera ready versions due.</li>
     </ul>
   </div>
 
