@@ -85,7 +85,8 @@
     Student Volunteer Chairs (<a href="mailto:sv@uist.org">sv@uist.org</a>)
   </h2>
   <div class="text">
-    David Lindlbauer (TU Berlin, Germany), Jun Kato (National Institute of Advanced Industrial Science and Technology, Japan)
+    <b>David Lindlbauer</b> (TU Berlin, Germany),
+    <b>Jun Kato</b> (National Institute of Advanced Industrial Science and Technology, Japan)
   </div>
 </section>
 </div>

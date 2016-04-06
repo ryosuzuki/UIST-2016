@@ -184,9 +184,9 @@
   <div class="text">
     The UIST 2016 Student Innovation Contest is being organized and co-chaired by:
     <br><br>
-    Pedro Lopes (Hasso Plattner Institute, Germany)
+    <b>Pedro Lopes</b> (Hasso Plattner Institute, Germany),
     <br><br>
-    Lining Yao (MIT Media Lab, United States)
+    <b>Lining Yao</b> (MIT Media Lab, United States)
     <br><br>
     Email: <a href="mailto:studentinnovation@uist.org">studentinnovation@uist.org</a>
   </div>

@@ -31,7 +31,7 @@
         <b>July 7, 2016:</b> Submissions due by 12:00 PDT.
       </li>
       <li>
-        <b>August 3, 2016:</b> Notification of acceptance decisions.
+        <b>July 30, 2016:</b> Notification of acceptance decisions.
       </li>
       <li>
         <b>August 7, 2016:</b> Camera ready versions due.
@@ -43,7 +43,8 @@
     Posters Chairs (<a href="mailto:posters@uist.org">posters@uist.org</a>)
   </h2>
   <div class="text">
-    Juho Kim (KAIST, Korea), Stefanie Mueller (HPI, Germany)
+    <b>Juho Kim</b> (KAIST, Korea),
+    <b>Stefanie Mueller</b> (HPI, Germany)
   </div>
 </section>
 </div>

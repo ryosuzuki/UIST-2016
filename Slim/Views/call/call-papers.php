@@ -7,7 +7,7 @@
 
   <h1>UIST 2016 Call for Participation</h1>
   <h2>
-    PAPERS (Deadline: Wednesday April 13, 2016 12:00 PDT)
+    PAPERS (Deadline: Wednesday April 13, 2016 12:00 PDT – i.e., noon PDT)
   </h2>
   <div class="text">
     Papers are the main medium for conveying new research results at UIST. Submissions are sought that describe original, unpublished work on user interface interaction techniques, systems, tools, services, devices, applications, or metaphors. Please consult the <a href="http://uist.acm.org/uist2016/author-guide" target="_blank">UIST 2016 Author's Guide</a> for information on submission format and policies for previous and simultaneous publications. Note that paper submissions must be anonymous! <b>Authors must remove their names and affiliations from the masthead and <u>refer to their own previous work in third person</u> when possible.</b> See the anonymization policy in the Author’s Guide for more information.
@@ -106,7 +106,7 @@
   <div class="text">
     <ul>
       <li>
-        <b>April 13, 2016:</b> Papers due by <b style="color:#ca0002">12:00 PDT</b>.
+        <b>April 13, 2016:</b> Papers due by <b style="color:#ca0002">12:00 PDT – i.e., noon PDT</b>.
       </li>
       <li>
         <b>June 9, 2016:</b> Papers below the rebuttal threshold will be rejected and authors of those papers will be notified.
@@ -136,7 +136,8 @@
     Program Chairs (<a href="mailto:program2016@uist.org">program2016@uist.org</a>)
   </h2>
   <div class="text">
-    Daniel Avrahami (FXPAL), Jacob O. Wobbrock (University of Washington)
+    <b>Daniel Avrahami</b> (FXPAL),
+    <b>Jacob O. Wobbrock</b> (University of Washington)
   </div>
 
 </section>
