@@ -5,7 +5,7 @@
   <div class="ui stackable grid detail">
   <div class="fourteen wide column centered">
 
-  <!-- <h1>Call for Demos</h1> -->
+  <h1>Call for Demos</h1>
   <h2>
     DEMONSTRATIONS (Deadline: July 7, 2016)
   </h2>
@@ -35,15 +35,15 @@
   <h2>Relevant dates:</h2>
   <div class="text">
     <ul>
-      <li><b>July 9:</b> Submissions due by 17:00 PDT.</li>
-      <li><b>August 13:</b> Notification of acceptance decisions.</li>
-      <li><b>August 23:</b> Camera ready versions due.</li>
+      <li><b>July 5:</b> Submissions due by 17:00 PDT.</li>
+      <li><b>July 30:</b> Notification of acceptance decisions.</li>
+      <li><b>August 10:</b> Camera ready versions due.</li>
     </ul>
   </div>
 
   <h3>Demonstration Chairs (<a href="mailto:demos@uist.org">demos@uist.org</a>):</h3>
   <div class="text">
-    Chris Harrison, Carnegie Mellon University, USA;<br>Nicolai Marquardt, University College London, UK
+    Yuta Sugiura (National Institute of Advanced Industrial Science and Technology, Japan), Chris Harrison (Carnegie Mellon University, USA)
   </div>
 
 </div>

@@ -1,7 +1,7 @@
 
 <div class="ui stackable grid">
   <section id="call" class="twelve wide column centered">
-  <h2 class="ui horizontal divider header">Call for Posters</h2>
+  <h2 class="ui horizontal divider header">Call for Innovation Contest</h2>
   <div class="ui stackable grid detail">
   <div class="fourteen wide column centered">
 
@@ -14,7 +14,7 @@
     In the UIST Student Innovation Contest student teams create intriguing novel interfaces using exciting hardware kits that we provide, this year it is: Electrical Muscle Stimulation (EMS). It’s your opportunity to shine and impress the world with your innovations! Contestants will demo their creations during the demo reception at the conference in Tokyo Japan; and the winners will be announced at the UIST banquet. A jury of UIST celebrities will select two winners in the Most Creative Interface and Best Implementation categories. On top of that, conference attendees will get a chance to vote for their favorite teams in the People's Choice category.
   </div>
 
-  <h3>Important dates</h3>
+  <h2>Important dates</h2>
   <div class="text">
     <ul>
       <li>student contest registration deadline for all teams : <strong>August 1</strong></li>

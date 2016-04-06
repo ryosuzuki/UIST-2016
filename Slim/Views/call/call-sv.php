@@ -1,13 +1,13 @@
 
 <div class="ui stackable grid">
   <section id="call" class="twelve wide column centered">
-  <h2 class="ui horizontal divider header">Call for Posters</h2>
+  <h2 class="ui horizontal divider header">Call for Student Volunteers</h2>
   <div class="ui stackable grid detail">
   <div class="fourteen wide column centered">
 
-  <h1>Student Volunteers</h1>
+  <!-- <h1>Student Volunteers</h1> -->
   <h2>
-    SVs (Deadline: July 25, 2016 17:00 PDT)
+    STUDENT VOLUNTEERS (Deadline: July 25, 2016 17:00 PDT)
   </h2>
 
   <div class="text">
