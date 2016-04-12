@@ -5,7 +5,7 @@
     <div class="ui stackable grid detail">
       <div class="seven wide column centered">
         <h3 class="text text-spaced text-center">
-        <span>General Co-Chairs</span>
+        <span>General Co-Chairs<br>(<a href="mailto:chair@uist.org">chair@uist.org</a>)</span>
         </h3>
         <a href="http://lab.rekimoto.org/members-2/rekimoto/" target="_blank">
           <div style="width:50%;float:left;">
@@ -23,7 +23,7 @@
 
       <div class="seven wide column centered">
         <h3 class="text text-spaced text-center">
-        <span>Program Committee Co-Chairs</span>
+        <span>Program Committee Co-Chairs<br>(<a href="mailto:program2015@uist.org">program2015@uist.org</a>)</span>
         </h3>
         <a href="https://faculty.washington.edu/wobbrock/" target="_blank">
           <div style="width:50%;float:left;">
@@ -41,7 +41,7 @@
 
       <div class="five wide column centered">
         <h3 class="text text-spaced text-center">
-        <span>Sponsorship Chair</span>
+        <span>Sponsorship Chair<br>(<a href="mailto:sponsorship@uist.org">sponsorship@uist.org</a>)</span>
         </h3>
         <a href="http://www.dgp.toronto.edu/~dwigdor/" target="_blank">
           <div style="width:50%;float:left;">
@@ -59,7 +59,7 @@
 
       <div class="five wide column centered">
         <h3 class="text text-spaced text-center">
-        <span>Demo Committee Chairs</span>
+        <span>Demo Committee Chairs<br>(<a href="mailto:demos@uist.org">demos@uist.org</a>)</span>
         </h3>
         <a href="http://www.chrisharrison.net/" target="_blank">
           <div style="width:50%;float:left;">
@@ -77,7 +77,7 @@
 
       <div class="five wide column centered">
         <h3 class="text text-spaced text-center">
-        <span>Poster Committee Chair</span>
+        <span>Poster Committee Chair<br>(<a href="mailto:posters@uist.org">posters@uist.org</a>)</span>
         </h3>
         <a href="http://juhokim.com/" target="_blank">
           <div style="width:50%;float:left;">
@@ -95,7 +95,7 @@
 
       <div class="seven wide column centered">
         <h3 class="text text-spaced text-center">
-        <span>Treasurer and Local Arrangements</span>
+        <span>Treasurer and Local Arrangements<br>(<a href="mailto:treasurer@uist.org">treasurer@uist.org</a>)</span>
         </h3>
         <a href="http://daisukesakamoto.jp/en/" target="_blank">
           <div style="width:50%;float:left;">
@@ -113,7 +113,7 @@
 
       <div class="five wide column centered">
         <h3 class="text text-spaced text-center">
-        <span>Publicity Chair</span>
+        <span>Publicity Chair<br>(<a href="mailto:publicity@uist.org">publicity@uist.org</a>)</span>
         </h3>
         <a href="http://www.cmlab.csie.ntu.edu.tw/~howieliang/" target="_blank">
           <div>
@@ -126,7 +126,7 @@
 
       <div class="five wide column centered">
         <h3 class="text text-spaced text-center">
-        <span>Doctoral Symposium Chair</span>
+        <span>Doctoral Symposium Chair<br>(<a href="mailto:doctoralsymposium@uist.org">doctoralsymposium@uist.org</a>)</span>
         </h3>
         <a href="http://www.patrickbaudisch.com/" target="_blank">
           <div style="width:50%;float:left;">
@@ -144,7 +144,7 @@
 
       <div class="five wide column centered">
         <h3 class="text text-spaced text-center">
-        <span>Student Innovation Contest Co-Chairs</span>
+        <span>Student Innovation Contest Co-Chairs<br>(<a href="mailto:studentinnovation@uist.org">studentinnovation@uist.org</a>)</span>
         </h3>
         <a href="http://plopes.org/" target="_blank">
           <div style="width:50%;float:left;">
@@ -162,7 +162,7 @@
 
       <div class="five wide column centered">
         <h3 class="text text-spaced text-center">
-        <span>Video Previews Chair</span>
+        <span>Video Previews Chair<br>(<a href="mailto:videopreviews@uist.org">videopreviews@uist.org</a>)</span>
         </h3>
         <a href="http://www.autodeskresearch.com/people/justin/" target="_blank">
           <div>
@@ -174,7 +174,7 @@
 
       <div class="five wide column centered">
         <h3 class="text text-spaced text-center">
-        <span>Registration Chair</span>
+        <span>Registration Chair<br>(<a href="mailto:registration@uist.org">registration@uist.org</a>)</span>
         </h3>
         <a href="http://www.jessicacauchard.com/" target="_blank">
           <div style="width:50%;float:left;">
@@ -192,7 +192,7 @@
 
       <div class="four wide column centered">
         <h3 class="text text-spaced text-center">
-        <span>Keynote Chair</span>
+        <span>Keynote Chair<br>(<a href="mailto:keynotes@uist.org">keynotes@uist.org</a>)</span>
         </h3>
         <a href="http://www.icd.riec.tohoku.ac.jp/index-e.html" target="_blank">
           <div>
@@ -204,7 +204,7 @@
 
       <div class="five wide column centered">
         <h3 class="text text-spaced text-center">
-        <span>Student Volunteer Chair</span>
+        <span>Student Volunteer Chair<br>(<a href="mailto:sv@uist.org">sv@uist.org</a>)</span>
         </h3>
         <a href="http://www.davidlindlbauer.com/" target="_blank">
           <div style="width:50%;float:left;">
@@ -222,7 +222,7 @@
 
       <div class="six wide column centered">
         <h3 class="text text-spaced text-center">
-        <span>Interactive Program Guide Chair</span>
+        <span>Interactive Program Guide Chair<br>(<a href="mailto:programguide@uist.org">programguide@uist.org</a>)</span>
         </h3>
         <a href="http://from.so/" target="_blank">
           <div style="width:33%;float:left;">
@@ -248,7 +248,7 @@
 
       <div class="five wide column centered">
         <h3 class="text text-spaced text-center">
-        <span>Web and Social Media Chair</span>
+        <span>Web and Social Media Chair<br>(<a href="mailto:web@uist.org">web@uist.org</a>)</span>
         </h3>
         <a href="http://ryosuzuki.org/" target="_blank">
           <div>
@@ -260,7 +260,7 @@
 
       <div class="five wide column centered">
         <h3 class="text text-spaced text-center">
-        <span>Conference Documentation Chair</span>
+        <span>Conference Documentation Chair<br>(<a href="mailto:documentation@uist.org">documentation@uist.org</a>)</span>
         </h3>
         <a href="http://www.gilbertbernstein.com/" target="_blank">
           <div style="width:50%;float:left;">
@@ -278,7 +278,7 @@
 
       <div class="five wide column centered">
         <h3 class="text text-spaced text-center">
-        <span>Proceedings Chair</span>
+        <span>Proceedings Chair<br>(<a href="mailto:proceedings@uist.org">proceedings@uist.org</a>)</span>
         </h3>
         <a href="http://xingdongyang.net/" target="_blank">
           <div style="width:50%;float:left;">
@@ -296,7 +296,7 @@
 
       <div class="five wide column centered">
         <h3 class="text text-spaced text-center">
-        <span>Award Chair</span>
+        <span>Award Chair<br>(<a href="mailto:awards@uist.org">awards@uist.org</a>)</span>
         </h3>
         <a href="http://www.olwal.com/" target="_blank">
           <div>
@@ -320,4 +320,3 @@
     </div>
   </section>
 </div>
-
