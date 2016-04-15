@@ -12,9 +12,9 @@
           <a href="http://precisionconference.com/~sigchi" target="_balnk">http://precisionconference.com/~sigchi</a>
           </li>
           <br>
-          <li><a href="http://uist.acm.org/uist2016/papers">Call for Papers</a> is now available.</a></li>
-          <li><a href="http://uist.acm.org/uist2016/submission">Deadlines</a> have been decided. (Paper & Notes: <b>April 13, 2016</b>)
-          </li>
+          <li><a href="http://uist.acm.org/uist2016/posters">Call for Posters</a> <b>(July 7, 2016)</b></li>
+          <li><a href="http://uist.acm.org/uist2016/demos">Call for Demos</a> <b>(July 7, 2016)</b></li>
+          <li><a href="http://uist.acm.org/uist2016/doctoral">Doctoral Symposium</a> <b>(July 7, 2016)</b></li>
         </ul>
       </div>
     </div>
