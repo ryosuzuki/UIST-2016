@@ -60,6 +60,19 @@ body {
   margin-bottom: 10px;
 }
 
+.column-chair {
+  margin-bottom: 5px;
+}
+
+.ui.header, .text-title {
+  margin-bottom: 0;
+}
+
+.ui.header, .text-email {
+  font-size: 14px;
+}
+
+
 .text-center {
   text-align: center;
 }
@@ -101,6 +114,9 @@ body {
   .ui.pointing.menu {
     width: 80% !important;
   }
+  .column-chair {
+    min-height: 70px;
+  }
 }
 
 @media screen and (max-width: 900px) {
@@ -136,6 +152,11 @@ body {
   .ui.stackable.grid {
     padding-top: 10px;
   }
+  .column-chair {
+    min-height: 0px;
+  }
+
+
 }
 
 .gray .column{
@@ -231,12 +252,12 @@ section.column .detail {
   margin-top: 20px;
 }
 
-.text-center {
-  height: 60px;
-}
-.text-center span {
-  vertical-align: middle;
-}
+// .text-center {
+//   height: 60px;
+// }
+// .text-center span {
+//   vertical-align: middle;
+// }
 
 .background-grid {
   background: #555;

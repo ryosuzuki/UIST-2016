@@ -4,15 +4,22 @@
     <h2 class="ui horizontal divider header">Organizers</h2>
     <div class="ui stackable grid detail">
       <div class="seven wide column centered">
-        <h3 class="text text-spaced text-center">
-        <span>General Co-Chairs<br>(<a href="mailto:chair@uist.org">chair@uist.org</a>)</span>
-        </h3>
-        <a href="http://lab.rekimoto.org/members-2/rekimoto/" target="_blank">
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            General Co-Chairs
+          </h3>
+          <h5 class="text text-spaced text-center text-email">
+            (<a href="mailto:chair@uist.org">chair@uist.org</a>)
+          </h5>
+        </div>
+        <div class="seven wide column centered grid">
           <div style="width:50%;float:left;">
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/jun-rekimoto.jpg">
-            <h3 class="text-center">Jun Rekimoto</h3>
+            <h3 class="text-center">        <a href="http://lab.rekimoto.org/members-2/rekimoto/" target="_blank">
+Jun Rekimoto</a></h3><h5 class="text-center">University of Tokyo</h5>
           </div>
         </a>
+        </div>
         <a href="http://www-ui.is.s.u-tokyo.ac.jp/~takeo/" target="_blank">
           <div style="width:50%;float:left;">
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/takeo-igarashi.jpg">
@@ -22,9 +29,14 @@
       </div>
 
       <div class="seven wide column centered">
-        <h3 class="text text-spaced text-center">
-        <span>Program Committee Co-Chairs<br>(<a href="mailto:program2015@uist.org">program2015@uist.org</a>)</span>
-        </h3>
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            Program Committee Co-Chairs
+          </h3>
+          <h3 class="text text-spaced text-center text-email">
+            (<a href="mailto:program2015@uist.org">program2015@uist.org</a>)
+          </h3>
+        </div>
         <a href="https://faculty.washington.edu/wobbrock/" target="_blank">
           <div style="width:50%;float:left;">
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/jacob-o-wobbrock.jpg">
@@ -40,9 +52,14 @@
       </div>
 
       <div class="five wide column centered">
-        <h3 class="text text-spaced text-center">
-        <span>Sponsorship Chair<br>(<a href="mailto:sponsorship@uist.org">sponsorship@uist.org</a>)</span>
-        </h3>
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            Sponsorship Chair
+          </h3>
+          <h5 class="text text-spaced text-center text-email">
+            (<a href="mailto:sponsorship@uist.org">sponsorship@uist.org</a>)
+          </h5>
+        </div>
         <a href="http://www.dgp.toronto.edu/~dwigdor/" target="_blank">
           <div style="width:50%;float:left;">
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/daniel-wigdor.jpg">
@@ -58,8 +75,14 @@
       </div>
 
       <div class="five wide column centered">
-        <h3 class="text text-spaced text-center">
-        <span>Demo Committee Chairs<br>(<a href="mailto:demos@uist.org">demos@uist.org</a>)</span>
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            Demo Committee Chairs
+          </h3>
+          <h5 class="text text-spaced text-center text-email">
+            (<a href="mailto:demos@uist.org">demos@uist.org</a>)
+          </h5>
+        </div>
         </h3>
         <a href="http://www.chrisharrison.net/" target="_blank">
           <div style="width:50%;float:left;">
@@ -76,9 +99,14 @@
       </div>
 
       <div class="five wide column centered">
-        <h3 class="text text-spaced text-center">
-        <span>Poster Committee Chair<br>(<a href="mailto:posters@uist.org">posters@uist.org</a>)</span>
-        </h3>
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            Poster Committee Chair
+          </h3>
+          <h5 class="text text-spaced text-center text-email">
+            (<a href="mailto:posters@uist.org">posters@uist.org</a>)
+          </h5>
+        </div>
         <a href="http://juhokim.com/" target="_blank">
           <div style="width:50%;float:left;">
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/juho-kim.jpg">
@@ -94,9 +122,14 @@
       </div>
 
       <div class="seven wide column centered">
-        <h3 class="text text-spaced text-center">
-        <span>Treasurer and Local Arrangements<br>(<a href="mailto:treasurer@uist.org">treasurer@uist.org</a>)</span>
-        </h3>
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            Treasurer and Local Arrangements
+          </h3>
+          <h5 class="text text-spaced text-center text-email">
+            (<a href="mailto:treasurer@uist.org">treasurer@uist.org</a>)
+          </h5>
+        </div>
         <a href="http://daisukesakamoto.jp/en/" target="_blank">
           <div style="width:50%;float:left;">
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/daisuke-sakamoto.jpg">
@@ -112,9 +145,14 @@
       </div>
 
       <div class="five wide column centered">
-        <h3 class="text text-spaced text-center">
-        <span>Publicity Chair<br>(<a href="mailto:publicity@uist.org">publicity@uist.org</a>)</span>
-        </h3>
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            Publicity Chair
+          </h3>
+          <h5 class="text text-spaced text-center text-email">
+            (<a href="mailto:publicity@uist.org">publicity@uist.org</a>)
+          </h5>
+        </div>
         <a href="http://www.cmlab.csie.ntu.edu.tw/~howieliang/" target="_blank">
           <div>
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/rong-hao-liang.jpg">
@@ -124,10 +162,15 @@
       </div>
 
 
-      <div class="five wide column centered">
-        <h3 class="text text-spaced text-center">
-        <span>Doctoral Symposium Chair<br>(<a href="mailto:doctoralsymposium@uist.org">doctoralsymposium@uist.org</a>)</span>
-        </h3>
+      <div class="seven wide column centered">
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            Doctoral Symposium Chair
+          </h3>
+          <h5 class="text text-spaced text-center text-email">
+            (<a href="mailto:doctoralsymposium@uist.org">doctoralsymposium@uist.org</a>)
+          </h5>
+        </div>
         <a href="http://www.patrickbaudisch.com/" target="_blank">
           <div style="width:50%;float:left;">
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/patrick-baudisch.jpg">
@@ -142,10 +185,15 @@
         </a>
       </div>
 
-      <div class="five wide column centered">
-        <h3 class="text text-spaced text-center">
-        <span>Student Innovation Contest Co-Chairs<br>(<a href="mailto:studentinnovation@uist.org">studentinnovation@uist.org</a>)</span>
-        </h3>
+      <div class="nine wide column centered">
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            Student Innovation Contest Co-Chairs
+          </h3>
+          <h5 class="text text-spaced text-center text-email">
+            (<a href="mailto:studentinnovation@uist.org">studentinnovation@uist.org</a>)
+          </h5>
+        </div>
         <a href="http://plopes.org/" target="_blank">
           <div style="width:50%;float:left;">
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/pedro-lopes.jpg">
@@ -161,9 +209,14 @@
       </div>
 
       <div class="five wide column centered">
-        <h3 class="text text-spaced text-center">
-        <span>Video Previews Chair<br>(<a href="mailto:videopreviews@uist.org">videopreviews@uist.org</a>)</span>
-        </h3>
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            Video Previews Chair
+          </h3>
+          <h5 class="text text-spaced text-center text-email">
+            (<a href="mailto:videopreviews@uist.org">videopreviews@uist.org</a>)
+          </h5>
+        </div>
         <a href="http://www.autodeskresearch.com/people/justin/" target="_blank">
           <div>
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/justin-metejka.jpg">
@@ -172,10 +225,14 @@
         </a>
       </div>
 
-      <div class="five wide column centered">
-        <h3 class="text text-spaced text-center">
-        <span>Registration Chair<br>(<a href="mailto:registration@uist.org">registration@uist.org</a>)</span>
-        </h3>
+      <div class="seven wide column centered">
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            Registration Chair
+          <h5 class="text text-spaced text-center text-email">
+            (<a href="mailto:registration@uist.org">registration@uist.org</a>)
+          </h5>
+        </div>
         <a href="http://www.jessicacauchard.com/" target="_blank">
           <div style="width:50%;float:left;">
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/jessica-cauchard.jpg">
@@ -191,9 +248,14 @@
       </div>
 
       <div class="four wide column centered">
-        <h3 class="text text-spaced text-center">
-        <span>Keynote Chair<br>(<a href="mailto:keynotes@uist.org">keynotes@uist.org</a>)</span>
-        </h3>
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            Keynote Chair
+          </h3>
+          <h5 class="text text-spaced text-center text-email">
+            (<a href="mailto:keynotes@uist.org">keynotes@uist.org</a>)
+          </h5>
+        </div>
         <a href="http://www.icd.riec.tohoku.ac.jp/index-e.html" target="_blank">
           <div>
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/yoshifumi-kitamura.jpg">
@@ -202,10 +264,15 @@
         </a>
       </div>
 
-      <div class="five wide column centered">
-        <h3 class="text text-spaced text-center">
-        <span>Student Volunteer Chair<br>(<a href="mailto:sv@uist.org">sv@uist.org</a>)</span>
-        </h3>
+      <div class="six wide column centered">
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            Student Volunteer Chair
+          </h3>
+          <h5 class="text text-spaced text-center text-email">
+            (<a href="mailto:sv@uist.org">sv@uist.org</a>)
+          </h5>
+        </div>
         <a href="http://www.davidlindlbauer.com/" target="_blank">
           <div style="width:50%;float:left;">
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/david-lindlbauer.jpg">
@@ -220,10 +287,15 @@
         </a>
       </div>
 
-      <div class="six wide column centered">
-        <h3 class="text text-spaced text-center">
-        <span>Interactive Program Guide Chair<br>(<a href="mailto:programguide@uist.org">programguide@uist.org</a>)</span>
-        </h3>
+      <div class="seven wide column centered">
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            Interactive Program Guide Chair
+          </h3>
+          <h5 class="text text-spaced text-center text-email">
+            (<a href="mailto:programguide@uist.org">programguide@uist.org</a>)
+          </h5>
+        </div>
         <a href="http://from.so/" target="_blank">
           <div style="width:33%;float:left;">
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/stephen-oney.jpg">
@@ -244,12 +316,15 @@
         </a>
       </div>
 
-
-
       <div class="five wide column centered">
-        <h3 class="text text-spaced text-center">
-        <span>Web and Social Media Chair<br>(<a href="mailto:web@uist.org">web@uist.org</a>)</span>
-        </h3>
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            Web and Social Media Chair
+          </h3>
+          <h5 class="text text-spaced text-center text-email">
+            (<a href="mailto:web@uist.org">web@uist.org</a>)
+          </h5>
+        </div>
         <a href="http://ryosuzuki.org/" target="_blank">
           <div>
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/ryo-suzuki.jpg">
@@ -258,10 +333,15 @@
         </a>
       </div>
 
-      <div class="five wide column centered">
-        <h3 class="text text-spaced text-center">
-        <span>Conference Documentation Chair<br>(<a href="mailto:documentation@uist.org">documentation@uist.org</a>)</span>
-        </h3>
+      <div class="seven wide column centered">
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            Conference Documentation Chair
+          </h3>
+          <h5 class="text text-spaced text-center text-email">
+            (<a href="mailto:documentation@uist.org">documentation@uis.org</a>)
+          </h5>
+        </div>
         <a href="http://www.gilbertbernstein.com/" target="_blank">
           <div style="width:50%;float:left;">
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/gilbert-bernstein.jpg">
@@ -276,10 +356,15 @@
         </a>
       </div>
 
-      <div class="five wide column centered">
-        <h3 class="text text-spaced text-center">
-        <span>Proceedings Chair<br>(<a href="mailto:proceedings@uist.org">proceedings@uist.org</a>)</span>
-        </h3>
+      <div class="six wide column centered">
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            Proceedings Chair
+          </h3>
+          <h5 class="text text-spaced text-center text-email">
+            (<a href="mailto:proceedings@uist.org">proceedings@uist.org</a>)
+          </h5>
+        </div>
         <a href="http://xingdongyang.net/" target="_blank">
           <div style="width:50%;float:left;">
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/xing-dong-yang.jpg">
@@ -294,10 +379,15 @@
         </a>
       </div>
 
-      <div class="five wide column centered">
-        <h3 class="text text-spaced text-center">
-        <span>Award Chair<br>(<a href="mailto:awards@uist.org">awards@uist.org</a>)</span>
-        </h3>
+      <div class="four wide column centered">
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            Award Chair
+          </h3>
+          <h5 class="text text-spaced text-center text-email">
+            (<a href="mailto:awards@uist.org">awards@uist.org</a>)
+          </h5>
+        </div>
         <a href="http://www.olwal.com/" target="_blank">
           <div>
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/alex-olwal.jpg">
@@ -307,9 +397,14 @@
       </div>
 
       <div class="five wide column centered">
-        <h3 class="text text-spaced text-center">
-        <span>Design and Signage Chair</span>
-        </h3>
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            Design and Signage Chair
+          </h3>
+          <h5 class="text text-spaced text-center text-email">
+            (-)
+          </h5>
+        </div>
         <a href="http://www.xlab.sfc.keio.ac.jp/~kakehi/" target="_blank">
           <div>
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/yasuaki-kakehi.jpg">
