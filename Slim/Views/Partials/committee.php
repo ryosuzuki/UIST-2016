@@ -313,7 +313,7 @@
                 Yuta Sugiura
                 </a>
               </td>
-              <td class="affiliation">AIST, Japan</td>
+              <td class="affiliation">Keio University</td>
             </tr>
           </tbody>
         </table>

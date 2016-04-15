@@ -46,7 +46,7 @@
 
   <h2>Demonstration Chairs (<a href="mailto:demos@uist.org">demos@uist.org</a>):</h2>
   <div class="text">
-    <b>Yuta Sugiura</b> (National Institute of Advanced Industrial Science and Technology, Japan), <br>
+    <b>Yuta Sugiura</b> (Keio University, Japan), <br>
     <b>Chris Harrison</b> (Carnegie Mellon University, USA)
   </div>
 
