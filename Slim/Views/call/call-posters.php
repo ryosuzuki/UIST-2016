@@ -1,7 +1,7 @@
 
 <div class="ui stackable grid">
   <section id="call" class="twelve wide column centered">
-  <h2 class="ui horizontal divider header">Call for Posters</h2>
+  <h2 class="ui horizontal divider header">Call for Participation</h2>
   <div class="ui stackable grid detail">
   <div class="fourteen wide column centered">
 
@@ -11,16 +11,29 @@
     Posters provide an interactive forum in which authors can present their work to conference attendees during special poster sessions. Posters are an opportunity to describe new work or work that is still in progress, and will be more lightly reviewed than papers. The posters track welcomes innovative research, as well as innovative ways of doing research.
     <br>
     <br>
-    All poster submissions must include a two-page “abstract” and a full size poster design. Note that poster submissions, unlike paper submissions, are not anonymous. The abstract describes the research problem, contribution, and value to UIST attendees. The abstract must be formatted using the SIGCHI Papers Format (use the <a href="http://www.sigchi.org/publications/chipubform/sigchi-papers-word-template/view" target="_blank">Word Template</a> or <a href="http://www.sigchi.org/publications/chipubform/sigchi-papers-latex-template/view" target="_blank">Latex Template</a>) and submitted as a PDF. The poster design must be less than 30 x 40 inches (76 × 101 cm), either portrait or landscape orientation, and submitted as a PDF. The <a href="https://uist.acm.org/uist2005/posterexamplegallery.html" target="_blank">UIST 2005 Poster Example Gallery</a> has ideas and guidelines for poster designs.  Authors are also encouraged to submit an optional video no more than three minutes long, see the <a href="https://uist.acm.org/uist2016/video-guide" target="_blank">video guide</a> for acceptable formats.
+    All poster submissions mustinclude a two-page "abstract" and a full size poster design. Note that poster submissions, unlike paper submissions, are not anonymous. The abstract describes the research problem, contribution, and value to UIST attendees. The abstract must be formatted using the SIGCHI Papers Format (use the <a href="http://www.sigchi.org/publications/chipubform/sigchi-papers-word-template/view" target="_blank">Word Template</a> or <a href="http://www.sigchi.org/publications/chipubform/sigchi-papers-latex-template/view" target="_blank">Latex Template</a>) and submitted as a PDF. The poster design must be less than 30 x 40 inches (76 × 101 cm), either portrait or landscape orientation, and submitted as a PDF. The <a href="https://uist.acm.org/uist2005/posterexamplegallery.html" target="_blank">UIST 2005 Poster Example Gallery</a> has ideas and guidelines for poster designs.  Authors are also encouraged to submit an optional video no more than three minutes long, see the <a href="https://uist.acm.org/uist2016/video-guide" target="_blank">video guide</a> for acceptable formats.
     <br>
     <br>
     The poster abstract, poster design, and optional video must be submitted electronically to <a href="http://precisionconference.com/~sigchi" target="_blank">Precision Conference</a> before the submission date below. The total size for all files must be less than 50 MB. See the <a href="https://uist.acm.org/uist2016/video-guide" target="_blank">video guide</a>, the <a href="https://uist.acm.org/uist2016/author-guide" target="_blank">author guide</a>, and <a href="https://uist.acm.org/uist2016/author-advice" target="_blank">general submission information</a> for more details about preparing your submission.
-    <br>
-    <br>
-    All accepted posters will be displayed during a portion of the conference. At least one author is requested to stand by their poster during poster sessions to speak with conference attendees. Accepted poster abstracts will be published as adjunct proceedings in the ACM Digital Library and distributed in digital form to conference attendees. Authors can make accepted poster designs and videos available at their discretion.
+  </div>
+  <h2>Selection process</h2>
+  <div class="text">
+    The selection process for UIST posters is <a href="https://chi2016.acm.org/wp/selection-processes/" target="_blank">juried</a>. As stated in the CHI selection process: “Juried content is reviewed by a committee but in a less rigorous process than refereed and does not include an author’s response or conditional acceptance. Juried content is generally not required to make the same level of lasting and significant contribution to our knowledge and understanding as refereed content. Authors who submit to juried tracks may expect to receive light feedback of up to a few paragraphs in length.“
     <br>
     <br>
     Incomplete or incorrect submission content or formats will be desk rejected. Late submissions are not permitted, and the deadline below is final. Do not submit the same work to both the demo and poster tracks. Double submissions will only be considered as a demo submission and will be automatically rejected from the poster track.
+  </div>
+  <h2>Posters are non-archival</h2>
+  <div class="text">
+    UIST posters are non-archival and UIST allows resubmission of posters previously shown at other venues. Authors should state previous poster venues in the appropriate box in the upload form and point out differences to previous posters.
+  </div>
+  <h2>At the conference</h2>
+  <div class="text">
+    All accepted posters will be displayed during a portion of the conference. At least one author is requested to stand by their poster during poster sessions to speak with conference attendees.
+  </div>
+  <h2>After the conference</h2>
+  <div class="text">
+    Accepted poster abstracts will be published as adjunct proceedings in the ACM Digital Library and distributed in digital form to conference attendees. Authors can make accepted poster designs and videos available at their discretion.
   </div>
   <h2>
     Relevant dates:

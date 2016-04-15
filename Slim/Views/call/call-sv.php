@@ -1,7 +1,7 @@
 
 <div class="ui stackable grid">
   <section id="call" class="twelve wide column centered">
-  <h2 class="ui horizontal divider header">Call for Student Volunteers</h2>
+  <h2 class="ui horizontal divider header">Call for Participation</h2>
   <div class="ui stackable grid detail">
   <div class="fourteen wide column centered">
 

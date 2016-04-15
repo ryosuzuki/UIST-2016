@@ -8,18 +8,18 @@
   <tbody class="text">
     <tr>
       <td><a href="http://uist.acm.org/uist2016/papers">Papers & Notes</a></td>
-      <td><b>April 13 (Wed), 2016</b></td>
+      <td><b style="color:#ccc;">April 13 (Wed), 2016</b></td>
     </tr>
     <tr>
-      <td><a href="http://uist.acm.org/uist2016/posters">Posters</td>
+      <td><a href="http://uist.acm.org/uist2016/posters">Posters</a></td>
       <td><b>July 7 (Thu), 2016</b></td>
     </tr>
     <tr>
-      <td><a href="http://uist.acm.org/uist2016/demos">Demos</td>
+      <td><a href="http://uist.acm.org/uist2016/demos">Demos</a></td>
       <td><b>July 7 (Thu), 2016</b></td>
     </tr>
     <tr>
-      <td><b>Doctoral Symposium</b></td>
+      <td><a href="http://uist.acm.org/uist2016/doctoral">Doctoral Symposium</a></td>
       <td><b>July 7 (Thu), 2016</b></td>
     </tr>
     <tr>

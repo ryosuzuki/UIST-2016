@@ -1,10 +1,10 @@
 <div class="ui stackable grid">
   <section id="call" class="twelve wide column centered">
+  <h2 class="ui horizontal divider header">Call for Participation</h2>
   <div class="ui stackable grid detail">
     <div class="fourteen wide column centered">
 
-    <h1>Call for Posters</h1>
-    <h3>Doctoral Symposium (Deadline: July 7, 2016 12:00 PDT)</h3>
+    <h2>Doctoral Symposium (Deadline: July 7, 2016 12:00 PDT)</h2>
     <div class="text">
       The UIST Doctoral Symposium is a forum in which Ph.D. students can meet and discuss their work with each other and a panel of experienced UIST researchers in an informal and interactive setting. We welcome applications from current Ph.D. students studying within the full range of disciplines and approaches that contribute to the UIST community. We will give preference to applicants beyond the proposal stage and well into their dissertation research.
       <br>
