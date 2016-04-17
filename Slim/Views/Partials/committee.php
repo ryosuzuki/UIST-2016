@@ -315,6 +315,30 @@
               </td>
               <td class="affiliation">Keio University</td>
             </tr>
+            <tr>
+              <td class="name">
+                <a href="http://www.adamfourney.com/" target="_blank">
+                Adam Forney
+                </a>
+              </td>
+              <td class="affiliation">Microsoft Research</td>
+            </tr>
+            <tr>
+              <td class="name">
+                <a href="https://www.fxpal.com/people/matthew-lee" target="_blank">
+                Matt Lee
+                </a>
+              </td>
+              <td class="affiliation">FXPAL</td>
+            </tr>
+            <tr>
+              <td class="name">
+                <a href="https://sensor.cs.washington.edu/jrs.html" target="_blank">
+                Josh  Smith
+                </a>
+              </td>
+              <td class="affiliation">University of Washington</td>
+            </tr>
           </tbody>
         </table>
       </div>
