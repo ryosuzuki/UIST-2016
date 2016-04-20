@@ -45,7 +45,7 @@
             Program Committee Co-Chairs
           </h3>
           <h3 class="text text-spaced text-center text-email">
-            (<a href="mailto:program2015@uist.org">program2015@uist.org</a>)
+            (<a href="mailto:program2016@uist.org">program2016@uist.org</a>)
           </h3>
         </div>
           <div style="width:50%;float:left;">

@@ -205,7 +205,7 @@
             </tr>
             <tr>
               <td class="name">
-                <a href="http://dangoldman.net/" target="_blank">
+                <a href="http://www.danbgoldman.com/" target="_blank">
                 Dan Goldman
                 </a>
               </td>
@@ -338,6 +338,14 @@
                 </a>
               </td>
               <td class="affiliation">University of Washington</td>
+            </tr>
+            <tr>
+              <td class="name">
+                <a href="http://www.danafergan.com/" target="_blank">
+                Dan Afergan
+                </a>
+              </td>
+              <td class="affiliation">Google</td>
             </tr>
           </tbody>
         </table>
