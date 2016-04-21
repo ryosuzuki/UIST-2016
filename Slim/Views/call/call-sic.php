@@ -149,8 +149,6 @@
     <br><br>
     Q: Do I own the intellectual property (IP)? A: You own the rights to what you develop, however you must open-source it to be eligible for prizes.
     <br><br>
-    Q: Does my team have to open source our contest entry? A: Yes. The purpose of this contest is to develop tools for high schoolers to use in creating puppet shows, and the tools are no good if they can’t use them afterwards!
-    <br><br>
     Q: Will I be able to demo my idea on my own computer? A: Yes. In fact, it is mandatory, since we will not provide any equipment at the conference.
     <br><br>
     Q: Can other people help me develop this code? A: It is permissible to get external help for bugs and other issues. People external to the team cannot contribute large pieces of code (or ideas).
