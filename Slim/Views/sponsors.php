@@ -8,9 +8,9 @@
           Corporate support is typically used to permit a greater number of students to attend UIST at reduced fees without artificially increasing the general registration, and to allow student volunteers to receive complimentary registration. Corporate support can also be targeted to a particular event or activity at the UIST Conference.
           <span class="ui horizontal divider"></span>
           The UIST 2016 conference has four corporate support levels:
-          <a href="#platinum">Platinum</a>, <a href="#gold">Gold</a>, <a href="#silver">Silver</a>, and <a href="#bronze">Bronze</a>. We are also pleased to introduce this year the <a href="#friend">Friends of UIST</a> sponsorship level for individuals who wish to contribute to the conference.
+          <a href="#platinum">Platinum</a>, <a href="#gold">Gold</a>, <a href="#silver">Silver</a>, <a href="#bronze">Bronze</a>, and <a href="#friend">Friend</a>.
           Your support is very important to the conference, and the conference committee ensures that these contributions are well recognized. We list the benefits and costs below. (If you can think of another benefit that would make this more attractive to your company, do let us know!)
-          <b>If you are interested in supporting UIST 2016, please contact our sponsorship chair:</b>
+          <b>If you are interested in supporting UIST 2016, please contact our sponsorship chair at <a href="mailto:sponsorship@uist.org">sponsorship@uist.org</a></b>
         </p>
         <!--
             <div style="text-align:center; margin-top:20px;" class="blk-1">
@@ -40,18 +40,86 @@
 <div class="ui stackable grid">
   <section class="twelve wide column centered">
     <div class="ui horizontal divider header">
-      <h2 style="margin-bottom:5px;">Corporate Sponsorships</h2>
+      <h2 style="margin-bottom:5px;">Sponsorship at a glance</h2>
     </div>
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
         <p class="text">
-          In addition to each level's individual benefits, all levels will receive the following
-          <span class="ui horizontal divider"></span>
-          Company logo and URL will be listed in all conference announcements, on the advance program, and on the conference web pages, maintained at www.acm.org/uist
-          Acknowledgement of your company's contribution during the opening and closing sessions of the conference by the conference chairs. These are typically the best attended sessions of the conference.
-          Opportunity to include material and giveaways with the conference material for each attendee
-          A special invitation for a member of your team to give a demonstration of your choice as part of the UIST 2016 demo night
-          Direct notification from the Sponsorship Chair about conference news
+          <table class="ui table">
+            <thead>
+              <tr>
+                <th rowspan="2"></th>
+                <th rowspan="2">Amount</th>
+                <th colspan="3">Company logo</th>
+                <th rowspan="2">Web</th>
+                <th rowspan="2">Demo booth</th>
+                <th rowspan="2">Naming for events</th>
+                <th rowspan="2">Give-away</th>
+              </tr>
+              <tr>
+                <th>Free reg</th>
+                <th>Printed program</th>
+                <th>Signage at the conf</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th>Platinum Sponsor</th>
+                <td>1500 kJPY / 15000 USD</td>
+                <td>8</td>
+                <td>O</td>
+                <td>O</td>
+                <td>O</td>
+                <td>O</td>
+                <td>O</td>
+                <td>O</td>
+              </tr>
+              <tr>
+                <th>Gold Sponsor</th>
+                <td>1000 kJPY / 10000 USD</td>
+                <td>5</td>
+                <td>O</td>
+                <td>O</td>
+                <td>O</td>
+                <td>O</td>
+                <td>O</td>
+                <td>O</td>
+              </tr>
+              <tr>
+                <th>Silver Sponsor</th>
+                <td>500 kJPY / 5000 USD</td>
+                <td>2</td>
+                <td>O</td>
+                <td>O</td>
+                <td>O</td>
+                <td>O</td>
+                <td>O</td>
+                <td>O</td>
+              </tr>
+              <tr>
+                <th>Bronze Sponsor</th>
+                <td>250 kJPY / 25000 USD</td>
+                <td>1</td>
+                <td>O</td>
+                <td>O</td>
+                <td>O</td>
+                <td>O</td>
+                <td>X</td>
+                <td>O</td>
+              </tr>
+              <tr>
+                <th>Friends Sponsor</th>
+                <td>100 kJPY / 1000 USD</td>
+                <td>X</td>
+                <td>X</td>
+                <td>O</td>
+                <td>O</td>
+                <td>X</td>
+                <td>X</td>
+                <td>X</td>
+              </tr>
+            </tbody>
+          </table>
         </p>
       </div>
     </div>
@@ -68,9 +136,13 @@
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
         <p class="text">
-          8 free registrations for people from your company to attend the conference
-          <span class="ui horizontal divider"></span>
-          First choice at naming events at the conference. For example, there are generally two receptions, several lunches and coffee breaks, plus a student reception. Naming of events will be decided based on the amount of the contribution and the order received.
+          <ul>
+            <li>8 free registrations for people from your company to attend the conference.</li>
+            <li>Company logo at the printed program, signage at the conference, and conference webpage.</li>
+            <li>First priority for a demo booth.</li>
+            <li>First priority for naming conference events (e.g., reception, banquet, lunch and coffee breaks).</li>
+            <li>Inclusion of give-aways (e.g., company flyers and/or novelties) in the conference bag.</li>
+          </ul>
         </p>
       </div>
     </div>
@@ -93,11 +165,13 @@
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
         <p class="text">
-          5 free registrations for people from your company to attend the conference.
-          <span class="ui horizontal divider"></span>
-          Second choice at naming events at the conference (after the Platinum). For example, there are generally two receptions, several lunches and coffee breaks, plus a student reception. Naming of events will be decided based on the amount of the contribution and the order received
-        </p>
-
+          <ul>
+            <li>5 free registrations for people from your company to attend the conference.</li>
+            <li>Company logo at the printed program, signage at the conference, and conference webpage.</li>
+            <li>Second priority for a demo booth.</li>
+            <li>Second priority for naming conference events (e.g., reception, banquet, lunch and coffee breaks).</li>
+            <li>Inclusion of give-aways (e.g., company flyers and/or novelties) in the conference bag.</li>
+          </ul>
       </div>
     </div>
 <!--
@@ -119,9 +193,13 @@
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
         <p class="text">
-          2 free registrations for people from your company to attend the conference.
-          <span class="ui horizontal divider"></span>
-          An event named after your company, if there are events left after those named for Platinum and Gold
+          <ul>
+            <li>2 free registrations for people from your company to attend the conference.</li>
+            <li>Company logo at the printed program, signage at the conference, and conference webpage.</li>
+            <li>Third priority for a demo booth.</li>
+            <li>Third priority for naming conference events (e.g., reception, banquet, lunch and coffee breaks).</li>
+            <li>Inclusion of give-aways (e.g., company flyers and/or novelties) in the conference bag.</li>
+          </ul>
         </p>
       </div>
     </div>
@@ -144,7 +222,12 @@
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
         <p class="text">
-          1 free registration for someone from your company to attend the conference
+          <ul>
+            <li>1 free registration for someone from your company to attend the conference.</li>
+            <li>Company logo at the printed program, signage at the conference, and conference webpage.</li>
+            <li>Fourth priority for a demo booth.</li>
+            <li>Inclusion of give-aways (e.g., company flyers and/or novelties) in the conference bag.</li>
+          </ul>
         </p>
       </div>
     </div>
@@ -167,13 +250,9 @@
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
         <p class="text">
-          A Friend of UIST is an individual member of the community who has chosen to help contribute financially to the conference. Although only individuals may be listed as a "Friend of UIST," organizations may choose to provide this funding level for their employees. An individual may also choose to "top up" to the Friend of UIST level during the normal conference registration process by contributing the difference between their registration fee and the Friend of UIST contribution level. For example, if your registration cost is $800 then only a $200 donation would be required to obtain Friend of UIST recognition.
-          <span class="ui horizontal divider"></span>
-          1 free registration to attend the conference (unless the recognition is obtained by topping up a new or existing registration)
-          Your name listed in all conference announcements, on the advance program, and on the conference web pages, maintained at www.acm.org/uist
-          Acknowledgement of your contribution at the opening and closing sessions of the conference.
-          Direct notification from the Sponsorship Chair about conference news
-          Special recognition as a "Friend of UIST" on your conference name badge
+          <ul>
+            <li>Company logo at the signage at the conference and conference webpage.</li>
+          </ul>
         </p>
 
       </div>
