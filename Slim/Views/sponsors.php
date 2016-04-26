@@ -51,13 +51,13 @@
                 <th rowspan="2"></th>
                 <th rowspan="2">Amount</th>
                 <th rowspan="2">Free reg</th>
-                <th colspan="3">Company logo</th>
+                <th colspan="3" style="text-align: center">Company logo</th>
                 <th rowspan="2">Demo booth</th>
                 <th rowspan="2">Naming for events</th>
                 <th rowspan="2">Give-away</th>
               </tr>
               <tr>
-                <th>Printed program</th>
+                <th style="border-left:1px solid rgba(34, 36, 38, 0.1)">Printed program</th>
                 <th>Signage at the conf</th>
                 <th>Web</th>
               </tr>
