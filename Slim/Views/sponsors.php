@@ -3,7 +3,7 @@
     <h2 class="ui horizontal divider header">Sponsors</h2>
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
-        <p class="text">
+        <div class="text">
           You are invited to support the UIST 2016 conference. This is an ideal way to demonstrate your organization's interest in and commitment to the field of user interface software and technology, and to publicize this support to many leaders and students in the field.
           Corporate support is typically used to permit a greater number of students to attend UIST at reduced fees without artificially increasing the general registration, and to allow student volunteers to receive complimentary registration. Corporate support can also be targeted to a particular event or activity at the UIST Conference.
           <span class="ui horizontal divider"></span>
@@ -11,7 +11,7 @@
           <a href="#platinum">Platinum</a>, <a href="#gold">Gold</a>, <a href="#silver">Silver</a>, <a href="#bronze">Bronze</a>, and <a href="#friend">Friend</a>.
           Your support is very important to the conference, and the conference committee ensures that these contributions are well recognized. We list the benefits and costs below. (If you can think of another benefit that would make this more attractive to your company, do let us know!)
           <b>If you are interested in supporting UIST 2016, please contact our sponsorship chair at <a href="mailto:sponsorship@uist.org">sponsorship@uist.org</a></b>
-        </p>
+        </div>
         <!--
             <div style="text-align:center; margin-top:20px;" class="blk-1">
               <div style="float:left;" class="blk-2">
@@ -19,8 +19,8 @@
               </div>
               <div style="text-align:left; float:left;" class="blk-2">
                 <a  href="http://jeffreynichols.com"><h3 style="margin-top:20px;">Jeff Nichols</h3></a>
-                <p>Google</p>
-                <p>+1 (412) 327-2790</p>
+                <p>Google</div>
+                <p>+1 (412) 327-2790</div>
                 <a href="mailto:sponsorship@uist.org">sponsorship@uist.org</a>
               </div>
             </div>
@@ -44,28 +44,30 @@
     </div>
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
-        <p class="text">
-          <table class="ui table">
+        <div class="text">
+          <table class="ui striped celled table">
             <thead>
               <tr>
                 <th rowspan="2"></th>
                 <th rowspan="2">Amount</th>
+                <th rowspan="2">Free reg</th>
                 <th colspan="3">Company logo</th>
-                <th rowspan="2">Web</th>
                 <th rowspan="2">Demo booth</th>
                 <th rowspan="2">Naming for events</th>
                 <th rowspan="2">Give-away</th>
               </tr>
               <tr>
-                <th>Free reg</th>
                 <th>Printed program</th>
                 <th>Signage at the conf</th>
+                <th>Web</th>
               </tr>
             </thead>
             <tbody>
               <tr>
-                <th>Platinum Sponsor</th>
-                <td>1500 kJPY / 15000 USD</td>
+                <td>
+                  <b style="color:#88847b">Platinum Sponsor</b>
+                </td>
+                <td>1,500 kJPY / 15,000 USD</td>
                 <td>8</td>
                 <td>O</td>
                 <td>O</td>
@@ -75,8 +77,10 @@
                 <td>O</td>
               </tr>
               <tr>
-                <th>Gold Sponsor</th>
-                <td>1000 kJPY / 10000 USD</td>
+                <td>
+                  <b style="color:#D4AF37;">Gold Sponsor</b>
+                </td>
+                <td>1,000 kJPY / 10,000 USD</td>
                 <td>5</td>
                 <td>O</td>
                 <td>O</td>
@@ -86,8 +90,10 @@
                 <td>O</td>
               </tr>
               <tr>
-                <th>Silver Sponsor</th>
-                <td>500 kJPY / 5000 USD</td>
+                <td>
+                  <b style="color:#a9a59f;">Silver Sponsor</b>
+                </td>
+                <td>500 kJPY / 5,000 USD</td>
                 <td>2</td>
                 <td>O</td>
                 <td>O</td>
@@ -97,8 +103,10 @@
                 <td>O</td>
               </tr>
               <tr>
-                <th>Bronze Sponsor</th>
-                <td>250 kJPY / 25000 USD</td>
+                <td>
+                  <b style="color:#d7995b;">Bronze Sponsor</b>
+                </td>
+                <td>250 kJPY / 2,500 USD</td>
                 <td>1</td>
                 <td>O</td>
                 <td>O</td>
@@ -108,9 +116,11 @@
                 <td>O</td>
               </tr>
               <tr>
-                <th>Friends Sponsor</th>
-                <td>100 kJPY / 1000 USD</td>
-                <td>X</td>
+                <td>
+                  <b style="color:#77dd77;">Friends Sponsor</b>
+                </td>
+                <td>100 kJPY / 1,000 USD</td>
+                <td>0</td>
                 <td>X</td>
                 <td>O</td>
                 <td>O</td>
@@ -120,7 +130,7 @@
               </tr>
             </tbody>
           </table>
-        </p>
+        </div>
       </div>
     </div>
   </section>
@@ -135,7 +145,7 @@
     </div>
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
-        <p class="text">
+        <div class="text">
           <ul>
             <li>8 free registrations for people from your company to attend the conference.</li>
             <li>Company logo at the printed program, signage at the conference, and conference webpage.</li>
@@ -143,7 +153,7 @@
             <li>First priority for naming conference events (e.g., reception, banquet, lunch and coffee breaks).</li>
             <li>Inclusion of give-aways (e.g., company flyers and/or novelties) in the conference bag.</li>
           </ul>
-        </p>
+        </div>
       </div>
     </div>
     <!--
@@ -164,7 +174,7 @@
     </div>
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
-        <p class="text">
+        <div class="text">
           <ul>
             <li>5 free registrations for people from your company to attend the conference.</li>
             <li>Company logo at the printed program, signage at the conference, and conference webpage.</li>
@@ -192,7 +202,7 @@
     </div>
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
-        <p class="text">
+        <div class="text">
           <ul>
             <li>2 free registrations for people from your company to attend the conference.</li>
             <li>Company logo at the printed program, signage at the conference, and conference webpage.</li>
@@ -200,7 +210,7 @@
             <li>Third priority for naming conference events (e.g., reception, banquet, lunch and coffee breaks).</li>
             <li>Inclusion of give-aways (e.g., company flyers and/or novelties) in the conference bag.</li>
           </ul>
-        </p>
+        </div>
       </div>
     </div>
 <!--
@@ -221,14 +231,14 @@
     </div>
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
-        <p class="text">
+        <div class="text">
           <ul>
             <li>1 free registration for someone from your company to attend the conference.</li>
             <li>Company logo at the printed program, signage at the conference, and conference webpage.</li>
             <li>Fourth priority for a demo booth.</li>
             <li>Inclusion of give-aways (e.g., company flyers and/or novelties) in the conference bag.</li>
           </ul>
-        </p>
+        </div>
       </div>
     </div>
 <!--
@@ -249,11 +259,11 @@
     </div>
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
-        <p class="text">
+        <div class="text">
           <ul>
             <li>Company logo at the signage at the conference and conference webpage.</li>
           </ul>
-        </p>
+        </div>
 
       </div>
     </div>
