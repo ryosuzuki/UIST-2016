@@ -67,7 +67,7 @@
                 <td>
                   <b style="color:#88847b">Platinum Sponsor</b>
                 </td>
-                <td>1,500 kJPY / 15,000 USD</td>
+                <td>15,000 USD</td>
                 <td>8</td>
                 <td>O</td>
                 <td>O</td>
@@ -80,7 +80,7 @@
                 <td>
                   <b style="color:#D4AF37;">Gold Sponsor</b>
                 </td>
-                <td>1,000 kJPY / 10,000 USD</td>
+                <td>10,000 USD</td>
                 <td>5</td>
                 <td>O</td>
                 <td>O</td>
@@ -93,7 +93,7 @@
                 <td>
                   <b style="color:#a9a59f;">Silver Sponsor</b>
                 </td>
-                <td>500 kJPY / 5,000 USD</td>
+                <td>5,000 USD</td>
                 <td>2</td>
                 <td>O</td>
                 <td>O</td>
@@ -106,7 +106,7 @@
                 <td>
                   <b style="color:#d7995b;">Bronze Sponsor</b>
                 </td>
-                <td>250 kJPY / 2,500 USD</td>
+                <td>2,500 USD</td>
                 <td>1</td>
                 <td>O</td>
                 <td>O</td>
@@ -119,7 +119,7 @@
                 <td>
                   <b style="color:#77dd77;">Friends Sponsor</b>
                 </td>
-                <td>100 kJPY / 1,000 USD</td>
+                <td>1,000 USD</td>
                 <td>0</td>
                 <td>X</td>
                 <td>O</td>
