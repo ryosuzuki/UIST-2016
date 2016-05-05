@@ -31,8 +31,7 @@
       <br>
       <br>
 
-      The symposium will start with an informal dinner on October 15th, continue all the following day, and conclude with poster presentations. Doctoral Symposium abstracts will be published together with poster and demonstration abstracts and made available digitally to conference attendees. Posters may also be published at the participant's discretion. In the past, a travel stipend and free registration to the UIST conference has been provided to each participant and we expect to be able to do the same this year.
-      Doctoral Symposium papers and poster sketches should be submitted electronically to Precision Conference.
+      The symposium will start with an informal dinner on October 15th, continue all the following day, and conclude with poster presentations. Doctoral Symposium abstracts will be published together with poster and demonstration abstracts and made available digitally to conference attendees. Posters may also be published at the participant's discretion. We cannot make a promise at this point, but UIST conference would like to pay the participants for some part of their registration and hotel costs. We would like to support the flight costs as well, but we need to ask for your kind understanding that it might be difficult to cover all of the costs. Doctoral Symposium papers and poster sketches should be submitted electronically to Precision Conference.
     </div>
     <h2>
       Relevant dates:
