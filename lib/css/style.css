@@ -105,21 +105,88 @@ body {
   font-weight: bold;
 }
 
+
+.ui.pointing.menu a.item {
+  border-bottom: solid rgba(0,0,0,0) 4px !important;
+}
+
 .ui.pointing.menu a.item:hover {
-  border-bottom: solid #fff 2px !important;
+  border-bottom: solid #000 4px !important;
 }
 
 #menu-button {
   display: none;
 }
 
+
+#top-cover {
+  position: relative;
+  overflow: hidden;
+  padding-top: 15px;
+  padding-bottom: 30px;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  background: #E3E3E3;
+  background-size: cover;
+  background-position: center;
+  min-height: 680px;
+}
+
+#top-cover-img {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+#top-cover #main-banner{
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+#update-grid {
+  background: #E3E3E3;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#update {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+#welcome-grid {
+  background: #E3E3E3;
+  margin-top: 0;
+  padding-bottom: 50px;
+}
+
+
 @media screen and (max-width: 1500px) {
+  #top-cover {
+    min-height: 600px;
+  }
+  #top-cover-img {
+    width: 80%;
+    left: 10%;
+    bottom: -30%;
+  }
   .ui.pointing.menu {
     width: 70% !important;
   }
 }
 
 @media screen and (max-width: 1200px) {
+  #top-cover {
+    min-height: 600px;
+  }
+  #top-cover-img {
+    width: 100%;
+    left: 0;
+    bottom: -30%;
+  }
   .ui.pointing.menu {
     width: 80% !important;
   }
@@ -129,6 +196,14 @@ body {
 }
 
 @media screen and (max-width: 900px) {
+  #top-cover {
+    min-height: 500px;
+  }
+  #top-cover-img {
+    width: 100%;
+    left: 0;
+    bottom: -20%;
+  }
   #cover {
     margin-bottom: 30px !important;
   }
@@ -138,6 +213,14 @@ body {
 }
 
 @media screen and (max-width: 700px) {
+  #top-cover {
+    min-height: 400px;
+  }
+  #top-cover-img {
+    width: 140%;
+    left: -20%;
+    bottom: -15%;
+  }
   .ui.pointing.menu {
     display: none;
   }
@@ -207,6 +290,21 @@ p.sub-logo {
  font-size: 23px;
 }
 
+.cover-alt {
+  position: relative;
+  overflow: hidden;
+  padding-top: 15px;
+  padding-bottom: 30px;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  background: #E3E3E3;
+  background-size: cover;
+  background-position: center;
+}
+
+
 .cover {
   position: relative;
   overflow: hidden;
@@ -239,15 +337,6 @@ p.sub-logo {
 #header #main-banner{
   margin-top: 0px;
   margin-bottom: 0px;
-}
-
-#top-cover {
-  min-height: 480px;
-}
-
-#top-cover #main-banner{
-  margin-top: 50px;
-  margin-bottom: 40px;
 }
 
 
@@ -338,6 +427,10 @@ a.sui:hover {
   vertical-align: middle;
 }
 
+footer {
+  background: #E3E3E3;
+}
+
 #footer-cover {
   margin-top: 70px;
   padding-top: 50px;
@@ -346,14 +439,17 @@ a.sui:hover {
   top: 0;
   width: 100%;
   text-align: center;
+  color: #000;
+  background: #E3E3E3;
+  /*
   color: #fff;
   background: #5f357d;
-
   background: -webkit-radial-gradient(circle farthest-corner at right bottom, #ffd08a 0%, #ffa376 28%, #d26578 52%, #682a84 79%, #241668 100%);
   background: -moz-radial-gradient(circle farthest-corner at right bottom, #ffd08a 0%, #ffa376 28%, #d26578 52%, #682a84 79%, #241668 100%);
   background: -o-radial-gradient(circle farthest-corner at right bottom, #ffd08a 0%, #ffa376 28%, #d26578 52%, #682a84 79%, #241668 100%);
   background: -ms-radial-gradient(circle farthest-corner at right bottom, #ffd08a 0%, #ffa376 28%, #d26578 52%, #682a84 79%, #241668 100%);
   background: radial-gradient(circle farthest-corner at right bottom, #ffd08a 0%, #ffa376 28%, #d26578 52%, #682a84 79%, #241668 100%);
+  */
 }
 
 footer .info {

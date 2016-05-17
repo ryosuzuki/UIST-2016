@@ -1,5 +1,5 @@
 
-<div class="ui stackable grid">
+<div id="update-grid" class="ui stackable grid">
   <section id="update" class="ten wide column centered">
     <div class="ui icon message">
       <i class="fa fa-bell-o icon"></i>
@@ -21,7 +21,7 @@
   </section>
 </div>
 
-<div class="ui stackable grid">
+<div id="welcome-grid" class="ui stackable grid">
   <section id="about" class="twelve wide column centered">
     <h2 class="ui horizontal divider header">Welcome</h2>
     <div class="ui stackable grid detail">
