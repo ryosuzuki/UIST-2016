@@ -1,20 +1,25 @@
 
-<section id="header" class="cover" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/background-5.jpg') !important">
-  <div class="ui two column centered grid">
+<section id="header">
+  <div class="ui two column centered grid" style="margin-top: 0px">
     <div class="column centered row">
-      <div class="ui secondary pointing fluid seven item inverted menu">
+      <div class="ui secondary pointing fluid seven item menu">
         <?php $app->render("Partials/menu.php"); ?>
       </div>
-      <button id="menu-button" class="ui basic inverted button">
+      <button id="menu-button" class="ui basic black button">
         <i class="fa fa-bars"></i>
         Menu
       </button>
     </div>
-    <div id="main-banner" class="column centered row" >
-      <h1 class="logo">UIST 2016</h1>
-      <p class="text text-small">29th ACM User Interface Software and Technology Symposium</p>
-      <p class="text text-small text-bold" style="margin-top:35px">Tokyo, Japan - October 16-19, 2016</p>
-    </div>
-
   </div>
 </section>
+
+<div class="ui stackable grid">
+  <section id="top-img" class="eleven wide column centered">
+    <div id="header-normal">
+      <img id="top-header-img" src="<?php echo BASE_PATH; ?>/lib/img/top-2.png" alt="" style="width: 100%">
+    </div>
+    <div id="header-mobile">
+      <img id="top-header-img" src="<?php echo BASE_PATH; ?>/lib/img/top-3.png" alt="" style="width: 100%">
+    </div>
+  </section>
+</div>

@@ -163,7 +163,6 @@ body {
   padding-bottom: 50px;
 }
 
-
 @media screen and (max-width: 1500px) {
   #top-cover {
     min-height: 600px;
@@ -172,6 +171,12 @@ body {
     width: 80%;
     left: 10%;
     bottom: -30%;
+  }
+  #header-normal {
+    display: block
+  }
+  #header-mobile {
+    display: none;
   }
   .ui.pointing.menu {
     width: 70% !important;
@@ -186,6 +191,15 @@ body {
     width: 100%;
     left: 0;
     bottom: -30%;
+  }
+  #header-normal {
+    display: block
+  }
+  #header-mobile {
+    display: none;
+    margin-top: 30px;
+    width: 110%;
+    margin-left: -5%;
   }
   .ui.pointing.menu {
     width: 80% !important;
@@ -203,6 +217,12 @@ body {
     width: 100%;
     left: 0;
     bottom: -20%;
+  }
+  #header-normal {
+    display: none;
+  }
+  #header-mobile {
+    display: block;
   }
   #cover {
     margin-bottom: 30px !important;
@@ -427,9 +447,6 @@ a.sui:hover {
   vertical-align: middle;
 }
 
-footer {
-  background: #E3E3E3;
-}
 
 #footer-cover {
   margin-top: 70px;
