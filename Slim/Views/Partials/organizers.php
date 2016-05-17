@@ -589,11 +589,22 @@
             (-)
           </h5>
         </div>
-          <div>
+          <div style="width:50%;float:left;">
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/yasuaki-kakehi.jpg">
             <h3 class="text text-center text-name">
               <a href="http://www.xlab.sfc.keio.ac.jp/~kakehi/" target="_blank">
                 Yasuaki Kakehi
+              </a>
+            </h3>
+            <h5 class="text text-center text-affiliation">
+              Keio University
+            </h5>
+          </div>
+          <div style="width:50%;float:left;">
+            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/wataru-kobara.jpg">
+            <h3 class="text text-center text-name">
+              <a href="http://www.watarukbr.com/" target="_blank">
+                Wataru Kobara
               </a>
             </h3>
             <h5 class="text text-center text-affiliation">
