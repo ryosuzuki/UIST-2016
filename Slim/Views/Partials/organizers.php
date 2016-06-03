@@ -244,30 +244,28 @@
             (<a href="mailto:doctoralsymposium@uist.org">doctoralsymposium@uist.org</a>)
           </h5>
         </div>
-          <div style="width:50%;float:left;">
-            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/patrick-baudisch.jpg">
-            <h3 class="text text-center text-name">
-              <a href="http://www.patrickbaudisch.com/" target="_blank">
-                Patrick Baudisch
-              </a>
-            </h3>
-            <h5 class="text text-center text-affiliation">
-              Hasso-Plattner-Institute
-            </h5>
-          </div>
-        </a>
-          <div style="width:50%;float:left;">
-            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/hiromi-nakamura.jpg">
-            <h3 class="text text-center text-name">
-              <a href="http://apapababy.com/" target="_blank">
-                Hiromi Nakamura
-              </a>
-            </h3>
-            <h5 class="text text-center text-affiliation">
-              University of Tokyo
-            </h5>
-          </div>
-        </a>
+        <div style="width:50%;float:left;">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/patrick-baudisch.jpg">
+          <h3 class="text text-center text-name">
+            <a href="http://www.patrickbaudisch.com/" target="_blank">
+              Patrick Baudisch
+            </a>
+          </h3>
+          <h5 class="text text-center text-affiliation">
+            Hasso-Plattner-Institute
+          </h5>
+        </div>
+        <div style="width:50%;float:left;">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/hiromi-nakamura.jpg">
+          <h3 class="text text-center text-name">
+            <a href="http://apapababy.com/" target="_blank">
+              Hiromi Nakamura
+            </a>
+          </h3>
+          <h5 class="text text-center text-affiliation">
+            University of Tokyo
+          </h5>
+        </div>
       </div>
 
       <div class="nine wide column centered">
@@ -279,33 +277,31 @@
             (<a href="mailto:studentinnovation@uist.org">studentinnovation@uist.org</a>)
           </h5>
         </div>
-          <div style="width:50%;float:left;">
-            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/pedro-lopes.jpg">
-            <h3 class="text text-center text-name">
-              <a href="http://plopes.org/" target="_blank">
-                Pedro Lopes
-              </a>
-            </h3>
-            <h5 class="text text-center text-affiliation">
-              Hasso-Plattner-Institute
-            </h5>
-          </div>
-        </a>
-          <div style="width:50%;float:left;">
-            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/lining-yao.jpg">
-            <h3 class="text text-center text-name">
-              <a href="http://web.media.mit.edu/~liningy/" target="_blank">
-                Lining Yao
-              </a>
-            </h3>
-            <h5 class="text text-center text-affiliation">
-              MIT Media Lab
-            </h5>
-          </div>
-        </a>
+        <div style="width:50%;float:left;">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/pedro-lopes.jpg">
+          <h3 class="text text-center text-name">
+            <a href="http://plopes.org/" target="_blank">
+              Pedro Lopes
+            </a>
+          </h3>
+          <h5 class="text text-center text-affiliation">
+            Hasso-Plattner-Institute
+          </h5>
+        </div>
+        <div style="width:50%;float:left;">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/lining-yao.jpg">
+          <h3 class="text text-center text-name">
+            <a href="http://web.media.mit.edu/~liningy/" target="_blank">
+              Lining Yao
+            </a>
+          </h3>
+          <h5 class="text text-center text-affiliation">
+            MIT Media Lab
+          </h5>
+        </div>
       </div>
 
-      <div class="five wide column centered">
+      <div class="six wide column centered">
         <div class="fourteen wide column centered column-chair">
           <h3 class="text text-spaced text-center text-title">
             Video Previews Chair
@@ -314,10 +310,10 @@
             (<a href="mailto:videopreviews@uist.org">videopreviews@uist.org</a>)
           </h5>
         </div>
-        <div>
+        <div style="width:50%;float:left;">
           <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/justin-metejka.jpg">
           <h3 class="text text-center text-name">
-      <a href="http://www.autodeskresearch.com/people/justin/" target="     _blank">
+            <a href="http://www.autodeskresearch.com/people/justin/" target="_blank">
               Justin Matejka
             </a>
           </h3>
@@ -325,9 +321,20 @@
             Autodesk Research
           </h5>
         </div>
+        <div style="width:50%;float:left;">
+          <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/jarrod-knibbe.jpg">
+          <h3 class="text text-center text-name">
+            <a href="http://big.cs.bris.ac.uk/people/knibbe" target="_blank">
+              Jarrod Knibbe
+            </a>
+          </h3>
+          <h5 class="text text-center text-affiliation">
+            University of Copenhagen
+          </h5>
+        </div>
       </div>
 
-      <div class="seven wide column centered">
+      <div class="six wide column centered">
         <div class="fourteen wide column centered column-chair">
           <h3 class="text text-spaced text-center text-title">
             Registration Chair
