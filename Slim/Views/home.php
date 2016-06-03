@@ -12,9 +12,16 @@
           <a href="http://precisionconference.com/~sigchi" target="_balnk">http://precisionconference.com/~sigchi</a>
           </li>
           <br>
-          <li><a href="http://uist.acm.org/uist2016/posters">Call for Posters</a> <b>(July 7, 2016)</b></li>
-          <li><a href="http://uist.acm.org/uist2016/demos">Call for Demos</a> <b>(July 7, 2016)</b></li>
-          <li><a href="http://uist.acm.org/uist2016/doctoral">Doctoral Symposium</a> <b>(July 7, 2016)</b></li>
+          <li><b>Upcoming Important Dates:</b><br>
+          <b>June 9-16, 2016</b>: The rebuttal period for <a href="http://uist.acm.org/uist2016/posters">Papers</a>
+          <br>
+          <b>July 7, 2016</b>: The deadline for <a href="http://uist.acm.org/uist2016/posters">Posters</a>
+          <br>
+          <b>July 7, 2016</b>: The deadline for <a href="http://uist.acm.org/uist2016/demos">Demos</a>
+          <br>
+          <b>July 7, 2016</b>: The deadline <a href="http://uist.acm.org/uist2016/doctoral">Doctoral Symposium</a>
+          <br>
+          <b>July 25, 2016</b>: The deadline <a href="http://uist.acm.org/uist2016/volunteers">Student Volunteers</a>
         </ul>
       </div>
     </div>
