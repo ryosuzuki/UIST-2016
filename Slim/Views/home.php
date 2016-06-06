@@ -13,7 +13,7 @@
           </li>
           <br>
           <li><b>Upcoming Events:</b><br>
-          <b>June 9-16, 2016</b>: The rebuttal period for <a href="http://uist.acm.org/uist2016/posters">Papers</a>
+          <b>June 9-16, 2016</b>: The rebuttal period for <a href="http://uist.acm.org/uist2016/papers">Papers</a>
           <br>
           <b>June 26, 2016</b>: Authors will be notified the decision.
           <br>
@@ -93,4 +93,3 @@
   </div>
   <!-- <a href="archive"><h2 class="topic">Past UIST Conferences</h2></a> -->
 </section>
-
