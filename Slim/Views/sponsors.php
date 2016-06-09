@@ -213,6 +213,15 @@
         </div>
       </div>
     </div>
+
+
+    <div class="ui stackable grid detail sponsors">
+      <a class="five wide column centered" href="http://www.fxpal.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/fxpal.png');background-size:150px;"></a>
+      <a class="five wide column centered" href="https://atap.google.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/google-atap.png');background-size:300px;"></a>
+      <a class="five wide column centered" href="http://www.adobe.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/adobe.png');background-size:80px;"></a>
+    </div>
+
+
 <!--
     <div class="ui stackable grid detail sponsors silver">
       <a class="five wide column centered" href="http://sigchi.org" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sigchi.png');background-size:220px;"></a>

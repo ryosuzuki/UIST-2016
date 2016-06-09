@@ -81,13 +81,11 @@
       <a class="five wide column centered" href="http://www.siggraph.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/siggraph.png');background-size:150px;"></a>
     </div>
 
+    <h2 class="ui horizontal divider header" style="color:#a9a59f; margin-top:80px">Silver Sponsors</h2>
 
-    <div class="ui horizontal divider header" style="color:#a9a59f;">
-      <h2 style="margin-top:30px 0;">Silver Sponsors</h2>
-    </div>
     <div class="ui stackable grid detail sponsors">
       <a class="five wide column centered" href="http://www.fxpal.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/fxpal.png');background-size:150px;"></a>
-      <a class="five wide column centered" href="https://atap.google.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/google-atap.png');background-size:250px;"></a>
+      <a class="five wide column centered" href="https://atap.google.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/google-atap.png');background-size:300px;"></a>
       <a class="five wide column centered" href="http://www.adobe.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/adobe.png');background-size:80px;"></a>
     </div>
 
