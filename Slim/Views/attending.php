@@ -333,11 +333,13 @@ they might be full before the deadline. Registration does not include hotels. Yo
         <h2>Tours provided by travel agencies</h2>
         <div class="text">
           <ul>
+            <!--
             <li>
               <a href="http://www.japanican.com/en/tour/list/?GN_tours&ty=tyotours00" target="_blank">
               Japanican
               </a>
             </li>
+            -->
             <li>
               <a href="https://www.hatobus.com/int/en/" target="_blank">
               Hato Bus
