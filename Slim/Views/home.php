@@ -97,6 +97,13 @@
     </div>
 
 
+    <h2 class="ui horizontal divider header" style="color:#d7995b; margin-top:80px">Bronze Sponsors</h2>
+
+    <div class="ui stackable grid detail sponsors">
+      <a class="five wide column centered" href="http://www.sensel.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sensel.png');background-size:100px;"></a>
+    </div>
+
+
   </section>
 </div>
 
