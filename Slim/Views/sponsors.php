@@ -249,6 +249,7 @@
 
     <div class="ui stackable grid detail sponsors">
       <a class="five wide column centered" href="http://www.sensel.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sensel.png');background-size:110px;"></a>
+      <a class="five wide column centered" href="https://unity3d.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/unity.png');background-size:130px;"></a>
     </div>
 
   </section>
