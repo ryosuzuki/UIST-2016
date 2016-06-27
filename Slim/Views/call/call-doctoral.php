@@ -48,7 +48,7 @@
           <b>August 7, 2016:</b> Camera ready versions due.
         </li>
         <li>
-          <b>October 16, 2016:</b> Doctoral Sympposium date
+          <b>October 16, 2016:</b> Doctoral Symposium date
         </li>
       </ul>
     </div>

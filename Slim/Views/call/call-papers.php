@@ -124,10 +124,10 @@
         <b>Aug. 2, 2016:</b> Authors will be notified of the final decision.
       </li>
       <li>
-        <b>Aug. 7, 2016:</b> Final camera-ready papers due.
+        <b>Aug. 10, 2016:</b> Final camera-ready papers due.
       </li>
       <li>
-        <b>Aug. 7, 2016 <span style="color:#ca0002">17:00 PDT</span>:</b> 30-second video previews due (mandatory).
+        <b>Aug. 10, 2016 <span style="color:#ca0002">17:00 PDT</span>:</b> 30-second video previews due (mandatory).
       </li>
     </ul>
   </div>
