@@ -191,40 +191,34 @@
     <h2 class="ui horizontal divider header">Food at the Conference</h2>
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
-        <h2>Welcome Reception (Oct 16 (sun) 6-8pm)</h2>
+        <h2>Welcome Reception (Oct 16 (Sun) 6-8pm)</h2>
         <div class="about text">
           Welcome Reception takes place on Sunday October 16th evening from 6-8pm. The reception will take place at the Josui Kaikan next to the main conference building (National Center of Sciences Building). Finger foods, soft and alcoholic drinks will be served during the reception.
         </div>
-        <h2>Demo Reception (Oct 17 (mon) 6-8pm)</h2>
+        <h2>Demo Reception (Oct 17 (Mon) 6-9pm)</h2>
         <div class="text">
           Demo Reception takes place on Monday October 17th evening. The reception will take place at the Josui Kaikan (next to the conference venue). Our program will include excting demos selected in a competitive process as well as several of our sponsor demos. Finger foods, soft and alcoholic drinks will be served during the reception.
         </div>
-        <h2>Conference "SUMO" Banquet (Oct 18 (tue) 7-10pm)</h2>
-        <div class="stackable ui grid container">
-          <div class="nine wide column" style="padding-left:0">
-            <div class="text">
-              Conference banquet will be held at a Izakaya pub in Ryogoku, a well known town for Japanese national sports, SUMO. The pub is furnished in traditonal Japanese style and has a real sumo ring inside. The event will be held on Tuesday October 18, from 7-10pm. The pub is about 15 min bus ride from the main conference venue, and bus transportation to/from the event is included. Busses will be leaving directly from the conference hall building (more information will be posted closer to the event). You can also get there by train and walk. It will take 25 min. Food will be traditional Japanese with soft and alcoholic drinks. Attendees will enjoy a fun and entertaining evening program including a SUMO demonstration.
-            </div>
-          </div>
-          <div class="seven wide column" style="padding-right:0">
-            <img class="ui fluid image" src="<?php echo BASE_PATH; ?>/lib/img/venue/dinner.jpg">
-          </div>
+
+        <h2>Conference Banquet (Oct 18 (Tue) 8-10:30pm)</h2>
+        <div class="text">
+          Conference banquet will be held at Diamond Hall of Hotel Grand Place Tokyo. The event will be held on Tuesday October 18, from 8-10:30pm. The banquet venue is about 13 min walk or 5 minutes by taxi ride from the main conference venue. It will be a buffet style banquet featuring both Western and Japanese food with soft and alcoholic drinks.
         </div>
-        <br>
-        <h3>Ryogoku Happyakuyacho Hananomai, Edo-Toyko-Hakubutsukan mae ten</h3>
+
+        <h3>Hotel Grand Palace Tokyo</h3>
         <div class="text text-middle">
           <i class="fa fa-map-marker fa-fw"></i>
-          <span>1-1-15 Kamezawa, Sumida-ku, Tokyo</span>
+          <span>1-1-1 Iidabashi, Chiyoda, Tokyo 102-0072, Japan</span>
           <br>
           <i class="fa fa-phone fa-fw"></i>
-          <span>Tel: 03-5619-4488</span>
+          <span>Tel: +81 3-3264-1111</span>
           <br>
           <i class="fa fa-link fa-fw"></i>
-          <span><a href="http://www.chimney.co.jp/event/inbound/jnto/en/special_chimney.html" target="_blank">http://www.chimney.co.jp/event/inbound/jnto/en/special_chimney.html</a></span>
-          <br>
-          <i class="fa fa-link fa-fw"></i>
-          <span><a href="http://www.chimney.co.jp/event/ooedo808/ec/index.html" target="_blank">http://www.chimney.co.jp/event/ooedo808/ec/index.html</a></span>
+          <span><a href="http://www.grandpalace.co.jp/english/" target="_blank">http://www.grandpalace.co.jp/english/</a></span>
         </div>
+        <br>
+        <img class="ui fluid image" src="<?php echo BASE_PATH; ?>/lib/img/venue/reception.jpg">
+
         <br>
         <h2>Lunch Box</h2>
         <div class="stackable ui grid container">
@@ -246,7 +240,7 @@
   </section>
 </div>
 
-<img class="centered image" style="width:100%;margin-top:60px;margin-bottom:30px" src="<?php echo BASE_PATH; ?>/lib/img/venue/sumo.jpg">
+<!-- <img class="centered image" style="width:100%;margin-top:60px;margin-bottom:30px" src="<?php echo BASE_PATH; ?>/lib/img/venue/sumo.jpg"> -->
 
 
 <div class="ui stackable grid">
