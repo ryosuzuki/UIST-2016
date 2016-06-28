@@ -202,7 +202,7 @@
 
         <h2>Conference Banquet (Oct 18 (Tue) 8-10:30pm)</h2>
         <div class="text">
-          Conference banquet will be held at Diamond Hall of Hotel Grand Place Tokyo. The event will be held on Tuesday October 18, from 8-10:30pm. The banquet venue is about 13 min walk or 5 minutes by taxi ride from the main conference venue. It will be a buffet style banquet featuring both Western and Japanese food with soft and alcoholic drinks.
+          Conference banquet will be held at Diamond Hall of Hotel Grand Palace Tokyo. The event will be held on Tuesday October 18, from 8-10:30pm. The banquet venue is about 13 min walk or 5 minutes by taxi ride from the main conference venue. It will be a buffet style banquet featuring both Western and Japanese food with soft and alcoholic drinks.
         </div>
 
         <h3>Hotel Grand Palace Tokyo</h3>
