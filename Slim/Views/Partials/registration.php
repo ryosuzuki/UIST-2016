@@ -36,7 +36,7 @@
       </table>
     </div>
     <div class="fourteen wide column centered" style="text-align: center">
-      <a href="https://www.regonline.com/acmuist2016" target="_blank" class="ui huge green button">Registration</a>
+      <a href="https://www.regonline.com/acmuist2016" target="_blank" class="ui huge green button">Online Registration</a>
     </div>
     <div class="fourteen wide column centered">
       <h1>Cancellation Policy</h1>
@@ -75,8 +75,10 @@
   <div class="ui stackable grid detail">
     <div class="fourteen wide column centered">
       <div class="text">
-        If you need VISA to enter Japan, please request an invitation letter from <a href="http://secretari.jp/For_Visa_Application/" target="_blank">http://secretari.jp/For_Visa_Application/</a>  <b>AFTER</b> registration.
-        Please follow instructions in the page.
+        If you need VISA to enter japan, please contact the registration chairs (<a href="mailto:registration@uist.org">registration@uist.org</a>) via email <b>AFTER</b> completing online registration. They will provide detailed instruction on how to request a document necessary for visa application from us.
+        <br>
+        <br>
+        You can find visa information here. <a href="http://www.mofa.go.jp/j_info/visit/visa/index.html" target="_blank">Ministry of Foreign Affairs</a>
       </div>
     </div>
   </div>
