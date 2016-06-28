@@ -8,15 +8,23 @@
           Updates
         </div>
         <ul class="list text">
+          <li><div class="ui green horizontal label">New</div>
+          <a href="https://uist.acm.org/uist2016/attending#registration">The UIST registration page</a> is now open.<br>
+          Early-bird: by <b>September 2, 2016</b><br>
+          Regular: by <b>September 30, 2016</b>
+          </li>
+          <br>
           <li><b>The UIST submission website</b> is now open:<br>
           <a href="http://precisionconference.com/~sigchi" target="_balnk">http://precisionconference.com/~sigchi</a>
           </li>
           <br>
           <li><b>Upcoming Events:</b><br>
+          <!--
           <b>June 9-16, 2016</b>: The rebuttal period for <a href="http://uist.acm.org/uist2016/papers">Papers</a>
           <br>
           <b>June 26, 2016</b>: Authors will be notified the decision.
           <br>
+          -->
           <b>July 7, 2016</b>: The deadline for <a href="http://uist.acm.org/uist2016/posters">Posters</a>
           <br>
           <b>July 7, 2016</b>: The deadline for <a href="http://uist.acm.org/uist2016/demos">Demos</a>
@@ -24,6 +32,8 @@
           <b>July 7, 2016</b>: The deadline for <a href="http://uist.acm.org/uist2016/doctoral">Doctoral Symposium</a>
           <br>
           <b>July 25, 2016</b>: The deadline for <a href="http://uist.acm.org/uist2016/volunteers">Student Volunteers</a>
+          <br>
+          <b>July 26, 2016</b>: <a href="http://uist.acm.org/uist2016/papers">Papers</a>: Authors submit revised conditionally accepted papers.
         </ul>
       </div>
     </div>

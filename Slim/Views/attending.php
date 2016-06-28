@@ -1,54 +1,9 @@
 
-<!--
-<div class="ui stackable grid">
-  <section class="twelve wide column centered">
-    <h2 class="ui horizontal divider header">Registration</h2>
-    <div class="ui stackable grid detail">
-      <div class="fourteen wide column centered">
-        <table class="ui fixed single line table">
-          <thead class="text">
-            <tr>
-              <th>Affiliation</th>
-              <th>Eary Bird</th>
-              <th>Regular</th>
-              <th>On-site</th>
-            </tr>
-          </thead>
-          <tbody class="text">
-            <tr>
-              <td><b>Non-Member</b></td>
-              <td>TBA</td>
-              <td>TBA</td>
-              <td>TBA</td>
-            </tr>
-            <tr>
-              <td><b>ACM/SIGCHI Member</b></td>
-              <td>TBA</td>
-              <td>TBA</td>
-              <td>TBA</td>
-            </tr>
-            <tr>
-              <td><b>Student</b></td>
-              <td>TBA</td>
-              <td>TBA</td>
-              <td>TBA</td>
-            </tr>
-          </tbody>
-        </table>
-        </br>
-        <p class="about text">
-          We encourage you to register early, because we have limited slots and
-they might be full before the deadline. Registration does not include hotels. You should reserve a hotel on your own. see "accommodation" Eduroam!
-        </p>
-      </div>
-    </div>
-  </section>
-</div>
--->
-
-
 <div class="ui stackable grid">
   <section id="notice" class="ten wide column centered">
+    <h2 class="ui horizontal divider header">Attending</h2>
+    <br>
+    <br>
     <div class="ui icon message">
       <i class="fa fa-bell-o icon"></i>
       <div class="content">
@@ -57,14 +12,18 @@ they might be full before the deadline. Registration does not include hotels. Yo
         </div>
         <br>
         <div class="text">
-          If you plan to attend (or consider attending) the UIST2016 conference in Tokyo, please book your hotel early, ideally NOW. Because of extreme shortage of hotel rooms in Tokyo, it can be difficult to find reasonable hotels near the conference venue later. You can cancel the hotel room afterwards, so we recommend you to book your hotel room first.
+          If you plan to attend (or consider attending) the UIST2016 conference in Tokyo, please book your hotel early, ideally NOW. Because of extreme shortage of hotel rooms in Tokyo, it can be difficult to find reasonable hotels near the conference venue later. You can cancel the hotel room afterwards, so we recommend you to book your hotel room first. See <a href="#hotel-booking">Hotel Booking</a> to learn more.
         </div>
       </div>
     </div>
   </section>
 </div>
 
-<div class="ui stackable grid">
+<div id="registration" class="ui stackable grid background-grid inverted-grid">
+  <?php $app->render('Partials/registration.php'); ?>
+</div>
+
+<div id="venue" class="ui stackable grid">
   <section class="twelve wide column centered">
     <h2 class="ui horizontal divider header">Venue</h2>
     <div class="ui stackable grid detail">
@@ -101,9 +60,9 @@ they might be full before the deadline. Registration does not include hotels. Yo
 </div>
 
 
-<div class="ui stackable grid">
+<div id="hotel-booking" class="ui stackable grid">
   <section class="twelve wide column centered">
-    <h2 class="ui horizontal divider header">Accommodation</h2>
+    <h2 class="ui horizontal divider header">Hotel Booking</h2>
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
         <div class="text">
@@ -124,7 +83,7 @@ they might be full before the deadline. Registration does not include hotels. Yo
 <img class="centered image" style="width:100%;margin-top:60px;margin-bottom:30px" src="<?php echo BASE_PATH; ?>/lib/img/venue/building.jpg">
 
 
-<div class="ui stackable grid">
+<div id="transportation" class="ui stackable grid">
   <section class="twelve wide column centered">
     <h2 class="ui horizontal divider header">Transportation</h2>
     <div class="ui stackable grid detail">

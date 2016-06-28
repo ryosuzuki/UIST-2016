@@ -380,6 +380,16 @@ section.column .detail {
 //   vertical-align: middle;
 // }
 
+.inverted-grid {
+  color: #fff !important;
+}
+
+.inverted-grid a {
+  color: #9fc8f0;
+  text-decoration: underline;
+}
+
+
 .background-grid {
   background: #555;
   background: -webkit-radial-gradient(circle farthest-corner at left top, #777 0%, #333 100%);

@@ -11,10 +11,11 @@ $app->get('/attending', function () use ($app) {
   $app->render('Layouts/main.php', array("app" => $app, "view" => "attending.php", "category" => "attending", "title" => "Attending"));
 });
 
+/*
 $app->get('/registration', function () use ($app) {
   $app->render('Layouts/main.php', array("app" => $app, "view" => "registration.php", "category" => "registration", "title" => "Registration"));
 });
-
+*/
 $app->get('/sponsors', function () use ($app) {
   $app->render('Layouts/main.php', array("app" => $app, "view" => "sponsors.php", "category" => "sponsors", "title" => "Sponsors"));
 });
