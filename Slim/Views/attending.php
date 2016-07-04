@@ -178,7 +178,9 @@
           We plan to provide following WiFi access service to conference attendees.
           It will allow you to use 200,000 public WiFi spots accross Japan during your stay, in addition to the WiFi spot at the confernece venue.
           <br>
-          wi2 300 http://wi2.co.jp/en/300/
+          wi2 300 <a href="http://wi2.co.jp/en/300/" target="_blank">http://wi2.co.jp/en/300/</a>
+          <br>
+          The conference venue also supports eduroam (<a href="https://www.eduroam.org/" target="_blank">https://www.eduroam.org/</a>). So, if your institute is a member of eduroam (universities and research centers), please obtain your online identity and password from your institute beforehand.
         </div>
       </div>
     </div>
