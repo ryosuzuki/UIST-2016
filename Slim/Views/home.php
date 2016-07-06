@@ -34,6 +34,9 @@
           <b>July 25, 2016</b>: The deadline for <a href="http://uist.acm.org/uist2016/volunteers">Student Volunteers</a>
           <br>
           <b>July 26, 2016</b>: <a href="http://uist.acm.org/uist2016/papers">Papers</a>: Authors submit revised conditionally accepted papers.
+          <br>
+          <b>August 1, 2016</b>: The deadline for <a href="http://uist.acm.org/uist2016/contest">Student Innovation Contest</a>
+
         </ul>
       </div>
     </div>
