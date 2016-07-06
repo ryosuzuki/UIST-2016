@@ -9,7 +9,7 @@
       The UIST Doctoral Symposium is a forum in which Ph.D. students can meet and discuss their work with each other and a panel of experienced UIST researchers in an informal and interactive setting. We welcome applications from current Ph.D. students studying within the full range of disciplines and approaches that contribute to the UIST community. We will give preference to applicants beyond the proposal stage and well into their dissertation research.
       <br>
       <br>
-      Each applicant should provide a short written paper (no more than four pages in the official SIGCHI conference publication format(
+      Each applicant should provide a short written paper (no more than four pages (<b>including references</b>) in the official SIGCHI conference publication format(
 
       <a href="http://www.sigchi.org/publications/chipubform/sigchi-papers-word-template/view" target="_blank">Word Template</a>
 
