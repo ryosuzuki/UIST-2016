@@ -12,15 +12,15 @@
     </tr>
     <tr>
       <td><a href="http://uist.acm.org/uist2016/posters">Posters</a></td>
-      <td><b>July 7 (Thu), 2016</b></td>
+      <td><b style="color:#ccc;">July 7 (Thu), 2016</b></td>
     </tr>
     <tr>
       <td><a href="http://uist.acm.org/uist2016/demos">Demos</a></td>
-      <td><b>July 7 (Thu), 2016</b></td>
+      <td><b style="color:#ccc;">July 7 (Thu), 2016</b></td>
     </tr>
     <tr>
       <td><a href="http://uist.acm.org/uist2016/doctoral">Doctoral Symposium</a></td>
-      <td><b>July 7 (Thu), 2016</b></td>
+      <td><b style="color:#ccc;">July 7 (Thu), 2016</b></td>
     </tr>
     <tr>
       <td><a href="http://uist.acm.org/uist2016/volunteers">Student Volunteers</a></td>
