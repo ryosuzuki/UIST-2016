@@ -9,9 +9,7 @@
         </div>
         <ul class="list text">
           <li><div class="ui green horizontal label">New</div>
-          <a href="https://uist.acm.org/uist2016/attending#registration">The UIST registration page</a> is now open.<br>
-          Early-bird: by <b>September 2, 2016</b><br>
-          Regular: by <b>September 30, 2016</b>
+          <a href="https://uist.acm.org/uist2016/attending#registration">The UIST registration page</a> is now open.
           </li>
           <br>
           <li><b>The UIST submission website</b> is now open:<br>
@@ -24,7 +22,10 @@
           <b>July 26, 2016</b>: <a href="http://uist.acm.org/uist2016/papers">Papers</a>: Authors submit revised conditionally accepted papers.
           <br>
           <b>August 1, 2016</b>: The deadline for <a href="http://uist.acm.org/uist2016/contest">Student Innovation Contest</a>
+          <br>
           <b>September 2, 2016</b>: The deadline for <a href="https://uist.acm.org/uist2016/attending#registration">Early-bird Registration</a>
+          <br>
+          <b>September 30, 2016</b>: The deadline for <a href="https://uist.acm.org/uist2016/attending#registration">Regular Registration</a>
           <!--
           <b>June 9-16, 2016</b>: The rebuttal period for <a href="http://uist.acm.org/uist2016/papers">Papers</a>
           <br>
