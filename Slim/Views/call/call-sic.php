@@ -36,7 +36,7 @@
     For 2016, the UIST Student Innovation Contest takes on a very timely subject which is the next frontier in virtual and augmented reality: feeling the virtual (haptics)! You will help create a world in which virtual interfaces are no longer just wireframes without mass... you can use electrical muscle stimulation to create physical forces from the virtual world and... you can even make it mobile/wearable so that these interfaces are with us everywhere!
     <br>
     <br>
-    Each team will receive a kit of parts including an arduino nano, the medically-safe muscle stimulator, electrodes and our usb/bluetooth control board. Using these parts, teams will be able to build virtual experiences, devices, interfaces that demonstrate how to make the virtual physical. We will also be providing you with simple examples on how to get started using <a href="https://www.arduino.cc/">Arduino</a>, <a href="https://unity3d.com">Unity3D</a> and <a href="https://processing.org">Processing</a>. All teams are encouraged to open source their efforts, and even build on each other’s work. To get you started easily, we will provide you, besides all the hardware, video tutorials and coaching sessions so you know how to setup everything and debug any questions you might have!
+    Each team will <a href="http://plopes.org/ems" target="_blank">receive a kit of parts</a> including an arduino nano, the medically-safe muscle stimulator, electrodes and our usb/bluetooth control board. Using these parts, teams will be able to build virtual experiences, devices, interfaces that demonstrate how to make the virtual physical. We will also be providing you with <a href="https://github.com/PedroLopes/openEMSstim" target="_blank">simple examples on how to get started using Arduino, Unity3D and Processing</a>. All teams are encouraged to open source their efforts, and even build on each other’s work. To get you started easily, we will provide you, besides all the hardware, <a href="https://github.com/PedroLopes/openEMSstim/tree/master/start-here-tutorials" target="_blank">video tutorials</a> and coaching sessions so you know how to setup everything and debug any questions you might have!
   </div>
   <h3>Demo applications and more ideas to build</h3>
   <div class="ui images">
@@ -60,6 +60,10 @@
     or maybe you don't even need screens! The more exciting your demo gets the higher are the chances for
     the prize committee to be impressed.
   </div>
+
+
+  <h2>VIDEO OF THE HARDWARE KIT YOU WILL BE RECEIVING</h2>
+  <iframe src="https://www.youtube.com/embed/QSn7W4r4Tbw?rel=0&amp;cc_load_policy=1" height="360" width="640" allowfullscreen="" frameborder="0"></iframe>
 
   <h2>REGISTRATION PROCESS</h2>
   <div class="text">
