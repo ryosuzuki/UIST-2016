@@ -282,3 +282,29 @@
  -->
   </section>
 </div>
+
+<div class="ui stackable grid">
+  <section class="twelve wide column centered">
+    <div class="ui horizontal divider header" style="color:#000000;">
+      <h2 style="margin-bottom:5px;">Institution Supporters</h2>
+      <span class="text text-small"></span>
+    </div>
+    <div class="ui stackable grid detail">
+      <div class="fourteen wide column centered">
+        <div class="text">
+          <!-- <ul>
+            <li>Company logo at the signage at the conference and conference webpage.</li>
+          </ul> -->
+        </div>
+
+      </div>
+    </div>
+
+    <div class="ui stackable grid detail sponsors friends">
+      <a class="five wide column centered" href="http://sigchi.org" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/nict.png');background-size:220px;"></a>
+      <!-- <a class="five wide column centered" href="http://www.acm.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/acm.png');background-size:240px;"></a>
+      <a class="five wide column centered" href="http://www.siggraph.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/siggraph.png');background-size:150px;"></a> -->
+    </div>
+
+  </section>
+</div>
