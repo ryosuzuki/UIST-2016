@@ -24,11 +24,11 @@
     </tr>
     <tr>
       <td><a href="http://uist.acm.org/uist2016/volunteers">Student Volunteers</a></td>
-      <td><b>July 25 (Mon), 2016</b></td>
+      <td><b style="color:#ccc;">July 25 (Mon), 2016</b></td>
     </tr>
     <tr>
       <td><a href="http://uist.acm.org/uist2016/contest">Student Innovation Contest</a></td>
-      <td><b>August 1 (Mon), 2016</b></td>
+      <td><b>August 15 (Mon), 2016</b></td>
     </tr>
   </tbody>
 </table>

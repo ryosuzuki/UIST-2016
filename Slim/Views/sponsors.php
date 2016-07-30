@@ -158,7 +158,7 @@
     </div>
 
     <div class="ui stackable grid detail sponsors">
-      <a class="five wide column centered" href="http://www.autodesk.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/autodesk.png');background-size:300px;"></a>
+      <a class="five wide column centered" href="http://www.autodesk.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/autodesk.png');background-size:270px;"></a>
     </div>
 
     <!--
@@ -285,7 +285,7 @@
 
 <div class="ui stackable grid">
   <section class="twelve wide column centered">
-    <div class="ui horizontal divider header" style="color:#000000;">
+    <div class="ui horizontal divider header" style="color:#555;">
       <h2 style="margin-bottom:5px;">Institution Supporters</h2>
       <span class="text text-small"></span>
     </div>
@@ -299,12 +299,8 @@
 
       </div>
     </div>
-
     <div class="ui stackable grid detail sponsors friends">
-      <a class="five wide column centered" href="http://sigchi.org" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/nict.png');background-size:220px;"></a>
-      <!-- <a class="five wide column centered" href="http://www.acm.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/acm.png');background-size:240px;"></a>
-      <a class="five wide column centered" href="http://www.siggraph.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/siggraph.png');background-size:150px;"></a> -->
+      <a class="five wide column centered" href="http://www.nict.go.jp/en/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/nict.png');background-size:100px;"></a>
     </div>
-
   </section>
 </div>

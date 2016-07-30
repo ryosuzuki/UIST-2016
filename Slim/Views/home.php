@@ -17,11 +17,7 @@
           </li>
           <br>
           <li><b>Upcoming Events:</b><br>
-          <b>July 25, 2016</b>: The deadline for <a href="http://uist.acm.org/uist2016/volunteers">Student Volunteers</a>
-          <br>
-          <b>July 26, 2016</b>: <a href="http://uist.acm.org/uist2016/papers">Papers</a>: Authors submit revised conditionally accepted papers.
-          <br>
-          <b>August 1, 2016</b>: The deadline for <a href="http://uist.acm.org/uist2016/contest">Student Innovation Contest</a>
+          <b><div class="ui blue horizontal label">Extended</div>August 15, 2016</b>: The deadline for <a href="http://uist.acm.org/uist2016/contest">Student Innovation Contest</a>
           <br>
           <b>September 2, 2016</b>: The deadline for <a href="https://uist.acm.org/uist2016/attending#registration">Early-bird Registration</a>
           <br>
@@ -99,7 +95,7 @@
     <h2 class="ui horizontal divider header" style="color:#88847b; margin-top:80px">Platinum Sponsors</h2>
 
     <div class="ui stackable grid detail sponsors">
-      <a class="five wide column centered" href="http://www.autodesk.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/autodesk.png');background-size:300px;"></a>
+      <a class="five wide column centered" href="http://www.autodesk.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/autodesk.png');background-size:270px;"></a>
     </div>
 
     <h2 class="ui horizontal divider header" style="color:#a9a59f; margin-top:80px">Silver Sponsors</h2>
@@ -113,7 +109,6 @@
 
 
     <h2 class="ui horizontal divider header" style="color:#d7995b; margin-top:80px">Bronze Sponsors</h2>
-
     <div class="ui stackable grid detail sponsors">
       <a class="five wide column centered" href="http://www.sensel.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sensel.png');background-size:100px;"></a>
       <a class="five wide column centered" href="https://atap.google.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/google-atap.png');background-size:200px;"></a>
@@ -121,8 +116,14 @@
       <a class="five wide column centered" href="http://www.yahoo.co.jp/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/yahoo.png');background-size:140px; margin-top: 25px"></a>
     </div>
 
+    <h2 class="ui horizontal divider header" style="color:#555; margin-top:80px">Institution Supporters</h2>
+    <div class="ui stackable grid detail sponsors">
+      <a class="five wide column centered" href="http://www.nict.go.jp/en/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/nict.png');background-size:100px;"></a>
+    </div>
+
   </section>
 </div>
+
 
 <section id="footer-cover">
   <h2 class="text text-spaced text-center">Join the Conversation</h2>

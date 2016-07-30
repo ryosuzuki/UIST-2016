@@ -21,12 +21,12 @@
   <h2>Important dates</h2>
   <div class="text">
     <ul>
-      <li>student contest registration deadline for all teams : <strong>August 1</strong></li>
-      <li>organizers evaluate submissions and select accepted teams : <strong>August 1-2</strong></li>
-      <li>notification of team selection sent out : <strong>August 3</strong></li>
-      <li>hardware kits shipped to accepted teams (as soon as possible after one team member is registered to the conference) : <strong>August 4</strong></li>
-      <li>contest development period with muscle-stimulation hardware : <strong>August 4 - October 17</strong></li>
-      <li>teams demo at contest reception during UIST conference (Tokyo) : <strong>October 17</strong></li>
+      <li>student contest registration deadline for all teams : <b>August 15 (extended deadline, rolling acceptance -- submit as early as possible, we are accepting until full!)</b></li>
+      <li>organizers evaluate submissions and select accepted teams : <b>August 1-2 (and rolling acceptance until 15th)</b></li>
+      <li>notification of team selection sent out : <b>August 3 (and rolling notifications until 16th)</b></li>
+      <li>hardware kits shipped to accepted teams (as soon as possible after one team member is registered to the conference) : <b>August 4</b></li>
+      <li>contest development period with muscle-stimulation hardware : <b>August 4 - October 17</b></li>
+      <li>teams demo at contest reception during UIST conference (Tokyo) : <b>October 17</b></li>
     </ul>
   </div>
 
@@ -113,67 +113,115 @@
   <h2>FAQ</h2>
   <h3>Hardware and Software</h3>
   <div class="text">
-    Q: What is EMS? A: EMS is Electrical Muscle Stimulation. It is a technique from rehabilitation medicine that allows to contract muscles by sending small (mA scale) electrical impulses via  electrodes attached to the skin.
+    Q: What is EMS?
+    <br>
+    A: EMS is Electrical Muscle Stimulation. It is a technique from rehabilitation medicine that allows to contract muscles by sending small (mA scale) electrical impulses via  electrodes attached to the skin.
     <br><br>
-    Q: How do we use EMS on our project? A: We use EMS without needing to tamper or alter any hardware. We use a medically compliant electrical muscle stimulator and a control board. The control board is able to attenuate the muscle stimulation signal (i.e., make it smaller). The board is galvanically isolated from the stimulator, i.e., the board's arduino is not on the same circuit of the stimulator. You can control the board by simply sending bluetooth messages, from your phone or laptop.
+    Q: How do we use EMS on our project?
+    <br>
+    A: We use EMS without needing to tamper or alter any hardware. We use a medically compliant electrical muscle stimulator and a control board. The control board is able to attenuate the muscle stimulation signal (i.e., make it smaller). The board is galvanically isolated from the stimulator, i.e., the board's arduino is not on the same circuit of the stimulator. You can control the board by simply sending bluetooth messages, from your phone or laptop.
     <br><br>
-    Q: Do I get to keep the hardware after the contest? A: Yes, if you always use it safely as instructed.
+    Q: Do I get to keep the hardware after the contest?
+    <br>
+    A: Yes, if you always use it safely as instructed.
     <br><br>
     Q: Are we allowed to develop our demos in programming languages other than the ones used in the provided examples? A: You are welcome to write your own ports for different languages and develop your demos in any language, however we cannot provide any technical support, and we highly recommend using Java/Processing/Python and Arduino as they are easy cross-platform languages.
     <br><br>
-    Q: Can we start developing our idea before the hardware arrives? A: Yes! You can start as soon as you’d like. We’ll try to provide the 3D models and control software at the time of team notifications so you can get started.
+    Q: Can we start developing our idea before the hardware arrives?
+    <br>
+    A: Yes! You can start as soon as you’d like. We’ll try to provide the 3D models and control software at the time of team notifications so you can get started.
   </div>
   <h3>Registration and Eligibility</h3>
   <div class="text">
-    Q: I am not a student, can I still participate? A: Unfortunately, no. The contest is limited to students at all levels (High School, Bachelor's, Master's, and PhD).
+    Q: I am not a student, can I still participate?
+    <br>
+    A: Unfortunately, no. The contest is limited to students at all levels (High School, Bachelor's, Master's, and PhD).
     <br><br>
-    Q: I'm in high school, can I participate in the contest? A: All students are welcome. However, you will have to be old enough (at least 18 years old) and able to travel to the UIST Conference in Tokyo, Japan.
+    Q: I'm in high school, can I participate in the contest?
+    <br>
+    A: All students are welcome. However, you will have to be old enough (at least 18 years old) and able to travel to the UIST Conference in Tokyo, Japan.
     <br><br>
-    Q: I'm an international student, can I participate in the contest? A: Yes. International students at all levels are encouraged to participate. You will be responsible for your own travel and arrangements.
+    Q: I'm an international student, can I participate in the contest?
+    <br>
+    A: Yes. International students at all levels are encouraged to participate. You are responsible for your own travel, registration and arrangements, but we do have some travel grants to help (see below).
     <br><br>
-    Q: Are postdocs eligible to participate in the contest? A: Unfortunately, no. Postdocs are expected to pay the full registration rate at the UIST conference and thus are not considered students. To maintain fairness among all teams, this means they are not eligible to participate.
+    Q: Are postdocs eligible to participate in the contest?
+    <br>
+    A: Unfortunately, no. Postdocs are expected to pay the full registration rate at the UIST conference and thus are not considered students. To maintain fairness among all teams, this means they are not eligible to participate.
     <br><br>
-    Q: What happens if I wish to withdraw from the contest? A: Teams are welcome to withdraw. Please email the contest chairs at least 2 weeks before the conference. Keep in mind you might be asked to return the hardware provided. If you are seeking conference registration reimbursement, your reimbursement will not be processed until you have returned the hardware kit.
+    Q: What happens if I wish to withdraw from the contest?
+    <br>
+    A: Teams are welcome to withdraw. Please email the contest chairs at least 2 weeks before the conference. Keep in mind you might be asked to return the hardware provided. If you are seeking conference registration reimbursement, your reimbursement will not be processed until you have returned the hardware kit.
   </div>
   <h3>Teams</h3>
   <div class="text">
-    Q: How many teams will be selected to participate in the contest? A: Based on space and power limitations at the venue, we will be selecting a maximum of 20 teams. We reserve the right to change this number based on a number of factors (including number of teams registered, ideas submitted, team composition, etc.).
+    Q: How many teams will be selected to participate in the contest?
+    <br>
+    A: Based on space and power limitations at the venue, we will be selecting a maximum of 20 teams. We reserve the right to change this number based on a number of factors (including number of teams registered, ideas submitted, team composition, etc.).
     <br><br>
-    Q: Is there a waiting list for team selection? A: If accepted teams decide to withdraw or do not register for the conference within a week of selection notification, additional teams may be invited to participate. We will only contact additional teams if spots opens up.
+    Q: Is there a waiting list for team selection?
+    <br>
+    A: If accepted teams decide to withdraw or do not register for the conference within a week of selection notification, additional teams may be invited to participate. We will only contact additional teams if spots opens up.
     <br><br>
-    Q: Can one person be a member of multiple teams? A: Unfortunately, no. Please decide to be part of one team for the contest. We also encourage students at the same institution to form full groups of 4 students, instead of smaller teams.
+    Q: Can one person be a member of multiple teams?
+    <br>
+    A: Unfortunately, no. Please decide to be part of one team for the contest. We also encourage students at the same institution to form full groups of 4 students, instead of smaller teams.
     <br><br>
-    Q: Can teams be composed of students from different schools? A: Yes, definitely. Simply enter the school name of your team captain at the top of the registration form. Then, enter the school names for your other members in the section for each additional member.
+    Q: Can teams be composed of students from different schools?
+    <br>
+    A: Yes, definitely. Simply enter the school name of your team captain at the top of the registration form. Then, enter the school names for your other members in the section for each additional member.
     <br><br>
-    Q: Can student members be removed or added from teams after the registration deadline? A: Yes, we are allowing for student members to be added or removed up until 2 weeks before the contest. The team captain or student registered for the conference cannot withdraw, otherwise the team will forfeit their participation. Email the contest organizers as soon as possible to make any changes.
+    Q: Can student members be removed or added from teams after the registration deadline?
+    <br>
+    A: Yes, we are allowing for student members to be added or removed up until 2 weeks before the contest. The team captain or student registered for the conference cannot withdraw, otherwise the team will forfeit their participation. Email the contest organizers as soon as possible to make any changes.
   </div>
   <h3>Demo Ideas</h3>
   <div class="text">
-    Q: Can I publish a paper on what I come up with? A: Yes.
+    Q: Can I publish a paper on what I come up with?
+    <br>
+    A: Yes.
     <br><br>
-    Q: Do I own the intellectual property (IP)? A: You own the rights to what you develop, however you must open-source it to be eligible for prizes.
+    Q: Do I own the intellectual property (IP)?
+    <br>
+    A: You own the rights to what you develop, however you must open-source it to be eligible for prizes.
     <br><br>
-    Q: Will I be able to demo my idea on my own computer? A: Yes. In fact, it is mandatory, since we will not provide any equipment at the conference.
+    Q: Will I be able to demo my idea on my own computer?
+    <br>
+    A: Yes. In fact, it is mandatory, since we will not provide any equipment at the conference.
     <br><br>
-    Q: Can other people help me develop this code? A: It is permissible to get external help for bugs and other issues. People external to the team cannot contribute large pieces of code (or ideas).
+    Q: Can other people help me develop this code?
+    <br>
+    A: It is permissible to get external help for bugs and other issues. People external to the team cannot contribute large pieces of code (or ideas).
     <br><br>
-    Q: Can my adviser help? A: Ideas can be discussed with advisers, but core ideas should come from the team members.
+    Q: Can my adviser help?
+    <br>
+    A: Ideas can be discussed with advisers, but core ideas should come from the team members.
   </div>
   <h3>Travel Agreements and Grants</h3>
   <div class="text">
-    Q: Is it possible to receive funding for travel and registration? A: Unfortunately, we don’t have funding for that this year.
+    Q: Is it possible to receive funding for travel and registration?
+    <br>
+    A: Yes, we will be able to support some of the teams that don't really have any finantial support. But note that our support is limited and until we know where all the teams are coming from and which kinds of support they have by their advisor/school, we can't tell you how much we will support. So despite our travel grants, make sure you talk to your school and Professor/Advisor and arrange some funding ahead (for instance we will not be able to pay registrations, except rare cases, make sure you can fund your registration fee).
     <br><br>
-    Q: I will need a visa to attend UIST. Can you provide a visa invitation letter? A: Contest organizers won't be able to help with visas. There is a section at the bottom of the registration page that details how you can request a visa support letter directly from ACM. Please visit: <a href="http://www.acm.org/uist/uist2016">http://www.acm.org/uist/uist2016</a>
+    Q: I will need a visa to attend UIST. Can you provide a visa invitation letter?
+    <br>
+    A: Contest organizers won't be able to help with visas. There is a section at the bottom of the registration page that details how you can request a visa support letter directly from ACM. Please visit: <a href="http://www.acm.org/uist/uist2016">http://www.acm.org/uist/uist2016</a>
   </div>
   <h3>Awards</h3>
   <div class="text">
-    Q: How will you stop people from voting multiple times for "People's Choice"? A: We encourage you to interact with conference attendees to show off your projects and ask them to vote for you. Student volunteers will be monitoring the voting stations.
+    Q: How will you stop people from voting multiple times for "People's Choice"?
+    <br>
+    A: We encourage you to interact with conference attendees to show off your projects and ask them to vote for you. Student volunteers will be monitoring the voting stations.
     <br><br>
-    Q: What if only a few teams enter? A: We reserve the right to change the rules at any time. If a small number of people were to enter, we are likely to modify the award structure.
+    Q: What if only a few teams enter?
+    <br>
+    A: We reserve the right to change the rules at any time. If a small number of people were to enter, we are likely to modify the award structure.
   </div>
   <h3>Disclaimer</h3>
   <div class="text">
-    Q: What if something happens the contest chairs did not foresee? A: We reserve the right to change the rules at any time. We will inform all registered contestants of any changes.
+    Q: What if something happens the contest chairs did not foresee?
+    <br>
+    A: We reserve the right to change the rules at any time. We will inform all registered contestants of any changes.
   </div>
 
   <h2>SPONSORS</h2>
