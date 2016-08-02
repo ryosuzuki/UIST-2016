@@ -347,6 +347,14 @@
               </td>
               <td class="affiliation">Google</td>
             </tr>
+            <tr>
+              <td class="name">
+                <a href="http://www.alansonsample.com/" target="_blank">
+                Alanson Sample
+                </a>
+              </td>
+              <td class="affiliation">Disney Research</td>
+            </tr>
           </tbody>
         </table>
       </div>
