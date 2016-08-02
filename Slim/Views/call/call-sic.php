@@ -63,7 +63,7 @@
 
 
   <h2>VIDEO OF THE HARDWARE KIT YOU WILL BE RECEIVING</h2>
-  <iframe src="https://www.youtube.com/embed/QSn7W4r4Tbw?rel=0&amp;cc_load_policy=1" height="360" width="640" allowfullscreen="" frameborder="0"></iframe>
+  <iframe src="https://www.youtube.com/embed/XgJF1DVwt7s?rel=0&amp;cc_load_policy=1" height="360" width="640" allowfullscreen="" frameborder="0"></iframe>
 
   <h2>REGISTRATION PROCESS</h2>
   <div class="text">
