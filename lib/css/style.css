@@ -24,6 +24,10 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 
+.sponsors a {
+  margin-top: 20px;
+}
+
 .text {
   letter-spacing: .02em;
   color: inherit;
