@@ -301,6 +301,7 @@
     </div>
     <div class="ui stackable grid detail sponsors friends">
       <a class="five wide column centered" href="http://www.nict.go.jp/en/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/nict.png');background-size:100px;"></a>
+      <a class="five wide column centered" href="http://www.kayamorif.or.jp/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/kayamori.png');background-size:100px;"></a>
     </div>
   </section>
 </div>
