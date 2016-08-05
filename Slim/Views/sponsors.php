@@ -159,6 +159,7 @@
 
     <div class="ui stackable grid detail sponsors">
       <a class="five wide column centered" href="http://www.autodesk.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/autodesk.png');background-size:270px;"></a>
+      <a class="five wide column centered" href="http://recruit.ai/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/recruit.png');background-size:270px;"></a>
     </div>
 
     <!--
@@ -252,6 +253,7 @@
       <a class="five wide column centered" href="https://atap.google.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/google-atap.png');background-size:200px;"></a>
       <a class="five wide column centered" href="https://unity3d.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/unity.png');background-size:130px;"></a>
       <a class="five wide column centered" href="http://www.yahoo.co.jp/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/yahoo.png');background-size:140px;"></a>
+      <a class="five wide column centered" href="http://www.ux-xu.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/yukai.png');background-size:140px;"></a>
     </div>
 
   </section>
@@ -301,6 +303,7 @@
     </div>
     <div class="ui stackable grid detail sponsors friends">
       <a class="five wide column centered" href="http://www.nict.go.jp/en/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/nict.png');background-size:100px;"></a>
+      <a class="five wide column centered" href="http://www.kayamorif.or.jp/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/kayamori.png');background-size:100px;"></a>
     </div>
   </section>
 </div>
