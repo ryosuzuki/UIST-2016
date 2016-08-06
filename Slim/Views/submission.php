@@ -12,9 +12,9 @@
   </section>
 </div>
 
-<div class="ui stackable grid">
+<div class="ui stackable grid background-grid">
   <section id="deadline" class="twelve wide column centered">
-    <h2 class="ui horizontal divider header">Call for Participation</h2>
+    <h2 class="ui horizontal inverted divider header">Deadlines</h2>
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
         <?php $app->render('Partials/deadline.php'); ?>
