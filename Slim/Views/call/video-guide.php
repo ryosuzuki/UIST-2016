@@ -4,7 +4,7 @@
     <h2 class="ui horizontal divider header">Video Guide</h2>
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
-        <h1>UIST 2016 VIDEO GUIDE</h1>
+        <h1>UIST 2016 Video Guide</h1>
         <div class="text">
           A companion document to the UIST 2016 Call for Participation <br>
           This guide describes recommendations and good practice for creating companion videos to UIST submissions

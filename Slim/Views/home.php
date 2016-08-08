@@ -17,7 +17,9 @@
           </li>
           <br>
           <li><b>Upcoming Events:</b><br>
-          <b><div class="ui blue horizontal label">Extended</div>August 15, 2016</b>: The deadline for <a href="http://uist.acm.org/uist2016/contest">Student Innovation Contest</a>
+          <b>August 10, 2016</b>: The deadline for final camera-ready papers and 30-second video previews for <a href="http://uist.acm.org/uist2016/papers">Papers</a>
+          <br>
+          <b>August 15, 2016 (Extended)</b>: The deadline for <a href="http://uist.acm.org/uist2016/contest">Student Innovation Contest</a>
           <br>
           <b>September 2, 2016</b>: The deadline for <a href="https://uist.acm.org/uist2016/attending#registration">Early-bird Registration</a>
           <br>
