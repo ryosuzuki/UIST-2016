@@ -54,7 +54,7 @@
 </div>
 
 <div class="ui stackable grid">
-  <section id="opening-keynote" class="twelve wide column centered">
+  <section id="keynote" class="twelve wide column centered">
     <h2 class="ui horizontal divider header">Keynote Speakers</h2>
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
