@@ -1,8 +1,12 @@
-<div class="section about"><div class="blk-1">
+<div class="ui stackable grid">
+  <section id="call" class="twelve wide column centered">
+    <h2 class="ui horizontal divider header">Video Preview Guidline</h2>
+    <div class="ui stackable grid detail">
+      <div class="fourteen wide column centered">
+        <h1>UIST 2016 Video Preview Details</h1>
+        <div class="text">
 
-
-<h1 id="uist-2015-video-previews-details">UIST 2015 Video Previews Details</h1>
-<h3 id="table-of-contents">Table of Contents</h3>
+<h2 id="table-of-contents">Table of Contents</h2>
 <ul>
 <li><a href="#format">Format</a><ul>
 <li><a href="#encoding-to-mpeg-4-h-264-mp4">Encoding to MPEG-4/H.264 (.mp4)</a></li>
