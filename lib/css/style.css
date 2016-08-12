@@ -121,6 +121,10 @@ body {
   border-bottom: solid #000 4px !important;
 }
 
+#schedule table {
+  margin: 50px 0;
+}
+
 #menu-button {
   display: none;
 }
