@@ -1,7 +1,4 @@
 
-
-
-
 <div id="schedule" class="ui stackable grid">
   <section class="twelve wide column centered">
     <h2 class="ui horizontal divider header">Schedule</h2>
