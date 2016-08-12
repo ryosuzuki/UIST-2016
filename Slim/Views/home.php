@@ -1,9 +1,11 @@
 
 <div id="update-grid" class="ui stackable grid">
   <section id="update" class="ten wide column centered">
-    <div class="ui icon message">
-      <i class="fa fa-bell-o icon"></i>
-      <div class="content">
+    <div class="ui icon message stackable grid" style="margin-left: 0.1rem !important;">
+      <div class="icon two wide column">
+        <i class="fa fa-bell-o fa-lg"></i>
+      </div>
+      <div class="content twelve wide column">
         <div class="text text-bold">
           Updates
         </div>

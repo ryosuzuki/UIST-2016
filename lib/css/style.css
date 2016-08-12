@@ -255,9 +255,6 @@ body {
   .ui.pointing.menu {
     display: none;
   }
-  .ui.grid .column {
-    width: 100% !important;
-  }
   #menu-button {
     display: block;
     position: absolute;
