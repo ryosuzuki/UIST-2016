@@ -306,7 +306,7 @@
         <thead class="text">
           <tr>
             <th colspan="4">
-              Tuesday, October 19, 2016
+              Wednesday, October 19, 2016
             </th>
           </tr>
         </thead>
