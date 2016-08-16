@@ -123,6 +123,7 @@
               </td>
               <td class="affiliation">Microsoft Research</td>
             </tr>
+            <!--
             <tr>
               <td class="name">
                 <a href="https://profiles.stanford.edu/sean-follmer" target="_blank">
@@ -131,6 +132,7 @@
               </td>
               <td class="affiliation">Stanford University</td>
             </tr>
+            -->
             <tr>
               <td class="name">
                 <a href="http://www.sebastianboring.com/" target="_blank">
