@@ -139,6 +139,7 @@
       <a class="five wide column centered" href="https://unity3d.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/unity.png');background-size:120px;"></a>
       <a class="five wide column centered" href="http://www.yahoo.co.jp/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/yahoo.png');background-size:140px;"></a>
       <a class="five wide column centered" href="http://www.ux-xu.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/yukai.png');background-size:140px;"></a>
+      <a class="five wide column centered" href="http://www.wacom.com/ja-jp" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/wacom.png');background-size:140px;"></a>
     </div>
 
     <h2 class="ui horizontal divider header" style="color:#555; margin-top:80px">Institution Supporters</h2>
