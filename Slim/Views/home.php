@@ -117,6 +117,12 @@
       <a class="five wide column centered" href="http://recruit.ai/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/recruit.png');background-size:270px;"></a>
     </div>
 
+    <h2 class="ui horizontal divider header" style="color:#D4AF37; margin-top:80px">Gold Sponsors</h2>
+
+    <div class="ui stackable grid detail sponsors">
+      <a class="five wide column centered" href="http://www.google.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/google2.png');background-size:200px;"></a>
+    </div>
+
     <h2 class="ui horizontal divider header" style="color:#a9a59f; margin-top:80px">Silver Sponsors</h2>
 
     <div class="ui stackable grid detail sponsors">
@@ -130,10 +136,11 @@
     <h2 class="ui horizontal divider header" style="color:#d7995b; margin-top:80px">Bronze Sponsors</h2>
     <div class="ui stackable grid detail sponsors">
       <a class="five wide column centered" href="http://www.sensel.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sensel.png');background-size:100px;"></a>
-      <a class="five wide column centered" href="https://atap.google.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/google-atap.png');background-size:200px;"></a>
       <a class="five wide column centered" href="https://unity3d.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/unity.png');background-size:120px;"></a>
       <a class="five wide column centered" href="http://www.yahoo.co.jp/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/yahoo.png');background-size:140px;"></a>
-      <a class="five wide column centered" href="http://www.ux-xu.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/yukai.png');background-size:140px;"></a>
+      <a class="five wide column centered" href="http://www.ux-xu.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/yukai.png');background-size:130px;"></a>
+      <a class="five wide column centered" href="http://www.wacom.com/ja-jp" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/wacom.png');background-size:130px;"></a>
+      <a class="five wide column centered" href="http://www.tactuallabs.com" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/tactual.png');background-size:40px;"></a>
     </div>
 
     <h2 class="ui horizontal divider header" style="color:#555; margin-top:80px">Institution Supporters</h2>

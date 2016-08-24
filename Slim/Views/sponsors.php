@@ -188,15 +188,12 @@
             <li>Second priority for naming conference events (e.g., reception, banquet, lunch and coffee breaks).</li>
             <li>Inclusion of give-aways (e.g., company flyers and/or novelties) in the conference bag.</li>
           </ul>
+        </div>
       </div>
     </div>
-<!--
-    <div class="ui stackable grid detail sponsors gold">
-      <a class="five wide column centered" href="http://sigchi.org" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sigchi.png');background-size:220px;"></a>
-      <a class="five wide column centered" href="http://www.acm.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/acm.png');background-size:240px;"></a>
-      <a class="five wide column centered" href="http://www.siggraph.org/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/siggraph.png');background-size:150px;"></a>
+    <div class="ui stackable grid detail sponsors">
+      <a class="five wide column centered" href="http://www.google.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/google2.png');background-size:200px;"></a>
     </div>
- -->
   </section>
 </div>
 
@@ -250,10 +247,11 @@
 
     <div class="ui stackable grid detail sponsors">
       <a class="five wide column centered" href="http://www.sensel.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sensel.png');background-size:110px;"></a>
-      <a class="five wide column centered" href="https://atap.google.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/google-atap.png');background-size:200px;"></a>
       <a class="five wide column centered" href="https://unity3d.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/unity.png');background-size:130px;"></a>
       <a class="five wide column centered" href="http://www.yahoo.co.jp/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/yahoo.png');background-size:140px;"></a>
-      <a class="five wide column centered" href="http://www.ux-xu.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/yukai.png');background-size:140px;"></a>
+      <a class="five wide column centered" href="http://www.ux-xu.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/yukai.png');background-size:130px;"></a>
+      <a class="five wide column centered" href="http://www.wacom.com/ja-jp" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/wacom.png');background-size:130px;"></a>
+      <a class="five wide column centered" href="http://www.tactuallabs.com" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/tactual.png');background-size:40px;"></a>
     </div>
 
   </section>
