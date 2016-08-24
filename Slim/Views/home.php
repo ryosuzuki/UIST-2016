@@ -19,8 +19,6 @@
           </li>
           <br>
           <li><b>Upcoming Events:</b><br>
-          <b>August 15, 2016 (Extended)</b>: The deadline for <a href="http://uist.acm.org/uist2016/contest">Student Innovation Contest</a>
-          <br>
           <b>September 2, 2016</b>: The deadline for <a href="https://uist.acm.org/uist2016/attending#registration">Early-bird Registration</a>
           <br>
           <b>September 30, 2016</b>: The deadline for <a href="https://uist.acm.org/uist2016/attending#registration">Regular Registration</a>
@@ -36,6 +34,8 @@
           <b>July 7, 2016</b>: The deadline for <a href="http://uist.acm.org/uist2016/doctoral">Doctoral Symposium</a>
           <br>
           <b>August 10, 2016</b>: The deadline for <a href="http://uist.acm.org/uist2016/papers">final camera-ready papers</a> and <a href="https://uist.acm.org/uist2016/video-previews">30-second video previews</a>
+          <br>
+          <b>August 15, 2016 (Extended)</b>: The deadline for <a href="http://uist.acm.org/uist2016/contest">Student Innovation Contest</a>
           <br>
           -->
         </ul>
