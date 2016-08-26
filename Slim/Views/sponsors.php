@@ -218,9 +218,9 @@
     </div>
 
     <div class="ui stackable grid detail sponsors">
-      <a class="five wide column centered" href="http://www.fxpal.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/fxpal.png');background-size:100px;"></a>
-      <a class="five wide column centered" href="http://www.adobe.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/adobe.png');background-size:50px;"></a>
-      <a class="five wide column centered" href="https://www.sonycsl.co.jp/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sony-csl.png');background-size:130px;"></a>
+      <a class="five wide column centered" href="http://www.fxpal.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/fxpal.png');background-size:110px;"></a>
+      <a class="five wide column centered" href="http://www.adobe.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/adobe.png');background-size:60px;"></a>
+      <a class="five wide column centered" href="https://www.sonycsl.co.jp/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sony-csl.png');background-size:140px;"></a>
     </div>
 
   </section>
@@ -253,6 +253,7 @@
       <a class="five wide column centered" href="http://www.wacom.com/ja-jp" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/wacom.png');background-size:130px;"></a>
       <a class="five wide column centered" href="http://www.dgp.toronto.edu" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/dgp.png');background-size:130px;"></a>
       <a class="five wide column centered" href="http://www.tactuallabs.com" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/tactual.png');background-size:40px;"></a>
+      <a class="five wide column centered" href="http://synaptics.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/synaptics.png');background-size:150px;"></a>
     </div>
 
   </section>
