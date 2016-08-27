@@ -610,7 +610,7 @@
         </a>
       </div>
 
-      <div class="five wide column centered">
+      <div class="seven wide column centered">
         <div class="fourteen wide column centered column-chair">
           <h3 class="text text-spaced text-center text-title">
             Design and Signage Chair
@@ -643,6 +643,30 @@
           </div>
         </a>
       </div>
+
+      <div class="five wide column centered">
+        <div class="fourteen wide column centered column-chair">
+          <h3 class="text text-spaced text-center text-title">
+            Accessibility Chair
+          </h3>
+          <h5 class="text text-spaced text-center text-email">
+            (<a href="mailto:accessibility@uist.org">accessibility@uist.org</a>)
+          </h5>
+        </div>
+          <div>
+            <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/masatomo-kobayashi.jpg">
+            <h3 class="text text-center text-name">
+              <a href="http://researcher.ibm.com/researcher/view.php?person=jp-MSTM" target="_blank">
+                Masatomo Kobayashi
+              </a>
+            </h3>
+            <h5 class="text text-center text-affiliation">
+              IBM Research - Tokyo
+            </h5>
+          </div>
+        </a>
+      </div>
+
     </div>
   </section>
 </div>
