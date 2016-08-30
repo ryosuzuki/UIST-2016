@@ -193,6 +193,7 @@
     </div>
     <div class="ui stackable grid detail sponsors">
       <a class="five wide column centered" href="http://www.google.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/google2.png');background-size:200px;"></a>
+      <a class="five wide column centered" href="http://www.microsoft.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/microsoft.png');background-size:240px;"></a>
     </div>
   </section>
 </div>
