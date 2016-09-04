@@ -10,17 +10,14 @@
           Updates
         </div>
         <ul class="list text">
-          <li><div class="ui green horizontal label">New</div><a href="https://uist.acm.org/uist2016/schedule">The UIST 2016 schedule</a> is now available.</li>
+          <li><a href="https://uist.acm.org/uist2016/schedule">The UIST 2016 schedule</a> is now available.</li>
           <li><a href="https://uist.acm.org/uist2016/attending#registration">The UIST registration page</a> is now open.
           </li>
-          <br>
           <li><b>The UIST submission website</b> is now open:<br>
           <a href="http://precisionconference.com/~sigchi" target="_balnk">http://precisionconference.com/~sigchi</a>
           </li>
           <br>
           <li><b>Upcoming Events:</b><br>
-          <b>September 2, 2016</b>: The deadline for <a href="https://uist.acm.org/uist2016/attending#registration">Early-bird Registration</a>
-          <br>
           <b>September 30, 2016</b>: The deadline for <a href="https://uist.acm.org/uist2016/attending#registration">Regular Registration</a>
           <!--
           <b>June 9-16, 2016</b>: The rebuttal period for <a href="http://uist.acm.org/uist2016/papers">Papers</a>
@@ -36,6 +33,8 @@
           <b>August 10, 2016</b>: The deadline for <a href="http://uist.acm.org/uist2016/papers">final camera-ready papers</a> and <a href="https://uist.acm.org/uist2016/video-previews">30-second video previews</a>
           <br>
           <b>August 15, 2016 (Extended)</b>: The deadline for <a href="http://uist.acm.org/uist2016/contest">Student Innovation Contest</a>
+          <br>
+          <b>September 2, 2016</b>: The deadline for <a href="https://uist.acm.org/uist2016/attending#registration">Early-bird Registration</a>
           <br>
           -->
         </ul>

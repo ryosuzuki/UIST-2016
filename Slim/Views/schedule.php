@@ -118,7 +118,7 @@
             <td colspan="3" class="active">
               Lunch (Lunchbox provided)
               <br>
-              Women’s luncheon (1F meeting room)
+              Women’s Luncheon, Sponsored by Microsoft Research and Adobe Research (1F meeting room)
             </td>
           </tr>
           <tr>
