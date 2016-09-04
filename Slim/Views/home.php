@@ -120,6 +120,7 @@
 
     <div class="ui stackable grid detail sponsors">
       <a class="five wide column centered" href="http://www.google.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/google2.png');background-size:200px;"></a>
+      <a class="five wide column centered" href="http://www.microsoft.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/microsoft.png');background-size:240px;"></a>
     </div>
 
     <h2 class="ui horizontal divider header" style="color:#a9a59f; margin-top:80px">Silver Sponsors</h2>
@@ -128,6 +129,7 @@
       <a class="five wide column centered" href="http://www.fxpal.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/fxpal.png');background-size:110px;"></a>
       <a class="five wide column centered" href="http://www.adobe.com/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/adobe.png');background-size:60px;"></a>
       <a class="five wide column centered" href="https://www.sonycsl.co.jp/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/sony-csl.png');background-size:140px;"></a>
+      <a class="five wide column centered" href="http://innolab.jp/" target="_blank" style="background-image: url('<?php echo BASE_PATH; ?>/lib/img/sponsors/innolab.png');background-size:170px;"></a>
 
     </div>
 
