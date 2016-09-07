@@ -103,9 +103,13 @@
               11:20 - 12:40
             </td>
             <td colspan="2">
-              Session 1A: Fabrication
+              <a href="#session-1-a">
+                Session 1A: Fabrication
+              </a>
               <br>
-              Session 1B: Touch and Beyond
+              <a href="#session-1-b">
+                Session 1B: Touch and Beyond
+              </a>
             </td>
             <td>
               Hitotsubashi hall 2F Auditorium / Ballroom
@@ -126,9 +130,13 @@
               14:00 - 15:20
             </td>
             <td colspan="2">
-              Session 2A: TUI
+              <a href="#session-2-a">
+                Session 2A: TUI
+              </a>
               <br>
-              Session 2B: Interaction Techniques
+              <a href="#session-2-b">
+                Session 2B: Interaction Techniques
+              </a>
             </td>
             <td>
               Hitotsubashi hall
@@ -149,9 +157,13 @@
               16:00 - 17:20
             </td>
             <td colspan="2">
-              Session 3A: Touch It, Feel It
+              <a href="#session-3-a">
+                Session 3A: Touch It, Feel It
+              </a>
               <br>
-              Session 3B: Dev Tools
+              <a href="#session-3-b">
+                Session 3B: Dev Tools
+              </a>
             </td>
             <td>
               Hitotsubashi hall 2F Auditorium / Ballroom
@@ -207,9 +219,13 @@
               9:30 - 10:50
             </td>
             <td colspan="2">
-              Session 4A: Touch
+              <a href="#session-4-a">
+                Session 4A: Touch
+              </a>
               <br>
-              Session 4B: Sensing
+              <a href="#session-4-b">
+                Session 4B: Sensing
+              </a>
             </td>
             <td>
               Hitotsubashi hall 2F Auditorium / Ballroom
@@ -228,9 +244,13 @@
               11:20 - 12:40
             </td>
             <td colspan="2">
-              Session 5A: Viz
+              <a href="#session-5-a">
+                Session 5A: Viz
+              </a>
               <br>
-              Session 5B: Physical Displays
+              <a href="#session-5-b">
+                Session 5B: Physical Displays
+              </a>
             </td>
             <td>
               Hitotsubashi hall 2F Auditorium / Ballroom
@@ -249,9 +269,13 @@
               14:00 - 15:00
             </td>
             <td colspan="2">
-              Session 6A: Information & Obfusc**ion
+              <a href="#session-6-a">
+                Session 6A: Information & Obfusc**ion
+              </a>
               <br>
-              Session 6B: Video & Audio
+              <a href="#session-6-b">
+                Session 6B: Video & Audio
+              </a>
             </td>
             <td>
               Hitotsubashi hall 2F Auditorium / Ballroom
@@ -270,9 +294,13 @@
               15:40 - 17:00
             </td>
             <td colspan="2">
-              Session 7A: Fab with New Materials
+              <a href="#session-7-a">
+                Session 7A: Fab with New Materials
+              </a>
               <br>
-              Session 7B: Text Entry
+              <a href="#session-7-b">
+                Session 7B: Text Entry
+              </a>
             </td>
             <td>
               Hitotsubashi hall 2F Auditorium / Ballroom
@@ -338,9 +366,13 @@
               9:30 - 10:50
             </td>
             <td colspan="2">
-              Session 8A: Crowds
+              <a href="#session-8-a">
+                Session 8A: Crowds
+              </a>
               <br>
-              Session 8B: Electronics Printing & Prototyping
+              <a href="#session-8-b">
+                Session 8B: Electronics Printing &
+              </Prototyping
             </td>
             <td>
               Hitotsubashi hall 2F Auditorium / Ballroom
@@ -357,9 +389,13 @@
           <tr>
             <td>11:20 - 12:40</td>
             <td colspan="2">
-              Session 9A: ~Reality
+              <a href="#session-9-a">
+                Session 9A: ~Reality
+              </a>
               <br>
-              Session 9B: Creativity
+              <a href="#session-9-b">
+                Session 9B: Creativity
+              </a>
             </td>
             <td>Hitotsubashi hall 2F Auditorium / Ballroom</td>
           </tr>
@@ -378,9 +414,13 @@
               14:30 - 15:50
             </td>
             <td colspan="2">
-              Session 10A: Innovative Interaction
+              <a href="#session-10-a">
+                Session 10A: Innovative Interaction
+              </a>
               <br>
-              Session 10B: Gesture
+              <a href="#session-10-b">
+                Session 10B: Gesture
+              </a>
             </td>
             <td>Hitotsubashi hall 2F Auditorium / Ballroom</td>
           </tr>
@@ -420,3 +460,10 @@
     </div>
   </section>
 </div>
+
+
+<?php $app->render('Partials/accepted-papers.php'); ?>
+
+
+
+
