@@ -812,7 +812,16 @@
                   Jessalyn Alvina, Joseph W Malloch, Wendy Mackay
                 </span>
               </p>
-              EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display Yi-Chi Liao, Yi-Ling Chen, Jo-Yu Lo, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen
+
+              <p class="paper">
+                <b class="title">
+                  EdgeVib: Effective Alphanumeric Character Output Using a Wrist-Worn Tactile Display
+                </b>
+                <br>
+                <span class="authors">
+                  Yi-Chi Liao, Yi-Ling Chen, Jo-Yu Lo, Rong-Hao Liang, Liwei Chan, Bing-Yu Chen
+                </span>
+              </p>
 
               <p class="paper">
                 <b class="title">
@@ -1108,7 +1117,16 @@
                   Pei-Yu Chi, Daniel Vogel, Mira Dontcheva, Wilmot Li, Bjﾃｶrn Hartmann
                 </span>
               </p>
-              AggreGaze: Collective Estimation of Audience Attention on Public Displays Yusuke Sugano, Xucong Zhang, Andreas Bulling
+
+              <p class="paper">
+                <b class="title">
+                  AggreGaze: Collective Estimation of Audience Attention on Public Displays
+                </b>
+                <br>
+                <span class="authors">
+                  Yusuke Sugano, Xucong Zhang, Andreas Bulling
+                </span>
+              </p>
 
               <p class="paper">
                 <b class="title">
