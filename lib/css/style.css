@@ -178,6 +178,11 @@ body {
   font-weight: normal !important;
 }
 
+#accepted-papers .chair {
+  font-weight: normal !important;
+}
+
+
 @media screen and (max-width: 1500px) {
   #top-cover {
     min-height: 600px;
