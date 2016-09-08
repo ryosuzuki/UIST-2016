@@ -25,7 +25,7 @@
                 </b>
                 <br>
                 <span class="authors">
-                  Thijs Jan Roumen, Bastian Kruck, Tobias Dﾃｼrschmid, Tobias Nack, Patrick Baudisch
+                  Thijs Jan Roumen, Bastian Kruck, Tobias Dürschmid, Tobias Nack, Patrick Baudisch
                 </span>
               </p>
 
@@ -290,7 +290,7 @@
                 </b>
                 <br>
                 <span class="authors">
-                  Pedro Lopes, Doﾄ歛 Yﾃｼksel, Franﾃｧois Guimbretiﾃｨre, Patrick Baudisch
+                  Pedro Lopes, Doğa Yüksel, François Guimbretière, Patrick Baudisch
                 </span>
               </p>
 
@@ -394,7 +394,7 @@
                 </b>
                 <br>
                 <span class="authors">
-                  Mathieu Nancel, Daniel Vogel, Bruno De Araujo, Ricardo Jota, Gﾃｩry Casiez
+                  Mathieu Nancel, Daniel Vogel, Bruno De Araujo, Ricardo Jota, Géry Casiez
                 </span>
               </p>
 
@@ -407,7 +407,16 @@
                   Andrew M. Webb, Michel Pahud, Ken Hinckley, William A.S. Buxton
                 </span>
               </p>
-              Gaze and Touch Interaction on Tablets Ken Pfeuffer, Hans Gellersen
+
+              <p class="paper">
+                <b class="title">
+                  Gaze and Touch Interaction on Tablets
+                </b>
+                <br>
+                <span class="authors">
+                  Ken Pfeuffer, Hans Gellersen
+                </span>
+              </p>
 
               <p class="paper">
                 <b class="title">
@@ -467,7 +476,7 @@
                 </b>
                 <br>
                 <span class="authors">
-                  Nediyana Daskalova, Danaﾃｫ Metaxa-Kakavouli, Adrienne Tran, Nicole Nugent, Julie Boergers, John McGeary, Jeff Huang
+                  Nediyana Daskalova, Danaë Metaxa-Kakavouli, Adrienne Tran, Nicole Nugent, Julie Boergers, John McGeary, Jeff Huang
                 </span>
               </p>
 
@@ -707,7 +716,7 @@
                 </b>
                 <br>
                 <span class="authors">
-                  Amy Pavel, Dan B Goldman, Bjﾃｶrn Hartmann, Maneesh Agrawala
+                  Amy Pavel, Dan B Goldman, Björn Hartmann, Maneesh Agrawala
                 </span>
               </p>
 
@@ -758,7 +767,7 @@
                 </b>
                 <br>
                 <span class="authors">
-                  Huaishu Peng, Franﾃｧois Guimbretiﾃｨre, James McCann, Scott Hudson
+                  Huaishu Peng, François Guimbretière, James McCann, Scott Hudson
                 </span>
               </p>
 
@@ -930,7 +939,7 @@
                 </b>
                 <br>
                 <span class="authors">
-                  Daniel Drew, Julie L. Newcomb, William McGrath, Filip Maksimovic, David A Mellis, Bjﾃｶrn Hartmann
+                  Daniel Drew, Julie L. Newcomb, William McGrath, Filip Maksimovic, David A Mellis, Björn Hartmann
                 </span>
               </p>
 
@@ -1114,7 +1123,7 @@
                 </b>
                 <br>
                 <span class="authors">
-                  Pei-Yu Chi, Daniel Vogel, Mira Dontcheva, Wilmot Li, Bjﾃｶrn Hartmann
+                  Pei-Yu Chi, Daniel Vogel, Mira Dontcheva, Wilmot Li, Björn Hartmann
                 </span>
               </p>
 
