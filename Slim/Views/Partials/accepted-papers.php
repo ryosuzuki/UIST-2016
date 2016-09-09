@@ -661,7 +661,7 @@
                 Session 6 A: Information & Obfusc**ion
               </a>
               <br>
-              <span class="chair">Seession Chair: Parmit K. Chilana (Simon Frasier University)</span>
+              <span class="chair">Seession Chair: Parmit K. Chilana (Simon Fraser University)</span>
             </th>
           </tr>
         </thead>
