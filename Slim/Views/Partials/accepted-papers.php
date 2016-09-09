@@ -77,7 +77,7 @@
                 Session 1 B: Touch and Beyond
               </a>
               <br>
-              <span class="chair">Seession Chair: Xiaojun Bi (Google Research)</span>
+              <span class="chair">Seession Chair: Xiaojun Bi (Google / Stony Brook University)</span>
             </th>
           </tr>
         </thead>
