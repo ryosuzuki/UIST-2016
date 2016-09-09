@@ -457,7 +457,7 @@
                 Session 4 B: Sensing
               </a>
               <br>
-              <span class="chair">Seession Chair: Aaron Chevalier (INRIA)</span>
+              <span class="chair">Seession Chair: Aaron Quigley (University of St. Andrews)</span>
             </th>
           </tr>
         </thead>
@@ -523,7 +523,7 @@
                 Session 5 A: Viz
               </a>
               <br>
-              <span class="chair">Seession Chair: Nicholas Chen (Microsoft Research)</span>
+              <span class="chair">Seession Chair: Fanny Chevalier (INRIA)</span>
             </th>
           </tr>
         </thead>
@@ -586,7 +586,7 @@
                 Session 5 B: Physical Displays
               </a>
               <br>
-              <span class="chair">Seession Chair: Xiaojun Bi (Google Research)</span>
+              <span class="chair">Seession Chair: Nicholas Chen (Microsoft Research)</span>
             </th>
           </tr>
         </thead>

@@ -158,10 +158,45 @@
 
 <section id="footer-cover">
   <h2 class="text text-spaced text-center">Join the Conversation</h2>
-  <div class="ui stackable grid detail">
-    <div class="eight wide column centered">
+  <div class="ui stackable grid detail" style="margin-top:20px">
+    <div class="one wide column"></div>
+    <div class="seven wide column centered">
       <a class="twitter-timeline" href="https://twitter.com/ACMUIST" data-widget-id="516808131494424576" height="400">Tweets by @ACMUIST</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
+    <div class="seven wide column centered">
+      <div class="fb-page"
+        data-href="https://www.facebook.com/ACMUIST"
+        data-width="800"
+        data-height="400"
+        data-adapt-container-width="true"
+        data-hide-cover="false"
+        data-small-header="false"
+        data-show-facepile="true"
+        data-show-posts="true"
+        data-tabs="timeline"
+      ></div>
+      <style>
+        #fb-root { display: none; }
+        .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] { width: 100% !important; }
+      </style>
+    </div>
+    <div class="one wide column"></div>
+
+
+    <div class="sixteen wide column centered">
+      <a class="ui circular facebook icon button" href="https://www.facebook.com/ACMUIST" target="_blank">
+        <i class="facebook icon"></i>
+      </a>
+      <a class="ui circular twitter icon button" href="https://twitter.com/ACMUIST" target="_blank">
+        <i class="twitter icon"></i>
+      </a>
+      <a class="ui circular youtube icon button" href="https://www.youtube.com/user/acmsigchi/playlists?view=50&sort=dd&shelf_id=6" target="_blank">
+        <i class="youtube play icon"></i>
+      </a>
+      <a class="ui circular pink icon button" href="https://www.flickr.com/photos/acmuist/" target="_blank">
+        <i class="photo icon"></i>
+      </a>
     </div>
 
   </div>
