@@ -122,7 +122,7 @@
             <td colspan="3" class="active">
               Lunch (Lunchbox provided)
               <br>
-              Women’s Luncheon, Sponsored by Microsoft Research and Adobe Research (1F meeting room)
+              Women’s Luncheon, Sponsored by Microsoft Research and Adobe Research (1F meeting room - to register for the women's lunch, please email <a href="mailto:merrie@microsoft.com">merrie@microsoft.com</a>)
             </td>
           </tr>
           <tr>
