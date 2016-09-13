@@ -688,9 +688,15 @@
                   Sehi L'Yi, Kyle Koh, Jaemin Jo, Bohyoung Kim, Jinwook Seo
                 </span>
               </p>
-              Mavo: Creating Interactive Data-Driven Web Applications by Authoring HTML Lea Verou, Amy X. Zhang, David Karger
-
-
+              <p class="paper">
+                <b class="title">
+                  Wysie: Creating Interactive Data-Driven Web Applications Entirely with HTML
+                </b>
+                <br>
+                <span class="authors">
+                  Lea Verou, Amy X. Zhang, David Karger
+                </span>
+              </p>
 
             </td>
           </tr>
