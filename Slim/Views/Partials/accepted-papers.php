@@ -13,7 +13,7 @@
                 Session 1 A: Fabrication
               </a>
               <br>
-              <span class="chair">Seession Chair: Stefanie Mueller (MIT)</span>
+              <span class="chair">Seession Chair: Stefanie Mueller (Hasso Plattner Institute)</span>
             </th>
           </tr>
         </thead>
