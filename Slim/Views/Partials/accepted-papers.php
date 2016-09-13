@@ -13,7 +13,7 @@
                 Session 1 A: Fabrication
               </a>
               <br>
-              <span class="chair">Seession Chair: Stefanie Mueller (Hasso Plattner Institute)</span>
+              <span class="chair">Session Chair: Stefanie Mueller (Hasso Plattner Institute)</span>
             </th>
           </tr>
         </thead>
@@ -77,7 +77,7 @@
                 Session 1 B: Touch and Beyond
               </a>
               <br>
-              <span class="chair">Seession Chair: Xiaojun Bi (Google / Stony Brook University)</span>
+              <span class="chair">Session Chair: Xiaojun Bi (Google / Stony Brook University)</span>
             </th>
           </tr>
         </thead>
@@ -139,7 +139,7 @@
                 Session 2 A: TUI
               </a>
               <br>
-              <span class="chair">Seession Chair: Daniel Avrahami (FXPAL)</span>
+              <span class="chair">Session Chair: Daniel Avrahami (FXPAL)</span>
             </th>
           </tr>
         </thead>
@@ -201,7 +201,7 @@
                 Session 2 B: Interaction Technique
               </a>
               <br>
-              <span class="chair">Seession Chair: Jacob O. Wobbrock (University of Washington)</span>
+              <span class="chair">Session Chair: Jacob O. Wobbrock (University of Washington)</span>
             </th>
           </tr>
         </thead>
@@ -265,7 +265,7 @@
                 Session 3 A: Touch It, Feel It
               </a>
               <br>
-              <span class="chair">Seession Chair: Hrvoje Benko (Microsoft Research)</span>
+              <span class="chair">Session Chair: Hrvoje Benko (Microsoft Research)</span>
             </th>
           </tr>
         </thead>
@@ -340,7 +340,7 @@
                 Session 3 B: Dev Tools
               </a>
               <br>
-              <span class="chair">Seession Chair: Ranjitha Kumar (University of Illinois—Urbana Champaign)</span>
+              <span class="chair">Session Chair: Ranjitha Kumar (University of Illinois—Urbana Champaign)</span>
             </th>
           </tr>
         </thead>
@@ -394,7 +394,7 @@
                 Session 4 A: Touch
               </a>
               <br>
-              <span class="chair">Seession Chair: Seok-Hyung Bae (KAIST)</span>
+              <span class="chair">Session Chair: Seok-Hyung Bae (KAIST)</span>
             </th>
           </tr>
         </thead>
@@ -457,7 +457,7 @@
                 Session 4 B: Sensing
               </a>
               <br>
-              <span class="chair">Seession Chair: Aaron Quigley (University of St. Andrews)</span>
+              <span class="chair">Session Chair: Aaron Quigley (University of St. Andrews)</span>
             </th>
           </tr>
         </thead>
@@ -523,7 +523,7 @@
                 Session 5 A: Viz
               </a>
               <br>
-              <span class="chair">Seession Chair: Fanny Chevalier (INRIA)</span>
+              <span class="chair">Session Chair: Fanny Chevalier (INRIA)</span>
             </th>
           </tr>
         </thead>
@@ -586,7 +586,7 @@
                 Session 5 B: Physical Displays
               </a>
               <br>
-              <span class="chair">Seession Chair: Nicholas Chen (Microsoft Research)</span>
+              <span class="chair">Session Chair: Nicholas Chen (Microsoft Research)</span>
             </th>
           </tr>
         </thead>
@@ -661,7 +661,7 @@
                 Session 6 A: Information & Obfusc**ion
               </a>
               <br>
-              <span class="chair">Seession Chair: Parmit K. Chilana (Simon Fraser University)</span>
+              <span class="chair">Session Chair: Parmit K. Chilana (Simon Fraser University)</span>
             </th>
           </tr>
         </thead>
@@ -707,7 +707,7 @@
                 Session 6 B: Video & Audio
               </a>
               <br>
-              <span class="chair">Seession Chair: Rubiat Habib Kazi (Autodesk Research)</span>
+              <span class="chair">Session Chair: Rubiat Habib Kazi (Autodesk Research)</span>
             </th>
           </tr>
         </thead>
@@ -759,7 +759,7 @@
                 Session 7 A: Fab with New Materials
               </a>
               <br>
-              <span class="chair">Seession Chair: Scott Hudson (Carnegie Mellon University)</span>
+              <span class="chair">Session Chair: Scott Hudson (Carnegie Mellon University)</span>
             </th>
           </tr>
         </thead>
@@ -822,7 +822,7 @@
                 Session 7 B: Text Entry
               </a>
               <br>
-              <span class="chair">Seession Chair: Koji Yatani (University of Tokyo)</span>
+              <span class="chair">Session Chair: Koji Yatani (University of Tokyo)</span>
             </th>
           </tr>
         </thead>
@@ -885,7 +885,7 @@
                 Session 8 A: Crowds
               </a>
               <br>
-              <span class="chair">Seession Chair: Walter Lasecki (University of Michigan)</span>
+              <span class="chair">Session Chair: Walter Lasecki (University of Michigan)</span>
             </th>
           </tr>
         </thead>
@@ -947,7 +947,7 @@
                 Session 8 B: Electronics Printing & Prototyping
               </a>
               <br>
-              <span class="chair">Seession Chair: Otmar Hilliges (ETH Zurich)</span>
+              <span class="chair">Session Chair: Otmar Hilliges (ETH Zurich)</span>
             </th>
           </tr>
         </thead>
@@ -1011,7 +1011,7 @@
                 Session 9 A: ~Reality
               </a>
               <br>
-              <span class="chair">Seession Chair: Yuta Sugiura (Keio University)</span>
+              <span class="chair">Session Chair: Yuta Sugiura (Keio University)</span>
             </th>
           </tr>
         </thead>
@@ -1074,7 +1074,7 @@
                 Session 9 B: Creativity
               </a>
               <br>
-              <span class="chair">Seession Chair: Joel Brandt (Adobe Research)</span>
+              <span class="chair">Session Chair: Joel Brandt (Adobe Research)</span>
             </th>
           </tr>
         </thead>
@@ -1137,7 +1137,7 @@
                 Session 10 A: Innovative Interaction
               </a>
               <br>
-              <span class="chair">Seession Chair: Justin Matejka (Autodesk Research)</span>
+              <span class="chair">Session Chair: Justin Matejka (Autodesk Research)</span>
             </th>
           </tr>
         </thead>
@@ -1200,7 +1200,7 @@
                 Session 10 B: Gesture
               </a>
               <br>
-              <span class="chair">Seession Chair: Meredith Ringel Morris (Microsoft Research)</span>
+              <span class="chair">Session Chair: Meredith Ringel Morris (Microsoft Research)</span>
             </th>
           </tr>
         </thead>
