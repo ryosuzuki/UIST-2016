@@ -98,11 +98,11 @@
         11:20 - 12:40
       </td>
       <td colspan="2">
-        <a href="/schedule#session-1-a">
+        <a href="/uist2016/schedule#session-1-a">
           Session 1A: Fabrication
         </a>
         <br>
-        <a href="/schedule#session-1-b">
+        <a href="/uist2016/schedule#session-1-b">
           Session 1B: Touch and Beyond
         </a>
       </td>
@@ -125,11 +125,11 @@
         14:00 - 15:20
       </td>
       <td colspan="2">
-        <a href="/schedule#session-2-a">
+        <a href="/uist2016/schedule#session-2-a">
           Session 2A: TUI
         </a>
         <br>
-        <a href="/schedule#session-2-b">
+        <a href="/uist2016/schedule#session-2-b">
           Session 2B: Interaction Techniques
         </a>
       </td>
@@ -152,11 +152,11 @@
         16:00 - 17:20
       </td>
       <td colspan="2">
-        <a href="/schedule#session-3-a">
+        <a href="/uist2016/schedule#session-3-a">
           Session 3A: Touch It, Feel It
         </a>
         <br>
-        <a href="/schedule#session-3-b">
+        <a href="/uist2016/schedule#session-3-b">
           Session 3B: Dev Tools
         </a>
       </td>
@@ -214,11 +214,11 @@
         9:30 - 10:50
       </td>
       <td colspan="2">
-        <a href="/schedule#session-4-a">
+        <a href="/uist2016/schedule#session-4-a">
           Session 4A: Touch
         </a>
         <br>
-        <a href="/schedule#session-4-b">
+        <a href="/uist2016/schedule#session-4-b">
           Session 4B: Sensing
         </a>
       </td>
@@ -239,11 +239,11 @@
         11:20 - 12:40
       </td>
       <td colspan="2">
-        <a href="/schedule#session-5-a">
+        <a href="/uist2016/schedule#session-5-a">
           Session 5A: Viz
         </a>
         <br>
-        <a href="/schedule#session-5-b">
+        <a href="/uist2016/schedule#session-5-b">
           Session 5B: Physical Displays
         </a>
       </td>
@@ -264,11 +264,11 @@
         14:00 - 15:00
       </td>
       <td colspan="2">
-        <a href="/schedule#session-6-a">
+        <a href="/uist2016/schedule#session-6-a">
           Session 6A: Information & Obfusc**ion
         </a>
         <br>
-        <a href="/schedule#session-6-b">
+        <a href="/uist2016/schedule#session-6-b">
           Session 6B: Video & Audio
         </a>
       </td>
@@ -289,11 +289,11 @@
         15:40 - 17:00
       </td>
       <td colspan="2">
-        <a href="/schedule#session-7-a">
+        <a href="/uist2016/schedule#session-7-a">
           Session 7A: Fab with New Materials
         </a>
         <br>
-        <a href="/schedule#session-7-b">
+        <a href="/uist2016/schedule#session-7-b">
           Session 7B: Text Entry
         </a>
       </td>
@@ -361,11 +361,11 @@
         9:30 - 10:50
       </td>
       <td colspan="2">
-        <a href="/schedule#session-8-a">
+        <a href="/uist2016/schedule#session-8-a">
           Session 8A: Crowds
         </a>
         <br>
-        <a href="/schedule#session-8-b">
+        <a href="/uist2016/schedule#session-8-b">
           Session 8B: Electronics Printing &
         </Prototyping
       </td>
@@ -384,11 +384,11 @@
     <tr>
       <td>11:20 - 12:40</td>
       <td colspan="2">
-        <a href="/schedule#session-9-a">
+        <a href="/uist2016/schedule#session-9-a">
           Session 9A: ~Reality
         </a>
         <br>
-        <a href="/schedule#session-9-b">
+        <a href="/uist2016/schedule#session-9-b">
           Session 9B: Creativity
         </a>
       </td>
@@ -409,11 +409,11 @@
         14:30 - 15:50
       </td>
       <td colspan="2">
-        <a href="/schedule#session-10-a">
+        <a href="/uist2016/schedule#session-10-a">
           Session 10A: Innovative Interaction
         </a>
         <br>
-        <a href="/schedule#session-10-b">
+        <a href="/uist2016/schedule#session-10-b">
           Session 10B: Gesture
         </a>
       </td>
