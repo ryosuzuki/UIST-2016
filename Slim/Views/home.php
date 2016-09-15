@@ -67,15 +67,12 @@
   </section>
 </div>
 
-
-
-
-<div class="ui stackable grid background-grid">
-  <section id="deadline" class="twelve wide column centered">
-    <h2 class="ui horizontal inverted divider header">Deadlines</h2>
+<div id="top-schedule" class="ui stackable grid">
+  <section class="twelve wide column centered">
+    <h2 class="ui horizontal divider header">Schedule</h2>
     <div class="ui stackable grid detail">
       <div class="fourteen wide column centered">
-        <?php $app->render('Partials/deadline.php'); ?>
+        <?php $app->render('Partials/time-table.php'); ?>
       </div>
     </div>
   </section>
