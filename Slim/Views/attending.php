@@ -10,10 +10,22 @@
         <div class="text text-bold">
           IMPORTANT NOTICE: Book your hotel early !
         </div>
-        <br>
         <div class="text">
           If you plan to attend (or consider attending) the UIST2016 conference in Tokyo, please book your hotel early, ideally NOW. Because of extreme shortage of hotel rooms in Tokyo, it can be difficult to find reasonable hotels near the conference venue later. You can cancel the hotel room afterwards, so we recommend you to book your hotel room first. See <a href="#hotel-booking">Hotel Booking</a> to learn more.
         </div>
+        <br>
+        <br>
+        <div class="text text-bold">
+          EXTRA EVENT: The University of Tokyo Open Labs
+        </div>
+        <div class="text">
+          Date: <b>October 20, 2016. 10:00~13:00</b>
+          <br>
+          Location: <b>The University of Tokyo Hongo Campus</b>
+          <br>
+          We have arranged a tour for attendees of UIST 2016 on the next day of the conference. Attendees are welcome to visit labs located at the University of Tokyo. Labs will present demonstrations, videos, posters, etc., for experience and discussion. Please have an additional stay in Tokyo for this great opportunity.
+        </div>
+
       </div>
     </div>
   </section>
