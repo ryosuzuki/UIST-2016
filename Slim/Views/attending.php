@@ -23,7 +23,7 @@
           <br>
           Location: <b>The University of Tokyo Hongo Campus</b>
           <br>
-          We have arranged a tour for attendees of UIST 2016 on the next day of the conference. Attendees are welcome to visit labs located at the University of Tokyo. Labs will present demonstrations, videos, posters, etc., for experience and discussion. Please have an additional stay in Tokyo for this great opportunity.
+          We have arranged a tour for attendees of UIST 2016 on the next day of the conference. Attendees are welcome to visit labs located at the University of Tokyo. Labs will present demonstrations, videos, posters, etc., for experience and discussion. Please have an additional stay in Tokyo for this great opportunity. <a href="https://utopenlab.github.io/" target="_blank">Learn more</a>.
         </div>
 
       </div>

@@ -71,7 +71,7 @@
         Opening Remarks
       </td>
       <td>
-        Hitotsubashi hall 2F
+        Auditorium
       </td>
     </tr>
     <tr>
@@ -82,7 +82,7 @@
         Keynote: Takeo Kanade
       </td>
       <td>
-        Hitotsubashi hall 2F Auditorium
+        Auditorium
       </td>
     </tr>
     <tr>
@@ -107,7 +107,9 @@
         </a>
       </td>
       <td>
-        Hitotsubashi hall 2F Auditorium / Ballroom
+        Auditorium
+        <br>
+        Ballroom
       </td>
     </tr>
     <tr>
@@ -134,9 +136,9 @@
         </a>
       </td>
       <td>
-        Hitotsubashi hall
-           2F Auditorium
-          / Ballroom
+        Auditorium
+        <br>
+        Ballroom
       </td>
     </tr>
     <tr>
@@ -161,7 +163,9 @@
         </a>
       </td>
       <td>
-        Hitotsubashi hall 2F Auditorium / Ballroom
+        Auditorium
+        <br>
+        Ballroom
       </td>
     <tr>
       <td>
@@ -223,7 +227,9 @@
         </a>
       </td>
       <td>
-        Hitotsubashi hall 2F Auditorium / Ballroom
+        Auditorium
+        <br>
+        Ballroom
       </td>
     </tr>
     <tr>
@@ -248,7 +254,9 @@
         </a>
       </td>
       <td>
-        Hitotsubashi hall 2F Auditorium / Ballroom
+        Auditorium
+        <br>
+        Ballroom
       </td>
     </tr>
     <tr>
@@ -273,7 +281,9 @@
         </a>
       </td>
       <td>
-        Hitotsubashi hall 2F Auditorium / Ballroom
+        Auditorium
+        <br>
+        Ballroom
       </td>
     </tr>
     <tr>
@@ -298,7 +308,9 @@
         </a>
       </td>
       <td>
-        Hitotsubashi hall 2F Auditorium / Ballroom
+        Auditorium
+        <br>
+        Ballroom
       </td>
     <tr>
       <td>
@@ -313,7 +325,7 @@
     </tr>
     <tr>
       <td>
-        22:00 - 22:30
+        20:00 - 22:30
       </td>
       <td colspan="2">
         Banquet
@@ -370,7 +382,9 @@
         </Prototyping
       </td>
       <td>
-        Hitotsubashi hall 2F Auditorium / Ballroom
+        Auditorium
+        <br>
+        Ballroom
       </td>
     </tr>
     <tr>
@@ -392,7 +406,11 @@
           Session 9B: Creativity
         </a>
       </td>
-      <td>Hitotsubashi hall 2F Auditorium / Ballroom</td>
+      <td>
+        Auditorium
+        <br>
+        Ballroom
+      </td>
     </tr>
     <tr>
       <td class="active">
@@ -417,7 +435,11 @@
           Session 10B: Gesture
         </a>
       </td>
-      <td>Hitotsubashi hall 2F Auditorium / Ballroom</td>
+      <td>
+        Auditorium
+        <br>
+        Ballroom
+      </td>
     </tr>
     <tr>
       <td class="active">
@@ -435,7 +457,7 @@
         Closing Keynote: Naoto Fukasawa
       </td>
       <td>
-        Hitotsubashi hall 2F Auditorium
+        Auditorium
       </td>
     </tr>
     <tr>
@@ -446,7 +468,30 @@
         Closing ceremony
       </td>
       <td>
-        Hitotsuabshi hall 2F Auditorium
+        Auditorium
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table class="ui fixed celled table">
+  <thead class="text">
+    <tr>
+      <th colspan="4">
+        Thursday, October 20, 2016
+      </th>
+    </tr>
+  </thead>
+  <tbody class="text">
+    <tr>
+      <td>
+        10:00 - 12:00
+      </td>
+      <td colspan="2">
+        <a href="https://utopenlab.github.io/" target="_blank">The University of Tokyo Open Labs</a>
+      </td>
+      <td>
+        The University of Tokyo
       </td>
     </tr>
   </tbody>
