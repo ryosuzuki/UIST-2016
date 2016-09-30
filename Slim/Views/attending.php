@@ -50,15 +50,15 @@
           <p class="text text-middle">
             <i class="fa fa-map-marker fa-fw"></i>
             <span>2-1-2 Hitotsubashi, Chiyoda, Tokyo 101-0003, Japan</span>
-            : <a href="https://www.google.com/maps?ll=35.692434,139.758192&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=6466607924994961678" target="_blank"><b><i class="fa fa-map-o fa-fw"></i>&nbsp;Google Maps</b></a>
+            : <a href="https://goo.gl/maps/BAraLSDR6jG2" target="_blank"><b><i class="fa fa-map-o fa-fw"></i>&nbsp;Google Maps</b></a>
           </p>
           <p class="text text-middle">
             <i class="fa fa-phone fa-fw"></i>
-            <span>Tel: +81-3-4212-2000 (Exchange)</span>
+            <span>Tel: +81-3-4212-3900 (Exchange)</span>
           </p>
           <p class="text text-middle">
             <i class="fa fa-link fa-fw"></i>
-            <span><a href="https://www.nii.ac.jp/en/about/access/" target="_blank">https://www.nii.ac.jp/en/about/access/</a></span>
+            <span><a href="http://www.hit-u.ac.jp/hall/file/menu-016/file_02.pdf" target="_blank">http://www.hit-u.ac.jp/hall/file/menu-016/file_02.pdf</a></span>
           </p>
         </div>
         <br>
@@ -105,7 +105,7 @@
           You can walk from Jimbocho Station or Takebashi Station to the venue. You can find several choices of transportation from both two airports.
           <br>
           <br>
-          Route map to NII: <a href="https://www.nii.ac.jp/en/about/access/" target="_blank">https://www.nii.ac.jp/en/about/access/</a>
+          Route map to Hitotsubashi Hall: <a href="http://www.hit-u.ac.jp/hall/file/menu-016/file_02.pdf" target="_blank">http://www.hit-u.ac.jp/hall/file/menu-016/file_02.pdf</a>
         </div>
       </div>
     </div>
@@ -176,7 +176,8 @@
     </table>
   </div>
   <div class="six wide column centered maps" style="margin-left:0">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.407886964379!2d139.7589374!3d35.691579!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x59be01a56f0cf10e!2sNational+Institute+of+Informatics!5e0!3m2!1sen!2sus!4v1448346801912" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1460.1979473525178!2d139.75743314141363!3d35.69221427437915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x678da23676adf890!2z5a2m6KGT57eP5ZCI44K744Oz44K_44O8IOS4gOapi-iomOW_teism-Wggg!5e0!3m2!1sen!2sus!4v1475255783710" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+    <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.407886964379!2d139.7589374!3d35.691579!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x59be01a56f0cf10e!2sNational+Institute+of+Informatics!5e0!3m2!1sen!2sus!4v1448346801912" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe> -->
   </div>
 </div>
 
