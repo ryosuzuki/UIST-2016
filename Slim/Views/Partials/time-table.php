@@ -317,7 +317,9 @@
         17:00 - 19:30
       </td>
       <td colspan="2">
-        Poster & Student Innovation Competition (Coffee & Snacks)
+        <a href="/uist2016/schedule#posters">
+          Poster & Student Innovation Competition (Coffee & Snacks)
+        </a>
       </td>
       <td>
         Hitotsuabshi hall 2F
@@ -378,8 +380,8 @@
         </a>
         <br>
         <a href="/uist2016/schedule#session-8-b">
-          Session 8B: Electronics Printing &
-        </Prototyping
+          Session 8B: Electronics Printing & Prototyping
+        </a>
       </td>
       <td>
         Auditorium
