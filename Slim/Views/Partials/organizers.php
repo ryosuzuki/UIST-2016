@@ -448,12 +448,12 @@
           <div style="width:33%;float:left;">
             <img class="ui centered tiny circular image" src="<?php echo BASE_PATH; ?>/lib/img/people/jason-wiese.jpg">
             <h3 class="text text-center text-name">
-              <a href="http://www.cs.cmu.edu/~jwwiese/" target="_blank">
+              <a href="http://www.cs.utah.edu/~wiese/" target="_blank">
                 Jason Wiese
               </a>
             </h3>
             <h5 class="text text-center text-affiliation">
-              CMU
+              University of Utah
             </h5>
           </div>
         </a>
