@@ -184,6 +184,14 @@ body {
   font-weight: normal !important;
 }
 
+#posters .poster .authors {
+  font-weight: normal !important;
+}
+
+#demos .demo .authors {
+  font-weight: normal !important;
+}
+
 #accepted-papers .chair {
   font-weight: normal !important;
 }

@@ -172,7 +172,9 @@
         18:00 - 21:00
       </td>
       <td colspan="2">
-        Demo Reception
+        <a href="/uist2016/schedule#demos">
+          Demo Reception
+        </a>
       </td>
       <td>
         Josui Kaikan
