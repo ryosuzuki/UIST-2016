@@ -690,7 +690,7 @@
               </p>
               <p class="paper">
                 <b class="title">
-                  Wysie: Creating Interactive Data-Driven Web Applications Entirely with HTML
+                  Mavo: Creating Interactive Data-Driven Web Applications by Authoring HTML
                 </b>
                 <br>
                 <span class="authors">
