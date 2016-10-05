@@ -24,6 +24,7 @@
       </td>
       <td colspan="2">
         Welcome Reception
+        (Sponsored by Recruit)
       </td>
       <td>
         Josui kaikan
@@ -90,7 +91,7 @@
         11:00 - 11:20
       </td>
       <td colspan="3" class="active">
-        Coffee Break (20min)
+        Coffee Break (20min, Sponsored by FXPAL)
       </td>
     </tr>
     <tr>
@@ -117,7 +118,7 @@
         12:40 - 14:00
       </td>
       <td colspan="3" class="active">
-        Lunch (Lunchbox provided)
+        Lunch (Lunchbox provided, Sponsored by Microsoft)
         <br>
         Women’s Luncheon, Sponsored by Microsoft Research and Adobe Research (1F meeting room - to register for the women's lunch, please email <a href="mailto:merrie@microsoft.com">merrie@microsoft.com</a>)
       </td>
@@ -146,7 +147,7 @@
         15:20 - 16:00
       </td>
       <td colspan="3" class="active">
-        Coffee Break (40min)
+        Coffee Break (40min, Sponsored by FXPAL)
       </td>
     </tr>
     <tr>
@@ -175,6 +176,7 @@
         <a href="/uist2016/schedule#demos">
           Demo Reception
         </a>
+        (Sponsored by Autodesk)
       </td>
       <td>
         Josui Kaikan
@@ -239,7 +241,7 @@
         10:50 - 11:20
       </td>
       <td colspan="3" class="active">
-        Coffee Break (40min)
+        Coffee Break (40min, Sponsored by Open Innovation Lab)
       </td>
     </tr>
     <tr>
@@ -266,7 +268,7 @@
         12:40 - 14:00
       </td>
       <td colspan="3" class="active" class="active">
-        Lunch (Lunchbox provided)
+        Lunch (Lunchbox provided, Sponsored by Adobe)
       </td>
     </tr>
     <tr>
@@ -293,7 +295,7 @@
         15:00 - 15:40
       </td>
       <td colspan="3" class="active">
-        Coffee Break (40min)
+        Coffee Break (40min, Sponsored by Open Innovation Lab)
       </td>
     </tr>
     <tr>
@@ -333,6 +335,7 @@
       </td>
       <td colspan="2">
         Banquet
+        (Sponsored by Google)
       </td>
       <td>
         Hotel Grand Palace
@@ -421,7 +424,7 @@
         12:40 - 14:30
       </td>
       <td colspan="3" class="active">
-        Lunch (Lunchbox provided)
+        Lunch (Lunchbox provided, Sponsored by Sony CSL)
         <br>
         13:00 - 14:00 Town hall meeting @ Ballroom
       </td>
