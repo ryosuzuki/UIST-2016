@@ -10,7 +10,8 @@
           Updates
         </div>
         <ul class="list text">
-          <li><a href="https://uist.acm.org/uist2016/schedule">The UIST 2016 schedule</a> is now available.</li>
+          <li><a href="https://uist.acm.org/uist2016/schedule">UIST 2016 Program Schedule</a> is now available.</li>
+          <li><a href="https://www.youtube.com/playlist?list=PLqhXYFYmZ-VfgFlyej7vQvuQX3mHJlfRE" target="_balnk">UIST 2016 Video Previews</a> and the <a href="https://www.youtube.com/watch?v=8tX1XNq96pQ" target="_balnk">Trailer</a> are both now available on YouTube.</li>
           <!--
           <li><a href="https://uist.acm.org/uist2016/attending#registration">The UIST registration page</a> is now open.
           </li>
@@ -42,9 +43,21 @@
           -->
         </ul>
       </div>
+
+      <div class="video sixteen wide column center">
+        <div class="ui embed" data-source="youtube" data-id="8tX1XNq96pQ" data-placeholder="https://uist.acm.org/uist2016/lib/img/youtube-cover.png">
+        </div>
+        <div class="text centered" style="text-align: center; margin-top: 10px;">
+          <a href="https://www.youtube.com/watch?v=8tX1XNq96pQ" target="_balnk">UIST 2016 Technical Program Preview - Trailer</a>
+        </div>
+      </div>
+
     </div>
   </section>
 </div>
+
+  <script>
+  </script>
 
 <div id="welcome-grid" class="ui stackable grid">
   <section id="about" class="twelve wide column centered">
@@ -54,6 +67,7 @@
         <p class="about text">
           The ACM Symposium on User Interface Software and Technology (UIST) is the premier forum for innovations in human-computer interfaces. Sponsored by ACM special interest groups on computer-human interaction (SIGCHI) and computer graphics (SIGGRAPH), UIST brings together people from diverse areas including graphical & web user interfaces, tangible & ubiquitous computing, virtual & augmented reality, multimedia, new input & output devices, and CSCW. The intimate size and intensive program make UIST an ideal opportunity to exchange research results and ideas. Join us in Tokyo!
         </p>
+
       </div>
     </div>
   </section>
