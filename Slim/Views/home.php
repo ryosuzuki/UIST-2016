@@ -45,8 +45,10 @@
       </div>
 
       <div class="video sixteen wide column center">
-        <div class="ui embed" data-source="youtube" data-id="8tX1XNq96pQ" data-placeholder="https://uist.acm.org/uist2016/lib/img/youtube-cover.png">
+        <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/8tX1XNq96pQ" frameborder="0" allowfullscreen></iframe>
         </div>
+        <!-- <div class="ui embed" data-source="youtube" data-id="8tX1XNq96pQ" data-placeholder="https://uist.acm.org/uist2016/lib/img/youtube-cover.png"></div> -->
         <div class="text centered" style="text-align: center; margin-top: 10px;">
           <a href="https://www.youtube.com/watch?v=8tX1XNq96pQ" target="_balnk">UIST 2016 Technical Program Preview - Trailer</a>
         </div>
