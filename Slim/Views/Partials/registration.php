@@ -18,25 +18,36 @@
             <td>ACM / SIGCHI Member</td>
             <td>$595</td>
             <td>$695</td>
-            <td>$795</td>
+            <td>
+              <span style="text-decoration: line-through; color: #db2828">$795</span>
+              <span class="ui red tag label">SOLD OUT</span>
+            </td>
           </tr>
           <tr>
             <td>Non-Member</td>
             <td>$695</td>
             <td>$795</td>
-            <td>$895</td>
+            <td>
+              <span style="text-decoration: line-through; color: #db2828">$895</span>
+              <span class="ui red tag label">SOLD OUT</span>
+            </td>
           </tr>
           <tr>
             <td>Student</td>
             <td>$350</td>
             <td>$375</td>
-            <td>$395</td>
+            <td>
+              <span style="text-decoration: line-through; color: #db2828">$395</span>
+              <span class="ui red tag label">SOLD OUT</span>
+            </td>
           </tr>
         </tbody>
       </table>
     </div>
     <div class="fourteen wide column centered" style="text-align: center">
-      <a href="https://www.regonline.com/acmuist2016" target="_blank" class="ui huge green button">Online Registration</a>
+      <h2><i class="fa fa-bolt fa-fw"></i> Registration is full. There is no on-site registration.</h2>
+
+      <a href="https://www.regonline.com/acmuist2016" target="_blank" class="ui huge green button disabled">Online Registration</a>
     </div>
     <div class="fourteen wide column centered">
       <h1>Cancellation Policy</h1>

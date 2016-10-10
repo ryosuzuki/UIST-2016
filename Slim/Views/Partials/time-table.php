@@ -269,6 +269,9 @@
       </td>
       <td colspan="3" class="active" class="active">
         Lunch (Lunchbox provided, Supported by Adobe)
+        <br>
+        13:00-14:00 Becoming a Volunteer at ACM SIGCHI @ Ballroom
+        <a href="https://goo.gl/forms/Vn2Ljg15z6jsemWo2" target="_blank">https://goo.gl/forms/Vn2Ljg15z6jsemWo2</a>
       </td>
     </tr>
     <tr>
