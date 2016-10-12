@@ -1,5 +1,5 @@
 
-<div id="accepted-papers" class="ui stackable grid">
+<div id="papers" class="ui stackable grid">
   <section class="twelve wide column centered">
     <h2 class="ui horizontal divider header">Accepted Papers</h2>
     <div class="ui stackable">

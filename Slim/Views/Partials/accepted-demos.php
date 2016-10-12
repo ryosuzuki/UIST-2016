@@ -3,6 +3,14 @@
     <h2 class="ui horizontal divider header">Accepted Demos</h2>
     <div class="ui stackable">
       <br>
+      <div class="ui icon message">
+        <i class="alarm outline icon"></i>
+        <div class="content">
+          <p class="text">Please note that the list below only contains projects submitted, reviewed and accepted for the UIST Demos track.  Demos associated with accepted papers are not listed; please see the <a href="/uist2016/schedule#papers">full program</a> for the paper proceedings.</p>
+        </div>
+      </div>
+      <br>
+
       <table class="ui celled table">
         <thead class="text">
           <tr>
@@ -14,6 +22,7 @@
           </tr>
         </thead>
         <tbody class="text">
+
           <tr>
             <td>
               <p class="demo">

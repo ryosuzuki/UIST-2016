@@ -196,7 +196,11 @@ body {
   padding-bottom: 50px;
 }
 
-#accepted-papers .paper .authors {
+#papers .paper .authors {
+  font-weight: normal !important;
+}
+
+#papers .chair {
   font-weight: normal !important;
 }
 
@@ -207,11 +211,6 @@ body {
 #demos .demo .authors {
   font-weight: normal !important;
 }
-
-#accepted-papers .chair {
-  font-weight: normal !important;
-}
-
 
 @media screen and (max-width: 1500px) {
   #top-cover {
