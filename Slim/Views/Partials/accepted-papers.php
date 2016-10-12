@@ -378,6 +378,15 @@
                 </span>
               </p>
 
+              <p class="paper">
+                <b class="title">
+                  Holoportation: Virtual 3D Teleportation in Real-time
+                </b>
+                <br>
+                <span class="authors">
+                  Sergio Orts-Escolano, Christoph Rhemann, Sean Fanello, David Kim, Adarsh Kowdle, Wayne Chang, Yury Degtyarev, Philip L Davidson, Sameh Khamis, Mingsong Dou, Vladimir Tankovich, Charles Loop, Qin Cai, Philip A Chou, Sarah Mennicken, Julien Valentin, Vivek Pradeep, Shenlong Wang, Sing Bing Kang, Pushmeet Kohli, Yuliya Lutchyn, Cem Keskin, Shahram Izadi
+                </span>
+              </p>
 
             </td>
           </tr>
@@ -1052,16 +1061,6 @@
                 <br>
                 <span class="authors">
                   Dhruv Jain, Misha Sra, Jingru Guo, Rodrigo Marques, Raymond Wu, Justin Chiu, Chris Schmandt
-                </span>
-              </p>
-
-              <p class="paper">
-                <b class="title">
-                  Holoportation: Virtual 3D Teleportation in Real-time
-                </b>
-                <br>
-                <span class="authors">
-                  Sergio Orts-Escolano, Christoph Rhemann, Sean Fanello, David Kim, Adarsh Kowdle, Wayne Chang, Yury Degtyarev, Philip L Davidson, Sameh Khamis, Mingsong Dou, Vladimir Tankovich, Charles Loop, Qin Cai, Philip A Chou, Sarah Mennicken, Julien Valentin, Vivek Pradeep, Shenlong Wang, Sing Bing Kang, Pushmeet Kohli, Yuliya Lutchyn, Cem Keskin, Shahram Izadi
                 </span>
               </p>
 
