@@ -138,7 +138,7 @@
           <td><b><i class="fa fa-taxi fa-fw"></i>Taxi</b></td>
           <td>20-35 min</td>
           <td>7,000 JPY</td>
-          <td>TBA</td>
+          <td><a href="<?php echo BASE_PATH; ?>/lib/img/venue/taxi.pdf" target="_blank">PDF</a></td>
         </tr>
       </tbody>
     </table>
@@ -164,13 +164,13 @@
           <td><b><i class="fa fa-bus fa-fw"></i>Bus</b></td>
           <td>80-120min</td>
           <td>3,100 JPY</td>
-          <td>TBA</td>
+          <td><a href="<?php echo BASE_PATH; ?>/lib/img/venue/bus-narita.pdf" target="_blank">PDF</a></td>
         </tr>
         <tr>
           <td><b><i class="fa fa-taxi fa-fw"></i>Taxi</b></td>
           <td>130-140min</td>
           <td>22,000 JPY</td>
-          <td>TBA</td>
+          <td><a href="<?php echo BASE_PATH; ?>/lib/img/venue/taxi.pdf" target="_blank">PDF</a></td>
         </tr>
       </tbody>
     </table>
