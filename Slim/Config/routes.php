@@ -11,6 +11,10 @@ $app->get('/schedule', function () use ($app) {
   $app->render('Layouts/main.php', array("app" => $app, "view" => "schedule.php", "category" => "schedule", "title" => "Schedule"));
 });
 
+$app->get('/interactive-program', function () use ($app) {
+  $app->render('interactive-program.php');
+});
+
 $app->get('/attending', function () use ($app) {
   $app->render('Layouts/main.php', array("app" => $app, "view" => "attending.php", "category" => "attending", "title" => "Attending"));
 });
