@@ -1,3 +1,8 @@
+
+<div id="interactive-program-button" style="width: 100%; margin-top: 20px; text-align: right">
+  <a href="https://uist.acm.org/uist2016/interactive-program" class="ui primary button" target="_balnk"><i class="fa fa-calendar fa-fw"></i>&nbsp; Interactive Program Guide</a>
+</div>
+
 <table class="ui fixed celled table">
   <thead class="text">
     <tr>

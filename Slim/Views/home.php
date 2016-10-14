@@ -3,7 +3,7 @@
   <section id="update" class="ten wide column centered">
     <div class="ui icon message stackable grid" style="margin-left: 0.1rem !important;">
       <div class="video sixteen wide column center">
-        <h1 style="color: red; text-align: center;">Registration is full. There is no on-site registration.</h1>
+        <h1 style="color: #e46; text-align: center;">Registration is full. There is no on-site registration.</h1>
       </div>
       <div class="icon two wide column">
         <i class="fa fa-bell-o fa-lg"></i>
@@ -91,13 +91,11 @@
   </section>
 </div>
 
-<div id="top-schedule" class="ui stackable grid">
+<div id="schedule" class="ui stackable grid top-schedule">
   <section class="twelve wide column centered">
     <h2 class="ui horizontal divider header">Schedule</h2>
-    <div class="ui stackable grid detail">
-      <div class="fourteen wide column centered">
-        <?php $app->render('Partials/time-table.php'); ?>
-      </div>
+    <div class="ui stackable">
+      <?php $app->render('Partials/time-table.php'); ?>
     </div>
   </section>
 </div>
