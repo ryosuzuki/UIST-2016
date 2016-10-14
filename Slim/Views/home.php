@@ -10,13 +10,20 @@
       </div>
       <div class="content twelve wide column">
         <div class="text text-bold">
+          Welcome to Tokyo!
+        </div>
+        <ul class="list text">
+          <li><a href="https://uist.acm.org/uist2016/attending#transportation"> <i class="fa fa-subway fa-fw"></i> Transportation Guide</a> from Haneda or Narita airport.</li>
+          <li><a href="https://www.google.com/maps/d/u/0/viewer?mid=1-cxx5zr3vMjcHSaVQFPAHgftUxY" target="_balnk"><i class="fa fa-map-o fa-fw"></i>&nbsp;Area Map</a> around the conference venue</li>
+        </ul>
+        <br>
+        <br>
+        <div class="text text-bold">
           Updates
         </div>
-
         <ul class="list text">
-          <li>Welcome to Tokyo! Here is the <a href="https://uist.acm.org/uist2016/attending#transportation"> <i class="fa fa-subway fa-fw"></i> Transportation Guide</a> from Haneda or Narita airport.</li>
-          <li><a href="https://uist.acm.org/uist2016/schedule">UIST 2016 Program Schedule</a> is now available.</li>
-          <li><a href="https://www.youtube.com/playlist?list=PLqhXYFYmZ-VfgFlyej7vQvuQX3mHJlfRE" target="_balnk">UIST 2016 Video Previews</a> is now available on YouTube.</li>
+          <li><a href="https://uist.acm.org/uist2016/schedule"><i class="fa fa-calendar fa-fw"></i>UIST 2016 Program Schedule</a> is now available.</li>
+          <li><a href="https://www.youtube.com/playlist?list=PLqhXYFYmZ-VfgFlyej7vQvuQX3mHJlfRE" target="_balnk"><i class="fa fa-youtube-play fa-fw"></i>UIST 2016 Video Previews</a> is now available on YouTube.</li>
           <!--
           <li><a href="https://uist.acm.org/uist2016/attending#registration">The UIST registration page</a> is now open.
           </li>
