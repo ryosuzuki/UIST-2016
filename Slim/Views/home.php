@@ -2,6 +2,9 @@
 <div id="update-grid" class="ui stackable grid">
   <section id="update" class="ten wide column centered">
     <div class="ui icon message stackable grid" style="margin-left: 0.1rem !important;">
+      <div class="video sixteen wide column center">
+        <h1 style="color: red; text-align: center;">Registration is full. There is no on-site registration.</h1>
+      </div>
       <div class="icon two wide column">
         <i class="fa fa-bell-o fa-lg"></i>
       </div>
@@ -9,10 +12,11 @@
         <div class="text text-bold">
           Updates
         </div>
+
         <ul class="list text">
+          <li>Welcome to Tokyo! Here is the <a href="https://uist.acm.org/uist2016/attending#transportation"> <i class="fa fa-subway fa-fw"></i> Transportation Guide</a> from Haneda or Narita airport.</li>
           <li><a href="https://uist.acm.org/uist2016/schedule">UIST 2016 Program Schedule</a> is now available.</li>
-          <li><a href="https://www.youtube.com/playlist?list=PLqhXYFYmZ-VfgFlyej7vQvuQX3mHJlfRE" target="_balnk">UIST 2016 Video Previews</a> and the <a href="https://www.youtube.com/watch?v=8tX1XNq96pQ" target="_balnk">Trailer</a> are both now available on YouTube.</li>
-          <li><a href="https://uist.acm.org/uist2016/attending#registration">Registration is full.</a> There is no on-site registration.</li>
+          <li><a href="https://www.youtube.com/playlist?list=PLqhXYFYmZ-VfgFlyej7vQvuQX3mHJlfRE" target="_balnk">UIST 2016 Video Previews</a> is now available on YouTube.</li>
           <!--
           <li><a href="https://uist.acm.org/uist2016/attending#registration">The UIST registration page</a> is now open.
           </li>
