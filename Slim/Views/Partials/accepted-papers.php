@@ -5,11 +5,11 @@
     <div class="ui stackable">
 
       <br>
-      <table id="session-1-a" class="ui celled table">
+      <table id="session-1-a-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-1-a">
+              <a href="#session-1-a-list">
                 Session 1 A: Fabrication
               </a>
               <br>
@@ -69,11 +69,11 @@
 
       <br>
 
-      <table id="session-1-b" class="ui celled table">
+      <table id="session-1-b-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-1-b">
+              <a href="#session-1-b-list">
                 Session 1 B: Touch and Beyond
               </a>
               <br>
@@ -131,11 +131,11 @@
 
       <br>
 
-      <table id="session-2-a" class="ui celled table">
+      <table id="session-2-a-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-2-a">
+              <a href="#session-2-a-list">
                 Session 2 A: TUI
               </a>
               <br>
@@ -193,11 +193,11 @@
 
       <br>
 
-      <table id="session-2-b" class="ui celled table">
+      <table id="session-2-b-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-2-b">
+              <a href="#session-2-b-list">
                 Session 2 B: Interaction Technique
               </a>
               <br>
@@ -257,11 +257,11 @@
 
       <br>
 
-      <table id="session-3-a" class="ui celled table">
+      <table id="session-3-a-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-3-a">
+              <a href="#session-3-a-list">
                 Session 3 A: Touch It, Feel It
               </a>
               <br>
@@ -332,11 +332,11 @@
 
       <br>
 
-      <table id="session-3-b" class="ui celled table">
+      <table id="session-3-b-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-3-b">
+              <a href="#session-3-b-list">
                 Session 3 B: Dev Tools
               </a>
               <br>
@@ -395,11 +395,11 @@
 
       <br>
 
-      <table id="session-4-a" class="ui celled table">
+      <table id="session-4-a-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-4-a">
+              <a href="#session-4-a-list">
                 Session 4 A: Touch
               </a>
               <br>
@@ -458,11 +458,11 @@
 
       <br>
 
-      <table id="session-4-b" class="ui celled table">
+      <table id="session-4-b-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-4-b">
+              <a href="#session-4-b-list">
                 Session 4 B: Sensing
               </a>
               <br>
@@ -524,11 +524,11 @@
 
       <br>
 
-      <table id="session-5-a" class="ui celled table">
+      <table id="session-5-a-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-5-a">
+              <a href="#session-5-a-list">
                 Session 5 A: Viz
               </a>
               <br>
@@ -587,11 +587,11 @@
 
       <br>
 
-      <table id="session-5-b" class="ui celled table">
+      <table id="session-5-b-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-5-b">
+              <a href="#session-5-b-list">
                 Session 5 B: Physical Displays
               </a>
               <br>
@@ -662,11 +662,11 @@
 
       <br>
 
-      <table id="session-6-a" class="ui celled table">
+      <table id="session-6-a-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-6-a">
+              <a href="#session-6-a-list">
                 Session 6 A: Information & Obfusc**ion
               </a>
               <br>
@@ -714,11 +714,11 @@
 
       <br>
 
-      <table id="session-6-b" class="ui celled table">
+      <table id="session-6-b-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-6-b">
+              <a href="#session-6-b-list">
                 Session 6 B: Video & Audio
               </a>
               <br>
@@ -766,11 +766,11 @@
 
       <br>
 
-      <table id="session-7-a" class="ui celled table">
+      <table id="session-7-a-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-7-a">
+              <a href="#session-7-a-list">
                 Session 7 A: Fab with New Materials
               </a>
               <br>
@@ -829,11 +829,11 @@
 
       <br>
 
-      <table id="session-7-b" class="ui celled table">
+      <table id="session-7-b-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-7-b">
+              <a href="#session-7-b-list">
                 Session 7 B: Text Entry
               </a>
               <br>
@@ -892,11 +892,11 @@
 
       <br>
 
-      <table id="session-8-a" class="ui celled table">
+      <table id="session-8-a-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-8-a">
+              <a href="#session-8-a-list">
                 Session 8 A: Crowds
               </a>
               <br>
@@ -954,11 +954,11 @@
 
       <br>
 
-      <table id="session-8-b" class="ui celled table">
+      <table id="session-8-b-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-8-b">
+              <a href="#session-8-b-list">
                 Session 8 B: Electronics Printing & Prototyping
               </a>
               <br>
@@ -1018,11 +1018,11 @@
 
       <br>
 
-      <table id="session-9-a" class="ui celled table">
+      <table id="session-9-a-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-9-a">
+              <a href="#session-9-a-list">
                 Session 9 A: ~Reality
               </a>
               <br>
@@ -1071,11 +1071,11 @@
 
       <br>
 
-      <table id="session-9-b" class="ui celled table">
+      <table id="session-9-b-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-9-b">
+              <a href="#session-9-b-list">
                 Session 9 B: Creativity
               </a>
               <br>
@@ -1134,11 +1134,11 @@
 
       <br>
 
-      <table id="session-10-a" class="ui celled table">
+      <table id="session-10-a-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-10-a">
+              <a href="#session-10-a-list">
                 Session 10 A: Innovative Interaction
               </a>
               <br>
@@ -1197,11 +1197,11 @@
 
       <br>
 
-      <table id="session-10-b" class="ui celled table">
+      <table id="session-10-b-list" class="ui celled table">
         <thead class="text">
           <tr>
             <th>
-              <a href="#session-10-b">
+              <a href="#session-10-b-list">
                 Session 10 B: Gesture
               </a>
               <br>
