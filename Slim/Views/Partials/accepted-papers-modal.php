@@ -22,7 +22,7 @@
     <div class="ui horizontal divider"></div>
     <h3>Video Preview</h3>
     <div class="video-container">
-      <iframe id="video" width="560" height="300" src="https://www.youtube.com/embed/8tX1XNq96pQ" frameborder="0" allowfullscreen></iframe>
+      <iframe id="video" width="560" height="300" src="" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="ui horizontal divider"></div>
     <h3>Abstract</h3>
