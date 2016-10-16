@@ -154,12 +154,16 @@ body {
   cursor: pointer;
 }
 
-#schedule .paper.select {
-  background: #f3f4f5;
+#schedule .paper .title {
+  color: #4183c4;
 }
 
-#schedule .paper.select .title {
-  color: #1e70bf;
+#schedule .paper .authors {
+  font-weight: normal;
+}
+
+#schedule .paper.select {
+  background: #f3f4f5;
 }
 
 #schedule .session-location {
