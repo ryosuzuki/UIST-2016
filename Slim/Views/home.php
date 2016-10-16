@@ -14,7 +14,8 @@
         </div>
         <ul class="list text">
           <li><a href="https://uist.acm.org/uist2016/attending#transportation"> <i class="fa fa-subway fa-fw"></i> Transportation Guide</a> from Haneda or Narita airport.</li>
-          <li><a href="https://www.google.com/maps/d/u/0/viewer?mid=1-cxx5zr3vMjcHSaVQFPAHgftUxY" target="_balnk"><i class="fa fa-map-o fa-fw"></i>&nbsp;Area Map</a> around the conference venue</li>
+          <li><a href="https://www.google.com/maps/d/u/0/viewer?mid=1-cxx5zr3vMjcHSaVQFPAHgftUxY" target="_balnk"><i class="fa fa-map-o fa-fw"></i>&nbsp;Google Maps</a> around the conference venue.</li>
+          <li><a href="https://www.dropbox.com/s/1bbk76sbtv6fgn8/uist-POIs.pdf?dl=0" target="_balnk"><i class="fa fa-map-marker fa-fw"></i>&nbsp;Point of Interest</a> near the conference venue.</li>
         </ul>
         <br>
         <br>
@@ -22,8 +23,9 @@
           Updates
         </div>
         <ul class="list text">
-          <li><a href="#schedule"><i class="fa fa-calendar fa-fw"></i>UIST 2016 Program Schedule</a> is now available.</li>
-          <li><a href="https://www.youtube.com/playlist?list=PLqhXYFYmZ-VfgFlyej7vQvuQX3mHJlfRE" target="_balnk"><i class="fa fa-youtube-play fa-fw"></i>UIST 2016 Video Previews</a> is now available on YouTube.</li>
+          <li><a href="#oct-17"><i class="fa fa-calendar fa-fw"></i>&nbsp;Today's Schedule</a></li>
+          <li><a href="https://play.google.com/store/apps/details?id=com.confApp.android.uist2016&hl=en" target="_balnk"><i class="fa fa-android fa-fw"></i>&nbsp;Android app</a> and <a href="https://itunes.apple.com/us/app/uist-2016/id1161309041?mt=8&ign-mpt=uo%3D4" target="_balnk"><i class="fa fa-mobile fa-fw"></i>iPhone app</a> are now available.</li>
+          <li><a href="https://www.youtube.com/playlist?list=PLqhXYFYmZ-VfgFlyej7vQvuQX3mHJlfRE" target="_balnk"><i class="fa fa-youtube-play fa-fw"></i>&nbsp;UIST 2016 Video Previews</a> is now available on YouTube.</li>
           <!--
           <li><a href="https://uist.acm.org/uist2016/attending#registration">The UIST registration page</a> is now open.
           </li>
@@ -70,8 +72,6 @@
   </section>
 </div>
 
-  <script>
-  </script>
 
 <div id="welcome-grid" class="ui stackable grid">
   <section id="about" class="twelve wide column centered">

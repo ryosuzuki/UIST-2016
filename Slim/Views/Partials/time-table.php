@@ -38,7 +38,7 @@
   </tbody>
 </table>
 
-<table class="ui fixed celled table">
+<table id="oct-17" class="ui fixed celled table">
   <thead class="text">
     <tr>
       <th colspan="4">
@@ -210,7 +210,7 @@
 </table>
 
 
-<table class="ui fixed celled table">
+<table id="#oct-18" class="ui fixed celled table">
   <thead class="text">
     <tr>
       <th colspan="4">
@@ -396,7 +396,7 @@
   </tbody>
 </table>
 
-<table class="ui fixed celled table">
+<table id="oct-19" class="ui fixed celled table">
   <thead class="text">
     <tr>
       <th colspan="4">
@@ -553,7 +553,7 @@
   </tbody>
 </table>
 
-<table class="ui fixed celled table">
+<table id="oct-20" class="ui fixed celled table">
   <thead class="text">
     <tr>
       <th colspan="4">
