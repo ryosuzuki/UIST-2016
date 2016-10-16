@@ -137,6 +137,10 @@ body {
   border-bottom: solid #000 4px !important;
 }
 
+.ui.dimmer {
+  background: rgba(255, 255, 255, 0.85) !important;
+}
+
 #schedule table {
   margin-top: 40px;
   margin-bottom: 60px;
@@ -144,6 +148,18 @@ body {
 
 #schedule .session {
   font-size: 0.9em !important;
+}
+
+#schedule .paper {
+  cursor: pointer;
+}
+
+#schedule .paper.select {
+  background: #f3f4f5;
+}
+
+#schedule .paper.select .title {
+  color: #1e70bf;
 }
 
 #schedule .session-location {

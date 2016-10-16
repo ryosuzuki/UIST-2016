@@ -22,7 +22,7 @@
           Updates
         </div>
         <ul class="list text">
-          <li><a href="https://uist.acm.org/uist2016/schedule"><i class="fa fa-calendar fa-fw"></i>UIST 2016 Program Schedule</a> is now available.</li>
+          <li><a href="#schedule"><i class="fa fa-calendar fa-fw"></i>UIST 2016 Program Schedule</a> is now available.</li>
           <li><a href="https://www.youtube.com/playlist?list=PLqhXYFYmZ-VfgFlyej7vQvuQX3mHJlfRE" target="_balnk"><i class="fa fa-youtube-play fa-fw"></i>UIST 2016 Video Previews</a> is now available on YouTube.</li>
           <!--
           <li><a href="https://uist.acm.org/uist2016/attending#registration">The UIST registration page</a> is now open.

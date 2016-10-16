@@ -29,54 +29,14 @@
     <p id="abstract">Paper Abstract</p>
   </div>
   <div class="actions">
-    <div class="ui right close icon button">
+    <div class="ui right cancel button">
       Close
     </div>
   </div>
 </div>
 
 <script>
-$('#modal-button').click(function(event) {
-  let id = $(this).data('paper-id')
-  var paper = window.program.papers[id]
-  var modal = $('#paper-modal')
-  $('#title', modal).text(paper.title)
-  $('#type', modal).text(paper.type)
-  $('#abstract', modal).text(paper.abstract)
-  $('#video', modal).attr('src', 'https://www.youtube.com/embed/' + paper.video)
-  $('#authors', modal).empty()
-  var authors = paper.authors
-  for (var i=0; i<authors.length; i++) {
-    var author = authors[i]
-    var html = [
-      '<div class="item">',
-      '  <div class="content">',
-      '    <div class="header">',
-            author.name,
-      '    </div>',
-      '    <p>',
-      '      <span>',
-              author.affiliation,
-      '      </span>',
-      '      <br>',
-      '      <span>',
-              author.location,
-      '      </span>',
-      '    </p>',
-      '  </div>',
-      '</div>',
-    ].join('')
-    $('#authors', modal).append(html)
-  }
 
-  $('.ui.modal')
-  .modal({
-    transition: 'fade down',
-    inverted: true,
-    blurring: true
-  })
-  .modal('show');
-});
 </script>
 
 
