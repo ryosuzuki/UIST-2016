@@ -2,7 +2,7 @@
 <div id="update-grid" class="ui stackable grid">
   <section id="update" class="ten wide column centered">
     <div class="ui icon message stackable grid" style="margin-left: 0.1rem !important;">
-      <div class="video sixteen wide column center">
+      <div class="sixteen wide column center">
         <h1 style="color: #e46; text-align: center;">Registration is full. There is no on-site registration.</h1>
       </div>
       <div class="icon two wide column">

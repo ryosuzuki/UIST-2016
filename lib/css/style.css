@@ -103,7 +103,7 @@ body {
 
 .video-container {
   position:relative;
-  padding-bottom:56.25%;
+  padding-bottom:52%;
   padding-top:30px;
   height:0;
   overflow:hidden;
@@ -142,10 +142,28 @@ body {
   margin-bottom: 60px;
 }
 
+#schedule .session {
+  font-size: 0.9em !important;
+}
+
+#schedule .session-location {
+  float: right;
+}
+
 #menu-button {
   display: none;
 }
 
+#paper-modal #authors .item {
+  margin-left: 0em !important;
+  padding-left: 1em !important;
+  margin-right: 0em !important;
+  padding-right: 1em !important;
+}
+
+#paper-modal #abstract {
+  font-size: 1.2em;
+}
 
 #top-cover {
   position: relative;

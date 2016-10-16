@@ -1,0 +1,281 @@
+{
+  "session-1-a": {
+    "id": "1-A",
+    "title": "Fabrication",
+    "chair": {
+      "name": "Stefanie Mueller",
+      "affiliation": "Hasso Plattner Institute"
+    },
+    "papers": [
+      "uist4731",
+      "uist3223",
+      "uist1001",
+      "uist1189"
+    ]
+  },
+  "session-1-b": {
+    "id": "1-B",
+    "title": "Touch and Beyond",
+    "chair": {
+      "name": "Xiaojun Bi",
+      "affiliation": "Google / Stony Brook University"
+    },
+    "papers": [
+      "uist4470",
+      "uist2538",
+      "uist2051",
+      "uist4063"
+    ]
+  },
+  "session-2-a": {
+    "id": "2-A",
+    "title": "TUI",
+    "chair": {
+      "name": "Daniel Avahami ",
+      "affiliation": "FXPAL"
+    },
+    "papers": [
+      "uist4806",
+      "uist2890",
+      "uist2387",
+      "uist1731"
+    ]
+  },
+  "session-2-b": {
+    "id": "2-B",
+    "title": "Interaction Technique",
+    "chair": {
+      "name": "Jacob O. Wobbrock",
+      "affiliation": "University of Washington"
+    },
+    "papers": [
+      "uist4523",
+      "uist3356",
+      "uist2678",
+      "uist2373"
+    ]
+  },
+  "session-3-a": {
+    "id": "3-A",
+    "title": "Touch It, Feel It",
+    "chair": {
+      "name": "Hrvoje Benko",
+      "affiliation": "Microsoft Research"
+    },
+    "papers": [
+      "uist4646",
+      "uist3095",
+      "uist2378",
+      "uist3488",
+      "uist2457"
+    ]
+  },
+  "session-3-b": {
+    "id": "3-B",
+    "title": "Dev Tools",
+    "chair": {
+      "name": "Ranjitha Kumar",
+      "affiliation": "University of Illinois—Urbana Champaign"
+    },
+    "papers": [
+      "uist4158",
+      "uist2681",
+      "uist2420",
+      "uist1574"
+    ]
+  },
+  "session-4-a": {
+    "id": "4-A",
+    "title": "Touch",
+    "chair": {
+      "name": "Seok-Hyun Bae ",
+      "affiliation": "KAIST"
+    },
+    "papers": [
+      "uist4939",
+      "uist3714",
+      "uist1306",
+      "uist2777"
+    ]
+  },
+  "session-4-b": {
+    "id": "4-B",
+    "title": "Sensing",
+    "chair": {
+      "name": "Aaron Quigley",
+      "affiliation": "University of St. Andrews"
+    },
+    "papers": [
+      "uist4645",
+      "uist4226",
+      "uist2454",
+      "uist2626"
+    ]
+  },
+  "session-5-a": {
+    "id": "5-A",
+    "title": "Viz",
+    "chair": {
+      "name": "Fanny Chealier ",
+      "affiliation": "INRIA"
+    },
+    "papers": [
+      "uist4832",
+      "uist4362",
+      "uist3225",
+      "uist2534"
+    ]
+  },
+  "session-5-b": {
+    "id": "5-B",
+    "title": "Physical Displays",
+    "chair": {
+      "name": "Nicholas Chen",
+      "affiliation": "Microsoft Research"
+    },
+    "papers": [
+      "uist4904",
+      "uist3354",
+      "uist3084",
+      "uist3589",
+      "uist2948"
+    ]
+  },
+  "session-6-a": {
+    "id": "6-A",
+    "title": "Information & Obfusc**ion",
+    "chair": {
+      "name": "Parmit K. Chilana",
+      "affiliation": "Simon Fraser University"
+    },
+    "papers": [
+      "uist4594",
+      "uist4163",
+      "uist3160"
+    ]
+  },
+  "session-6-b": {
+    "id": "6-B",
+    "title": "Video & Audio",
+    "chair": {
+      "name": "Rubiat Habib Kazi",
+      "affiliation": "Autodesk Research"
+    },
+    "papers": [
+      "uist4096",
+      "uist3553",
+      "uist3220"
+    ]
+  },
+  "session-7-a": {
+    "id": "7-A",
+    "title": "Fab with New Materials",
+    "chair": {
+      "name": "Scott Hudson",
+      "affiliation": "Carnegie Mellon University"
+    },
+    "papers": [
+      "uist2588",
+      "uist2352",
+      "uist2014",
+      "uist1432"
+    ]
+  },
+  "session-7-b": {
+    "id": "7-B",
+    "title": "Text Entry",
+    "chair": {
+      "name": "Koji Yatani",
+      "affiliation": "University of Tokyo"
+    },
+    "papers": [
+      "uist4946",
+      "uist3526",
+      "uist1914",
+      "uist4718"
+    ]
+  },
+  "session-8-a": {
+    "id": "8-A",
+    "title": "Crowds",
+    "chair": {
+      "name": "Walter Lasecki",
+      "affiliation": "University of Michigan"
+    },
+    "papers": [
+      "uist4549",
+      "uist2629",
+      "uist2440",
+      "uist1584"
+    ]
+  },
+  "session-8-b": {
+    "id": "8-B",
+    "title": "Electronics Printing & Prototyping",
+    "chair": {
+      "name": "Otmar Hilliges",
+      "affiliation": "ETH Zurich"
+    },
+    "papers": [
+      "uist4574",
+      "uist3876",
+      "uist2213",
+      "uist1820"
+    ]
+  },
+  "session-9-a": {
+    "id": "9-A",
+    "title": "~Reality",
+    "chair": {
+      "name": "Yuta Sugiura",
+      "affiliation": "Keio University"
+    },
+    "papers": [
+      "uist2740",
+      "uist2202",
+      "uist1607"
+    ]
+  },
+  "session-9-b": {
+    "id": "9-B",
+    "title": "Creativity",
+    "chair": {
+      "name": "Joel Brandt",
+      "affiliation": "Adobe Research"
+    },
+    "papers": [
+      "uist4728",
+      "uist4633",
+      "uist4274",
+      "uist2549"
+    ]
+  },
+  "session-10-a":{
+    "id": "10-A",
+    "title": " Innovative Interaction",
+    "chair": {
+      "name": "Justin Matejka",
+      "affiliation": "Autodesk Research"
+    },
+    "papers": [
+      "uist3903",
+      "uist3520",
+      "uist2498",
+      "uist1366"
+    ]
+  },
+  "session-10-b":{
+    "id": "10-B",
+    "title": " Gesture",
+    "chair": {
+      "name": "Meredith Ringel Morris",
+      "affiliation": "Microsoft Research"
+    },
+    "papers": [
+      "uist4326",
+      "uist3820",
+      "uist3668",
+      "uist2105"
+    ]
+  }
+}
