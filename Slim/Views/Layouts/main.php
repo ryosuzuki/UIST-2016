@@ -36,6 +36,7 @@
     <script type='text/javascript' src="<?php echo BASE_PATH; ?>/bower_components/jquery/dist/jquery.js"></script>
     <script type='text/javascript' src="<?php echo BASE_PATH; ?>/bower_components/semantic-ui/dist/semantic.js"></script>
     <script type='text/javascript' src="<?php echo BASE_PATH; ?>/lib/js/site.js"></script>
+    <script src="<?php echo BASE_PATH; ?>/lib/js/data.js"></script>
     <script src="<?php echo BASE_PATH; ?>/lib/js/time-table.js"></script>
 
     <div id="fb-root"></div>
