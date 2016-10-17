@@ -8,14 +8,6 @@
       <i class="fa fa-bell-o icon"></i>
       <div class="content">
         <div class="text text-bold">
-          IMPORTANT NOTICE: Book your hotel early !
-        </div>
-        <div class="text">
-          If you plan to attend (or consider attending) the UIST2016 conference in Tokyo, please book your hotel early, ideally NOW. Because of extreme shortage of hotel rooms in Tokyo, it can be difficult to find reasonable hotels near the conference venue later. You can cancel the hotel room afterwards, so we recommend you to book your hotel room first. See <a href="#hotel-booking">Hotel Booking</a> to learn more.
-        </div>
-        <br>
-        <br>
-        <div class="text text-bold">
           EXTRA EVENT: The University of Tokyo Open Labs
         </div>
         <div class="text">
