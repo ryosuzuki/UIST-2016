@@ -578,5 +578,4 @@
 
 <?php $app->render('Partials/accepted-papers-modal.php'); ?>
 
-<script src="<?php echo BASE_PATH; ?>/lib/js/time-table.js"></script>
 
