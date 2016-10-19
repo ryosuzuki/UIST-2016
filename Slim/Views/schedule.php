@@ -12,7 +12,7 @@
 </div>
 
 
-<?php $app->render('Partials/accepted-papers.php'); ?>
+<?php $app->render('Partials/awards.php'); ?>
 
 <?php $app->render('Partials/accepted-posters.php'); ?>
 

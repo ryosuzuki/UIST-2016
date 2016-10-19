@@ -564,7 +564,7 @@
   <tbody class="text">
     <tr>
       <td>
-        10:00 - 12:00
+        10:00 - 13:00
       </td>
       <td colspan="2">
         <a href="https://utopenlab.github.io/" target="_blank">The University of Tokyo Open Labs</a>
