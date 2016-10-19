@@ -26,6 +26,7 @@
           <li><a href="#oct-19"><i class="fa fa-calendar fa-fw"></i>&nbsp;Today's Schedule</a> <b>(October 19, Wed)</b></li>
           <li><a href="https://play.google.com/store/apps/details?id=com.confApp.android.uist2016&hl=en" target="_balnk"><i class="fa fa-android fa-fw"></i>&nbsp;Android app</a> and <a href="https://itunes.apple.com/us/app/uist-2016/id1161309041?mt=8&ign-mpt=uo%3D4" target="_balnk"><i class="fa fa-mobile fa-fw"></i>iPhone app</a> are now available.</li>
           <li><a href="https://www.youtube.com/playlist?list=PLqhXYFYmZ-VfgFlyej7vQvuQX3mHJlfRE" target="_balnk"><i class="fa fa-youtube-play fa-fw"></i>&nbsp;UIST 2016 Video Previews</a> is now available on YouTube.</li>
+          <li><a href="https://uist.acm.org/uist2016/schedule#awards"><i class="fa fa-trophy fa-fw"></i>&nbsp;UIST 2016 Awards</a> announcement</li>
           <!--
           <li><a href="https://uist.acm.org/uist2016/attending#registration">The UIST registration page</a> is now open.
           </li>
