@@ -11,6 +11,7 @@
         <i class="fa fa-bell-o fa-lg"></i>
       </div>
       <div class="content twelve wide column">
+        <!--
         <div class="text text-bold">
           Welcome to Tokyo!
         </div>
@@ -21,6 +22,7 @@
         </ul>
         <br>
         <br>
+        -->
         <div class="text text-bold">
           Updates
         </div>
