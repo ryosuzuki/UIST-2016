@@ -90,7 +90,12 @@
           <h1>Best Talk Awards</h1>
           <ul>
             <li>
-              Coming soon.
+              <b>CircuitStack: Supporting Rapid Prototyping and Evolution of Electronic Circuits</b>
+              <p>Chiuan Wang, Hsuan-Ming Yeh, Bryan Wang, Te-Yen Wu, Hsin-Ruey Tsai, Rong-Hao Liang, Yi-Ping Hung, Mike Y. Chen</p>
+            </li>
+            <li>
+              <b>ViBand: High-Fidelity Bio-Acoustic Sensing Using Commodity Smartwatch Accelerometers</b>
+              <p>Gierad Laput, Robert Xiao, Chris Harrison</p>
             </li>
           </ul>
 
@@ -157,23 +162,42 @@
           <ul>
             <li>
               <b>Robin Hood</b> (Best Implementation award)
-            </li>
-            <li>
-              <b>Ping-EMS-pong</b> (Best Implementation honorable mention)
+              <p>Shan-Yuan Teng Yung-Da Lin and Yi-Chi Liao</p>
             </li>
             <li>
               <b>Supersonic</b> (Most Creative Interface award)
+              <p>Mondo Saito, Yuka Hirose, Keisuke Nohara</p>
             </li>
             <li>
-              <b>Facecook</b> (Most Creative Interface honorable mention)
-            </li>
-            <li>
-              <b>Vibrato te-a-a-a-a-a-a-a-aam!</b> (People choice award)
+              <b>Vibrato</b> (People choice award)
+              <p>Eisuke Fujinawa, Ryohei Fushimi</p>
             </li>
           </ul>
 
+          <h1>Student Innovation Competition Honorable Mentions</h1>
+          <ul>
+            <li>
+              <b>Ping-EMS-pong</b> (Best Implementation honorable mention)
+              <p>Sujeath Pareddy</p>
+            </li>
+            <li>
+              <b>Facecook</b> (Most Creative Interface honorable mention)
+              <p>Junichi Shimizu, Takuro Nakao, Haruna Fushimi, YuanLing Feng</p>
+            </li>
+            <li>
+              <b>bioSync</b> (Advancement in EMS hardware)
+              <p>Jun Nishida</p>
+            </li>
+          </ul>
 
-          <h1>Lasting Impact Awards</h1>
+          <h1>Best Student Volunteer Award</h1>
+          <ul>
+            <li>
+              Punpongsanon Parinya (Osaka University)
+            </li>
+          </ul>
+
+          <h1>Lasting Impact Award</h1>
           <ul>
             <li>
               <b>
