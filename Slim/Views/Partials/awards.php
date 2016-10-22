@@ -164,7 +164,7 @@
             <p>Shan-Yuan Teng Yung-Da Lin and Yi-Chi Liao</p>
           </li>
           <li>
-            <b>Supersonic</b> (Most Creative Interface award)
+            <b>SuperSonicShooter</b> (Most Creative Interface award)
             <p>Mondo Saito, Yuka Hirose, Keisuke Nohara</p>
           </li>
           <li>
